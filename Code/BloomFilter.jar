@@ -1,0 +1,199 @@
+package com.mycompany.bloomfilter;
+
+import com.google.common.hash.BloomFilter;
+import com.google.common.hash.Funnels;
+import com.google.common.base.Charsets;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.store.FSDirectory;
+
+import java.io.*;
+import java.nio.file.*;
+import java.util.*;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
+import java.util.zip.ZipOutputStream;
+
+public class BloomServer {
+
+    public static void main(String[] args) {
+        // Define root directories
+        Path storageRoot = Paths.get("/srv/espresso/storage/");
+        Path podsRoot = Paths.get("/srv/espresso/storage/ESPRESSO/metaindex");
+
+        try {
+            // Temporary directory for unzipping files
+            Path tempDir = Paths.get("temp_indexes");
+            Files.createDirectories(tempDir);
+
+            // List to hold Bloom filter files for zipping
+            List<Path> bloomFilesToZip = new ArrayList<>();
+
+            // Process ZIP files in the storage root
+            processDirectory(storageRoot, bloomFilesToZip, tempDir, false);
+
+            // Process -pods.zip files in the pods root
+            //processDirectory(podsRoot, null, tempDir, true);
+
+            // Group and zip Bloom filters
+            if (!bloomFilesToZip.isEmpty()) {
+                groupAndZipBloomFilters(bloomFilesToZip, podsRoot);
+            }
+
+            // Clean up temporary directory
+            deleteDirectory(tempDir.toFile());
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void processDirectory(Path root, List<Path> bloomFilesToZip, Path tempDir, boolean isPods) throws IOException {
+        Files.walk(root)
+            .filter(path -> path.toString().endsWith(".zip"))
+            .forEach(zipFilePath -> {
+                // Skip -servers ZIP files
+                if (zipFilePath.getFileName().toString().contains("-servers")) {
+                    System.out.println("Skipping: " + zipFilePath);
+                    return;
+                }
+
+                System.out.println("Processing: " + zipFilePath);
+
+                try {
+                    // Unzip and process the Lucene index
+                    Path extractedPath = unzip(zipFilePath.toFile(), tempDir);
+
+                    // Create Bloom filter
+                    BloomFilter<CharSequence> bloomFilter = BloomFilter.create(Funnels.stringFunnel(Charsets.UTF_8), 184_784, 0.69);
+                    processLuceneIndex(extractedPath, bloomFilter);
+
+                    // Determine the Bloom filter file path
+                    Path bloomFilterPath = getBloomFilterFilePath(zipFilePath, isPods);
+                    if (bloomFilterPath != null) {
+                        saveBloomFilter(bloomFilter, bloomFilterPath);
+
+                        // Add to the zip list if not a pods filter
+                        if (!isPods && bloomFilesToZip != null) {
+                            bloomFilesToZip.add(bloomFilterPath);
+                        }
+                    }
+
+                } catch (Exception e) {
+                    System.err.println("Error processing file " + zipFilePath + ": " + e.getMessage());
+                    e.printStackTrace();
+                }
+            });
+    }
+
+    private static Path getBloomFilterFilePath(Path zipFile, boolean isPods) {
+        String originalName = zipFile.getFileName().toString().replace(".zip", "");
+        if (isPods) {
+            return zipFile.getParent().resolve(originalName + ".bloom");
+        } else {
+            Path grandparent = zipFile.getParent().getParent();
+            if (grandparent != null) {
+                String grandparentName = grandparent.getFileName().toString();
+                return zipFile.getParent().resolve(originalName + "-" + grandparentName + ".bloom");
+            }
+        }
+        return null;
+    }
+
+    private static void saveBloomFilter(BloomFilter<CharSequence> bloomFilter, Path bloomFilterFilePath) throws IOException {
+        try (DataOutputStream dos = new DataOutputStream(new FileOutputStream(bloomFilterFilePath.toFile()))) {
+            bloomFilter.writeTo(dos);
+        }
+        System.out.println("Saved Bloom filter to " + bloomFilterFilePath);
+    }
+
+    private static Path unzip(File zipFile, Path outputDir) throws IOException {
+        Path zipOutputDir = outputDir.resolve(zipFile.getName().replace(".zip", ""));
+        Files.createDirectories(zipOutputDir);
+
+        try (ZipInputStream zis = new ZipInputStream(new FileInputStream(zipFile))) {
+            ZipEntry entry;
+            while ((entry = zis.getNextEntry()) != null) {
+                Path entryPath = zipOutputDir.resolve(entry.getName());
+                if (entry.isDirectory()) {
+                    Files.createDirectories(entryPath);
+                } else {
+                    Files.createDirectories(entryPath.getParent());
+                    try (OutputStream os = Files.newOutputStream(entryPath)) {
+                        zis.transferTo(os);
+                    }
+                }
+                zis.closeEntry();
+            }
+        }
+        return zipOutputDir;
+    }
+
+    private static void processLuceneIndex(Path indexPath, BloomFilter<CharSequence> bloomFilter) throws IOException {
+        try (IndexReader reader = DirectoryReader.open(FSDirectory.open(indexPath))) {
+            for (int i = 0; i < reader.leaves().size(); i++) {
+                var leafReader = reader.leaves().get(i).reader();
+                var terms = leafReader.terms("content");
+                if (terms != null) {
+                    var termsEnum = terms.iterator();
+                    while (termsEnum.next() != null) {
+                        bloomFilter.put(termsEnum.term().utf8ToString());
+                    }
+                }
+            }
+        }
+    }
+
+    private static void groupAndZipBloomFilters(List<Path> bloomFiles, Path rootDirectory) throws IOException {
+        
+    Path zipPath = Paths.get("/srv/espresso/storage/");
+    // Map to group files by the original name of the ZIP
+    Map<String, List<Path>> groupedFiles = new HashMap<>();
+
+    for (Path bloomFile : bloomFiles) {
+        // Skip files with "-pods" in their name
+        if (bloomFile.getFileName().toString().contains("-pods")) {
+            System.out.println("Skipping Bloom filter with '-pods': " + bloomFile);
+            continue;
+        }
+
+        // Extract the original ZIP file name (XYZ)
+        String originalZipName = bloomFile.getFileName().toString().split("-")[0];
+
+        // Group files by original name
+        groupedFiles.computeIfAbsent(originalZipName, k -> new ArrayList<>()).add(bloomFile);
+    }
+
+    for (Map.Entry<String, List<Path>> entry : groupedFiles.entrySet()) {
+        String zipName = entry.getKey() + "-bloom.zip"; // Use original ZIP name for the ZIP file
+        Path zipFilePath = rootDirectory.resolve(zipName);
+
+        try (ZipOutputStream zipOut = new ZipOutputStream(new FileOutputStream(zipFilePath.toFile()))) {
+            for (Path bloomFile : entry.getValue()) {
+                try (FileInputStream fis = new FileInputStream(bloomFile.toFile())) {
+                    // Keep the original Bloom file names inside the ZIP
+                    ZipEntry zipEntry = new ZipEntry(bloomFile.getFileName().toString());
+                    zipOut.putNextEntry(zipEntry);
+                    fis.transferTo(zipOut);
+                    zipOut.closeEntry();
+                }
+            }
+        }
+
+        System.out.println("Created ZIP file: " + zipFilePath);
+    }
+}
+
+
+    private static void deleteDirectory(File directory) {
+        if (directory.isDirectory()) {
+            File[] files = directory.listFiles();
+            if (files != null) {
+                for (File file : files) {
+                    deleteDirectory(file);
+                }
+            }
+        }
+        directory.delete();
+    }
+}
