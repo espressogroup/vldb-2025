@@ -1,0 +1,103 @@
+Claris36 Kunde533
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2003-09-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2004-09-11 -            : Shellfish (substance)
+  2004-09-11 -            : Aspirin
+  2004-09-11 -            : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-08-21[STOPPED] : Seasonique 91 Day Pack
+  2004-09-11[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2004-09-11[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-07-24 -            : Anemia (disorder)
+  2024-07-24 -            : Normal pregnancy
+  2022-11-16 -            : Limited social contact (finding)
+  2022-11-16 -            : Transport problem (finding)
+  2021-11-10 -            : Stress (finding)
+  2021-11-10 -            : Lack of access to transportation (finding)
+  2021-11-10 -            : Full-time employment (finding)
+  2021-11-10 -            : Received higher education (finding)
+  2021-11-10 -            : Housing unsatisfactory (finding)
+  2021-11-10 -            : Medication review due (situation)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2024-07-24[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2004-08-31[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-07-24 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.2 %
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - MCV [Entitic volume] by Automated count  87.8 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 219.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 375.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-07-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2024-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 375.4 fL
+  2024-07-24 : Platelets [#/volume] in Blood by Automated count 219.1 10*3/uL
+  2024-07-24 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2024-07-24 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2024-07-24 : MCH [Entitic mass] by Automated count    31.0 pg
+  2024-07-24 : MCV [Entitic volume] by Automated count  87.8 fL
+  2024-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2024-07-24 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2024-07-24 : Hematocrit [Volume Fraction] of Blood    34.2 %
+  2024-07-24 : Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-07-24 : Peripheral blood smear interpretation
+  2024-07-24 : Physical examination procedure (procedure) for Normal pregnancy
+  2024-07-24 : Urine protein test for Normal pregnancy
+  2024-07-24 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2024-07-24 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2024-07-24 : Rubella screening for Normal pregnancy
+  2024-07-24 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2024-07-24 : Urine screening test for diabetes for Normal pregnancy
+  2024-07-24 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2024-07-24 : Urine culture for Normal pregnancy
+  2024-07-24 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2024-07-24 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2024-07-24 : Chlamydia antigen test for Normal pregnancy
+  2024-07-24 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2024-07-24 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2024-07-24 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2024-07-24 : Blood group typing (procedure) for Normal pregnancy
+  2024-07-24 : Auscultation of the fetal heart for Normal pregnancy
+  2024-07-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2024-07-24 : Ultrasound scan for fetal viability for Normal pregnancy
+  2024-07-24 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-07-24 (Dr. Leif534 Hane680) : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Anemia (disorder)
+2024-07-24 (Dr. Leif534 Hane680) : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Normal pregnancy
+2022-11-16 (Dr. Glenn0 Keeling57) : Encounter at WELLNESS WITH LANEY LLC
+2022-08-21 (Dr. Leif534 Hane680) : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Contraception care (regime/therapy)
+2021-11-10 (Dr. Glenn0 Keeling57) : Encounter at WELLNESS WITH LANEY LLC
+2004-09-11 (Dr. Leif534 Hane680) : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Allergy to substance (finding)
+2004-08-31 (Dr. Leif534 Hane680) : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Shellfish (substance)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

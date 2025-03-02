@@ -1,0 +1,212 @@
+Claris36 Kenya524 Farrell962
+============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 60
+Birth Date:          1964-01-31
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-04-07[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2024-03-29[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2024-03-29[CURRENT] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2024-03-29[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2023-04-08[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2023-03-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2023-03-24[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-03-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2022-04-08[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1997-08-29[CURRENT] : ferrous sulfate 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-03-29 -            : Reports of violence in the environment (finding)
+  2023-03-24 -            : Stress (finding)
+  2023-03-24 -            : Medication review due (situation)
+  2022-03-18 - 2024-03-29 : Social isolation (finding)
+  2022-03-18 -            : Not in labor force (finding)
+  2022-03-18 -            : Hyperlipidemia
+  2021-03-12 -            : Limited social contact (finding)
+  2020-03-06 -            : Metabolic syndrome X (disorder)
+  2014-01-31 -            : Essential hypertension (disorder)
+  2007-09-12 -            : Past pregnancy history of miscarriage (situation)
+  2000-11-29 -            : Chronic sinusitis (disorder)
+  1997-08-08 -            : Anemia (disorder)
+  1997-08-08 -            : Prediabetes
+  1995-04-14 -            : Has a criminal record (finding)
+  1995-04-14 -            : Body mass index 30+ - obesity (finding)
+  1983-04-01 -            : Lack of access to transportation (finding)
+  1982-03-26 -            : Transport problem (finding)
+  1982-03-26 -            : Received certificate of high school equivalency (finding)
+  1979-03-09 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-04-08[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2014-01-31[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1997-08-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-04-07 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 195.6 mg/dL
+           - Triglycerides                            169.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 42.0 mg/dL
+  2024-04-07 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           92.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     19.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.0 mg/dL
+           - Calcium [Mass/volume] in Blood           10.1 mg/dL
+           - Sodium [Moles/volume] in Blood           143.2 mmol/L
+           - Potassium [Moles/volume] in Blood        3.7 mmol/L
+           - Chloride [Moles/volume] in Blood         105.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 87.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 101.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.6 U/L
+  2024-03-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-03-29 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  92.7 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 367.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 319.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2024-03-29 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           64.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.4 mg/dL
+           - Sodium [Moles/volume] in Blood           138.1 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         107.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 24.8 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-04-07 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 42.0 mg/dL
+  2024-04-07 : Low Density Lipoprotein Cholesterol      87.4 mg/dL
+  2024-04-07 : Triglycerides                            169.3 mg/dL
+  2024-04-07 : Cholesterol [Mass/volume] in Serum or Plasma 195.6 mg/dL
+  2024-04-07 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.6 U/L
+  2024-04-07 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.0 U/L
+  2024-04-07 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 101.9 U/L
+  2024-04-07 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2024-04-07 : Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+  2024-04-07 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2024-04-07 : Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+  2024-04-07 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 87.7 mL/min
+  2024-04-07 : Carbon dioxide, total [Moles/volume] in Blood 27.2 mmol/L
+  2024-04-07 : Chloride [Moles/volume] in Blood         105.6 mmol/L
+  2024-04-07 : Potassium [Moles/volume] in Blood        3.7 mmol/L
+  2024-04-07 : Sodium [Moles/volume] in Blood           143.2 mmol/L
+  2024-04-07 : Calcium [Mass/volume] in Blood           10.1 mg/dL
+  2024-04-07 : Creatinine [Mass/volume] in Blood        3.0 mg/dL
+  2024-04-07 : Urea nitrogen [Mass/volume] in Blood     19.6 mg/dL
+  2024-04-07 : Glucose [Mass/volume] in Blood           92.8 mg/dL
+  2024-03-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-03-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29840 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  289 Fisher Light Unit 7 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-03-29 : Tobacco smoking status                   Ex-smoker (finding) 
+  2024-03-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2024-03-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 319.0 fL
+  2024-03-29 : Platelets [#/volume] in Blood by Automated count 367.2 10*3/uL
+  2024-03-29 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2024-03-29 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2024-03-29 : MCH [Entitic mass] by Automated count    31.3 pg
+  2024-03-29 : MCV [Entitic volume] by Automated count  92.7 fL
+  2024-03-29 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2024-03-29 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2024-03-29 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2024-03-29 : Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+  2024-03-29 : Carbon dioxide, total [Moles/volume] in Blood 24.8 mmol/L
+  2024-03-29 : Chloride [Moles/volume] in Blood         107.4 mmol/L
+  2024-03-29 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  2024-03-29 : Sodium [Moles/volume] in Blood           138.1 mmol/L
+  2024-03-29 : Calcium [Mass/volume] in Blood           9.4 mg/dL
+  2024-03-29 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2024-03-29 : Urea nitrogen [Mass/volume] in Blood     7.2 mg/dL
+  2024-03-29 : Glucose [Mass/volume] in Blood           64.7 mg/dL
+  2024-03-29 : Respiratory rate                         16.0 /min
+  2024-03-29 : Heart rate                               61.0 /min
+  2024-03-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2024-03-29 : Body mass index (BMI) [Ratio]            30.4 kg/m2
+  2024-03-29 : Body Weight                              79.2 kg
+  2024-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2024-03-29 : Body Height                              161.4 cm
+  2024-03-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-03-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2024-03-29 : Depression screening (procedure)
+  2024-03-29 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-03-29 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-04-07 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Hyperlipidemia
+2024-03-29 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2023-04-08 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Hyperlipidemia
+2023-03-24 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2022-04-08 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Hyperlipidemia
+2022-03-18 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2021-03-12 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2020-03-06 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2014-01-31 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+2007-09-12 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Blighted ovum
+2000-11-29 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute bacterial sinusitis (disorder)
+1997-08-29 (Dr. Houston994 Funk324) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Anemia (disorder)
+1997-08-08 (Dr. Paulene52 Kihn564) : Encounter at CARECENTRAL URGENT CARE MEDICAL GROUP PC
+1995-04-14 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+1983-04-01 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+1982-03-26 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+1979-03-09 (Dr. Dorris197 Rolfson709) : Encounter at BROCKTON NEIGHBORHOOD HEALTH CENTER, INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

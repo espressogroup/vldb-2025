@@ -1,0 +1,56 @@
+Claris36 Koss676
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 32
+Birth Date:          1991-10-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-01-12[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2023-11-14[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2023-01-13[CURRENT] : Vitamin B12 5 MG/ML Injectable Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-01-12 - 2024-01-24 : Streptococcal sore throat (disorder)
+  2023-11-14 - 2023-12-07 : Viral sinusitis (disorder)
+  2023-01-06 -            : Part-time employment (finding)
+  2023-01-06 -            : Anemia (disorder)
+  2023-01-06 -            : Medication review due (situation)
+  2020-01-03 -            : Prediabetes
+  2016-12-30 -            : Stress (finding)
+  2014-11-02 -            : Past pregnancy history of miscarriage (situation)
+  2009-12-18 -            : Received higher education (finding)
+  2009-12-18 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-01-03[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-01-12 : Body temperature                         39.3 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-01-12 (Dr. Miyoko154 Paucek755) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Streptococcal sore throat (disorder)
+2023-11-14 (Dr. Miyoko154 Paucek755) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Viral sinusitis (disorder)
+2023-01-13 (Dr. Miyoko154 Paucek755) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Anemia (disorder)
+2023-01-06 (Dr. Quentin28 Fritsch593) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2020-01-03 (Dr. Quentin28 Fritsch593) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2016-12-30 (Dr. Quentin28 Fritsch593) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2014-11-02 (Dr. Miyoko154 Paucek755) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Complete miscarriage (disorder)
+2009-12-18 (Dr. Quentin28 Fritsch593) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

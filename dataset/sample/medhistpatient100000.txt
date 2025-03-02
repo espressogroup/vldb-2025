@@ -1,0 +1,128 @@
+Claris36 Imelda608 Quitzon246
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 61
+Birth Date:          1962-09-10
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-11-02[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2020-11-02[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2020-11-02[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2020-11-02[CURRENT] : Clopidogrel 75 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-11-13 -            : Stress (finding)
+  2023-11-13 -            : Part-time employment (finding)
+  2021-11-01 -            : Medication review due (situation)
+  2020-11-28 -            : History of coronary artery bypass grafting (situation)
+  2020-11-05 -            : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2020-10-26 - 2023-11-13 : Full-time employment (finding)
+  2020-10-26 -            : Ischemic heart disease (disorder)
+  2004-09-20 -            : Body mass index 30+ - obesity (finding)
+  1983-01-15 -            : Past pregnancy history of miscarriage (situation)
+  1981-11-09 -            : Transport problem (finding)
+  1980-11-03 -            : Lack of access to transportation (finding)
+  1980-11-03 -            : Received certificate of high school equivalency (finding)
+  1980-11-03 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-11-13 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2023-11-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-11-13 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-11-13 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+           - MCV [Entitic volume] by Automated count  91.2 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 176.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2023-11-13 : Total score [DAST-10]                    1.0 {score}
+  2023-11-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-11-13 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-11-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 13306 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  979 Lang Path Suite 40 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-11-13 : Tobacco smoking status                   Ex-smoker (finding) 
+  2023-11-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2023-11-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 176.4 fL
+  2023-11-13 : Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+  2023-11-13 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2023-11-13 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2023-11-13 : MCH [Entitic mass] by Automated count    31.4 pg
+  2023-11-13 : MCV [Entitic volume] by Automated count  91.2 fL
+  2023-11-13 : Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+  2023-11-13 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2023-11-13 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2023-11-13 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2023-11-13 : Respiratory rate                         15.0 /min
+  2023-11-13 : Heart rate                               68.0 /min
+  2023-11-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2023-11-13 : Body mass index (BMI) [Ratio]            29.7 kg/m2
+  2023-11-13 : Body Weight                              74.3 kg
+  2023-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-11-13 : Body Height                              158.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2023-11-13 : Screening for drug abuse (procedure)
+  2023-11-13 : Assessment of substance use (procedure)
+  2023-11-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-11-13 : Depression screening (procedure)
+  2023-11-13 : Assessment of anxiety (procedure)
+  2023-11-13 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-11-13 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2023-11-13 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2023-11-13 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+2021-11-01 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+2020-11-28 (Dr. Gabriel934 Reilly981) : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+2020-11-05 (Dr. Gabriel934 Reilly981) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2020-10-26 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+2004-09-20 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+1983-01-15 (Dr. Lloyd546 Wuckert783) : Encounter at NEW ENGLAND SINAI HOSPITAL : Encounter for Blighted ovum
+1981-11-09 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+1980-11-03 (Dr. Esteban536 Burgos636) : Encounter at ACTIVATED BY WELLNESS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

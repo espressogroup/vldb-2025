@@ -1,0 +1,160 @@
+Claris36 Lanie389 Pagac496
+==========================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1986-10-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-04-24[CURRENT] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-09-07 - 2023-09-15 : Acute viral pharyngitis (disorder)
+  2023-08-02 - 2024-03-06 : Normal pregnancy
+  2020-12-16 - 2023-12-20 : Victim of intimate partner abuse (finding)
+  2017-12-13 - 2023-12-20 : Stress (finding)
+  2014-12-10 -            : Full-time employment (finding)
+  2014-12-10 -            : Medication review due (situation)
+  2014-01-31 -            : Chronic neck pain (finding)
+  2014-01-31 -            : Chronic low back pain (finding)
+  2014-01-31 -            : Chronic pain (finding)
+  2008-12-03 - 2023-12-20 : Limited social contact (finding)
+  2005-11-30 -            : Social isolation (finding)
+  2004-11-24 -            : Received certificate of high school equivalency (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2023-08-02[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-12-20 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-12-20 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 153.0 mg/dL
+           - Triglycerides                            140.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.1 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2023-12-20 : Total score [HARK]                       0.0 {score}
+  2023-12-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 199291 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  188 Walter Flat Unit 27 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     Black/African American 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-12-20 : Tobacco smoking status                   Ex-smoker (finding) 
+  2023-12-20 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.7 mg/dL
+  2023-12-20 : Low Density Lipoprotein Cholesterol      65.1 mg/dL
+  2023-12-20 : Triglycerides                            140.9 mg/dL
+  2023-12-20 : Cholesterol [Mass/volume] in Serum or Plasma 153.0 mg/dL
+  2023-12-20 : Respiratory rate                         14.0 /min
+  2023-12-20 : Heart rate                               62.0 /min
+  2023-12-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 98.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2023-12-20 : Body mass index (BMI) [Ratio]            24.7 kg/m2
+  2023-12-20 : Body Weight                              63.4 kg
+  2023-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-12-20 : Body Height                              160.1 cm
+  2023-09-07 : Body temperature                         37.1 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-04-17 : Depression screening
+  2024-04-17 : Physical examination procedure (procedure)
+  2024-03-06 : Childbirth for Normal pregnancy
+  2024-03-06 : Augmentation of labor for Normal pregnancy
+  2024-02-21 : Auscultation of the fetal heart for Normal pregnancy
+  2024-02-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2024-02-21 : Streptococcus pneumoniae group B antigen assay for Normal pregnancy
+  2024-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2024-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2023-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-12-27 : Urine screening for glucose for Normal pregnancy
+  2023-12-27 : Administration of diphtheria, pertussis, and tetanus vaccine for Normal pregnancy
+  2023-12-27 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2023-12-20 : Screening for domestic abuse (procedure)
+  2023-12-20 : Assessment of health and social care needs (procedure)
+  2023-11-22 : Auscultation of the fetal heart for Normal pregnancy
+  2023-11-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-10-25 : Auscultation of the fetal heart for Normal pregnancy
+  2023-10-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-09-27 : Auscultation of the fetal heart for Normal pregnancy
+  2023-09-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-09-27 : AFP test - antenatal for Normal pregnancy
+  2023-09-27 : Fetal anatomy study for Normal pregnancy
+  2023-08-30 : Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure) for Normal pregnancy
+  2023-08-30 : Auscultation of the fetal heart for Normal pregnancy
+  2023-08-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-08-02 : Physical examination procedure (procedure) for Normal pregnancy
+  2023-08-02 : Urine protein test for Normal pregnancy
+  2023-08-02 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2023-08-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2023-08-02 : Rubella screening for Normal pregnancy
+  2023-08-02 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2023-08-02 : Urine screening test for diabetes for Normal pregnancy
+  2023-08-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2023-08-02 : Urine culture for Normal pregnancy
+  2023-08-02 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2023-08-02 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2023-08-02 : Chlamydia antigen test for Normal pregnancy
+  2023-08-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2023-08-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2023-08-02 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2023-08-02 : Blood group typing (procedure) for Normal pregnancy
+  2023-08-02 : Auscultation of the fetal heart for Normal pregnancy
+  2023-08-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-08-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2023-08-02 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-12-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-04-24 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Contraception care (regime/therapy)
+2024-04-17 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2024-03-06 (Dr. Ezra452 Torp761) : Encounter at BETH ISRAEL LAHEY HEALTH AT HOME : Encounter for Normal pregnancy
+2024-02-21 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2024-01-24 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-12-27 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-12-20 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2023-11-22 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-10-25 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-09-27 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-09-07 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Acute viral pharyngitis (disorder)
+2023-08-30 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2023-08-02 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2020-12-16 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2017-12-13 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2014-12-10 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2014-01-31 (Dr. Luther918 Jakubowski832) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Chronic pain (finding)
+2008-12-03 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2005-11-30 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+2004-11-24 (Dr. Anh979 Schroeder447) : Encounter at FAMILY PRACTICE GROUP PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

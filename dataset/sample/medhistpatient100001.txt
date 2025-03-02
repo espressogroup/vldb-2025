@@ -1,0 +1,491 @@
+Claris36 Karl184 Konopelski743
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 54
+Birth Date:          1969-08-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2024-06-05[CURRENT] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2024-06-05[CURRENT] : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2024-03-20[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2024-03-20[STOPPED] : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2024-03-13[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2024-03-13[STOPPED] : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2023-12-13[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-12-13[STOPPED] : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2023-03-15[STOPPED] : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-03-15[STOPPED] : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-06-05 -            : Part-time employment (finding)
+  2024-03-13 - 2024-06-05 : Full-time employment (finding)
+  2024-03-13 -            : Medication review due (situation)
+  2023-12-13 - 2024-03-13 : Part-time employment (finding)
+  2023-12-13 - 2023-12-13 : Medication review due (situation)
+  2023-03-15 - 2023-12-13 : Full-time employment (finding)
+  2022-12-14 -            : Stress (finding)
+  2020-02-26 -            : Has a criminal record (finding)
+  2014-12-31 -            : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2014-12-31 -            : Chronic kidney disease stage 3 (disorder)
+  2009-07-29 -            : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2009-07-29 -            : Chronic kidney disease stage 2 (disorder)
+  2006-12-13 -            : Disorder of kidney due to diabetes mellitus (disorder)
+  2006-12-13 -            : Chronic kidney disease stage 1 (disorder)
+  2003-11-26 -            : Anemia (disorder)
+  2003-11-26 -            : Prediabetes
+  1997-10-22 -            : Essential hypertension (disorder)
+  1995-06-30 -            : History of tubal ligation (situation)
+  1991-10-16 -            : Lack of access to transportation (finding)
+  1987-10-07 -            : Transport problem (finding)
+  1987-10-07 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2003-11-26[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1997-10-22[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2024-06-05 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2024-06-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2024-06-05 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           84.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     15.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        4.6 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           142.7 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         102.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.0 mmol/L
+  2024-06-05 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 2.7 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 277.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-06-05 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 84.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 15.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.4 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 49.2 mL/min/{1.73_m2}
+  2024-03-20 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 358.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-03-20 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 85.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 19.3 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 143.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 103.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 48.7 mL/min/{1.73_m2}
+  2024-03-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-03-13 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 186.2 mg/dL
+           - Triglycerides                            127.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.1 mg/dL
+  2024-03-13 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           71.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        5.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.4 mg/dL
+           - Sodium [Moles/volume] in Blood           136.3 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.5 mmol/L
+  2024-03-13 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 8.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 228.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-03-13 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 7.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.3 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.4 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 55.8 mL/min/{1.73_m2}
+  2023-12-13 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2023-12-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-12-13 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           85.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     11.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.9 mg/dL
+           - Calcium [Mass/volume] in Blood           9.5 mg/dL
+           - Sodium [Moles/volume] in Blood           139.0 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         105.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 21.8 mmol/L
+  2023-12-13 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 9.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 348.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-12-13 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 85.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 105.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 50.6 mL/min/{1.73_m2}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-06-05 : Total score [DAST-10]                    0.0 {score}
+  2024-06-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2024-06-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 25345 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  370 Okuneva Rue 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-06-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-06-05 : Carbon dioxide, total [Moles/volume] in Blood 23.0 mmol/L
+  2024-06-05 : Chloride [Moles/volume] in Blood         102.6 mmol/L
+  2024-06-05 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  2024-06-05 : Sodium [Moles/volume] in Blood           142.7 mmol/L
+  2024-06-05 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2024-06-05 : Creatinine [Mass/volume] in Blood        4.6 mg/dL
+  2024-06-05 : Urea nitrogen [Mass/volume] in Blood     15.0 mg/dL
+  2024-06-05 : Glucose [Mass/volume] in Blood           84.0 mg/dL
+  2024-06-05 : Respiratory rate                         13.0 /min
+  2024-06-05 : Heart rate                               75.0 /min
+  2024-06-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2024-06-05 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2024-06-05 : Body Weight                              77.5 kg
+  2024-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2024-06-05 : Body Height                              168.3 cm
+  2024-06-05 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  2024-06-05 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-06-05 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2024-06-05 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2024-06-05 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2024-06-05 : Protein [Mass/volume] in Urine by Test strip 277.3 mg/dL
+  2024-06-05 : pH of Urine by Test strip                5.5 pH
+  2024-06-05 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2024-06-05 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2024-06-05 : Ketones [Mass/volume] in Urine by Test strip 2.7 mg/dL
+  2024-06-05 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2024-06-05 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2024-06-05 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2024-06-05 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2024-06-05 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2024-06-05 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2024-06-05 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2024-06-05 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2024-06-05 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 49.2 mL/min/{1.73_m2}
+  2024-06-05 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.0 mmol/L
+  2024-06-05 : Chloride [Moles/volume] in Serum or Plasma 102.6 mmol/L
+  2024-06-05 : Potassium [Moles/volume] in Serum or Plasma 4.4 mmol/L
+  2024-06-05 : Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+  2024-06-05 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2024-06-05 : Creatinine [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2024-06-05 : Urea nitrogen [Mass/volume] in Serum or Plasma 15.0 mg/dL
+  2024-06-05 : Glucose [Mass/volume] in Serum or Plasma 84.0 mg/dL
+  2024-03-20 : Hemoglobin A1c/Hemoglobin.total in Blood 3.3 %
+  2024-03-20 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-03-20 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2024-03-20 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2024-03-20 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2024-03-20 : Protein [Mass/volume] in Urine by Test strip 358.5 mg/dL
+  2024-03-20 : pH of Urine by Test strip                6.1 pH
+  2024-03-20 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2024-03-20 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2024-03-20 : Ketones [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2024-03-20 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2024-03-20 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2024-03-20 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2024-03-20 : Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2024-03-20 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2024-03-20 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2024-03-20 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2024-03-20 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2024-03-20 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 48.7 mL/min/{1.73_m2}
+  2024-03-20 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.2 mmol/L
+  2024-03-20 : Chloride [Moles/volume] in Serum or Plasma 103.5 mmol/L
+  2024-03-20 : Potassium [Moles/volume] in Serum or Plasma 5.0 mmol/L
+  2024-03-20 : Sodium [Moles/volume] in Serum or Plasma 143.2 mmol/L
+  2024-03-20 : Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+  2024-03-20 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2024-03-20 : Urea nitrogen [Mass/volume] in Serum or Plasma 19.3 mg/dL
+  2024-03-20 : Glucose [Mass/volume] in Serum or Plasma 85.2 mg/dL
+  2024-03-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2024-03-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 25345 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  370 Okuneva Rue 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2024-03-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-03-13 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.1 mg/dL
+  2024-03-13 : Low Density Lipoprotein Cholesterol      101.6 mg/dL
+  2024-03-13 : Triglycerides                            127.6 mg/dL
+  2024-03-13 : Cholesterol [Mass/volume] in Serum or Plasma 186.2 mg/dL
+  2024-03-13 : Carbon dioxide, total [Moles/volume] in Blood 27.5 mmol/L
+  2024-03-13 : Chloride [Moles/volume] in Blood         108.0 mmol/L
+  2024-03-13 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  2024-03-13 : Sodium [Moles/volume] in Blood           136.3 mmol/L
+  2024-03-13 : Calcium [Mass/volume] in Blood           9.4 mg/dL
+  2024-03-13 : Creatinine [Mass/volume] in Blood        5.1 mg/dL
+  2024-03-13 : Urea nitrogen [Mass/volume] in Blood     7.9 mg/dL
+  2024-03-13 : Glucose [Mass/volume] in Blood           71.8 mg/dL
+  2024-03-13 : Respiratory rate                         14.0 /min
+  2024-03-13 : Heart rate                               98.0 /min
+  2024-03-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2024-03-13 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2024-03-13 : Body Weight                              77.5 kg
+  2024-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-03-13 : Body Height                              168.3 cm
+  2024-03-13 : Hemoglobin A1c/Hemoglobin.total in Blood 3.3 %
+  2024-03-13 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2024-03-13 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2024-03-13 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2024-03-13 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2024-03-13 : Protein [Mass/volume] in Urine by Test strip 228.9 mg/dL
+  2024-03-13 : pH of Urine by Test strip                6.4 pH
+  2024-03-13 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2024-03-13 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2024-03-13 : Ketones [Mass/volume] in Urine by Test strip 8.2 mg/dL
+  2024-03-13 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2024-03-13 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2024-03-13 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2024-03-13 : Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2024-03-13 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2024-03-13 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2024-03-13 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2024-03-13 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2024-03-13 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 55.8 mL/min/{1.73_m2}
+  2024-03-13 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+  2024-03-13 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2024-03-13 : Potassium [Moles/volume] in Serum or Plasma 4.4 mmol/L
+  2024-03-13 : Sodium [Moles/volume] in Serum or Plasma 136.3 mmol/L
+  2024-03-13 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2024-03-13 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2024-03-13 : Urea nitrogen [Mass/volume] in Serum or Plasma 7.9 mg/dL
+  2024-03-13 : Glucose [Mass/volume] in Serum or Plasma 71.8 mg/dL
+  2023-12-13 : Total score [AUDIT-C]                    2.0 {score}
+  2023-12-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-12-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 25345 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  370 Okuneva Rue 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-12-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-12-13 : Carbon dioxide, total [Moles/volume] in Blood 21.8 mmol/L
+  2023-12-13 : Chloride [Moles/volume] in Blood         105.6 mmol/L
+  2023-12-13 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  2023-12-13 : Sodium [Moles/volume] in Blood           139.0 mmol/L
+  2023-12-13 : Calcium [Mass/volume] in Blood           9.5 mg/dL
+  2023-12-13 : Creatinine [Mass/volume] in Blood        2.9 mg/dL
+  2023-12-13 : Urea nitrogen [Mass/volume] in Blood     11.8 mg/dL
+  2023-12-13 : Glucose [Mass/volume] in Blood           85.4 mg/dL
+  2023-12-13 : Respiratory rate                         13.0 /min
+  2023-12-13 : Heart rate                               61.0 /min
+  2023-12-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2023-12-13 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2023-12-13 : Body Weight                              77.5 kg
+  2023-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-12-13 : Body Height                              168.3 cm
+  2023-12-13 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  2023-12-13 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-12-13 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2023-12-13 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2023-12-13 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2023-12-13 : Protein [Mass/volume] in Urine by Test strip 348.2 mg/dL
+  2023-12-13 : pH of Urine by Test strip                5.2 pH
+  2023-12-13 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2023-12-13 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2023-12-13 : Ketones [Mass/volume] in Urine by Test strip 9.8 mg/dL
+  2023-12-13 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2023-12-13 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2023-12-13 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2023-12-13 : Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2023-12-13 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2023-12-13 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2023-12-13 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2023-12-13 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2023-12-13 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 50.6 mL/min/{1.73_m2}
+  2023-12-13 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.8 mmol/L
+  2023-12-13 : Chloride [Moles/volume] in Serum or Plasma 105.6 mmol/L
+  2023-12-13 : Potassium [Moles/volume] in Serum or Plasma 5.1 mmol/L
+  2023-12-13 : Sodium [Moles/volume] in Serum or Plasma 139.0 mmol/L
+  2023-12-13 : Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+  2023-12-13 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2023-12-13 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.8 mg/dL
+  2023-12-13 : Glucose [Mass/volume] in Serum or Plasma 85.4 mg/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-06-05 : Screening for drug abuse (procedure)
+  2024-06-05 : Assessment of substance use (procedure)
+  2024-06-05 : Assessment of anxiety (procedure)
+  2024-06-05 : Assessment of health and social care needs (procedure)
+  2024-03-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2024-03-13 : Depression screening (procedure)
+  2024-03-13 : Assessment of health and social care needs (procedure)
+  2023-12-13 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-12-13 : Assessment of substance use (procedure)
+  2023-12-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-12-13 : Depression screening (procedure)
+  2023-12-13 : Assessment of health and social care needs (procedure)
+  2023-12-13 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-03-13 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-06-05 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2024-03-20 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+2024-03-13 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2023-12-13 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2023-03-15 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+2022-12-14 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2020-02-26 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+2014-12-31 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2009-07-29 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2006-12-13 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+2003-11-26 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+1997-10-22 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+1995-06-30 (Dr. Carlena776 Feil794) : Encounter at WESTERN MASSACHUSETTS HOSPITAL : Encounter for Sterilization requested (situation)
+1991-10-16 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+1987-10-07 (Dr. Antonia30 Guerra754) : Encounter at FAMILY MEDICINE ASSOCIATES
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

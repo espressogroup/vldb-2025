@@ -1,0 +1,69 @@
+Claris36 Koch169
+================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 4
+Birth Date:          2020-05-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2023-10-03[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2023-10-03[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2024-04-25 - 2024-04-25 : Medication review due (situation)
+  2023-10-26 - 2023-10-26 : Medication review due (situation)
+  2023-10-03 - 2023-10-26 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2024-04-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2024-04-25 : Respiratory rate                         12.0 /min
+  2024-04-25 : Heart rate                               84.0 /min
+  2024-04-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2024-04-25 : Body mass index (BMI) [Percentile] Per age and sex 92.8 %
+  2024-04-25 : Body mass index (BMI) [Ratio]            17.6 kg/m2
+  2024-04-25 : Head Occipital-frontal circumference     51.5 cm
+  2024-04-25 : Head Occipital-frontal circumference Percentile 97.4 %
+  2024-04-25 : Weight-for-length Per age and sex        94.5 %
+  2024-04-25 : Body Weight                              20.5 kg
+  2024-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2024-04-25 : Body Height                              107.8 cm
+  2023-10-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-10-26 : Respiratory rate                         15.0 /min
+  2023-10-26 : Heart rate                               85.0 /min
+  2023-10-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2023-10-26 : Body mass index (BMI) [Percentile] Per age and sex 94.0 %
+  2023-10-26 : Body mass index (BMI) [Ratio]            17.9 kg/m2
+  2023-10-26 : Head Occipital-frontal circumference     51.5 cm
+  2023-10-26 : Head Occipital-frontal circumference Percentile 97.4 %
+  2023-10-26 : Weight-for-length Per age and sex        94.5 %
+  2023-10-26 : Body Weight                              19.4 kg
+  2023-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-10-26 : Body Height                              104.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-04-25 : Medication Reconciliation (procedure)
+  2023-10-26 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2024-04-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-04-25 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2023-10-26 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2023-10-03 (Dr. Tracey100 Hamill307) : Encounter at ST VINCENT HOSPITAL : Encounter for Otitis media
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

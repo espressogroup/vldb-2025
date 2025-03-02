@@ -1,0 +1,53 @@
+Claris36 Lauren941 Feeney44
+===========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 32
+Birth Date:          1991-09-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2023-10-02[CURRENT] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+  2022-10-07[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-13 -            : Stress (finding)
+  2022-11-13 -            : Part-time employment (finding)
+  2013-11-03 -            : Social isolation (finding)
+  2011-10-09 -            : Medication review due (situation)
+  2009-10-25 -            : Received certificate of high school equivalency (finding)
+  2006-10-08 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2024-07-28 : Intramuscular injection
+  2024-04-28 : Intramuscular injection
+  2024-01-28 : Intramuscular injection
+  2023-10-29 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2024-07-28 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2024-04-28 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2024-01-28 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2023-10-29 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2023-10-02 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2022-11-13 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2022-10-07 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Contraception care (regime/therapy)
+2013-11-03 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2011-10-09 (Dr. Sam879 Rippin620) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2009-10-25 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2006-10-08 (Dr. Barb55 Renner328) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

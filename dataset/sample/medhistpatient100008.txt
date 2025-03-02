@@ -1,0 +1,90 @@
+Claris36 Little434
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-08-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2008-02-06 -            : Fish (substance)
+  2008-02-06 -            : Shellfish (substance)
+  2008-02-06 -            : Eggs (edible) (substance)
+  2008-02-06 -            : Tree pollen (substance)
+  2008-02-06 -            : Grass pollen (substance)
+  2008-02-06 -            : Animal dander (substance)
+  2008-02-06 -            : House dust mite (organism)
+  2008-02-06 -            : Mold (organism)
+  2008-02-06 -            : Bee venom (substance)
+  2008-02-06 -            : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2023-10-15[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2023-08-07[CURRENT] : Yaz 28 Day Pack
+  2022-08-12[STOPPED] : Jolivette 28 Day Pack
+  2008-02-06[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2008-02-06[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-10-15 - 2023-11-05 : Facial laceration
+  2023-10-15 - 2023-11-05 : Laceration - injury (disorder)
+  2023-10-11 -            : Medication review due (situation)
+  2022-10-20 -            : Chronic sinusitis (disorder)
+  2010-12-28 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2023-10-15[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2008-01-12[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2023-10-12 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 25.0 {score}
+  2023-10-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2023-10-12 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 25.0 {score}
+  2023-10-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2023-10-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-10-11 : Respiratory rate                         12.0 /min
+  2023-10-11 : Heart rate                               89.0 /min
+  2023-10-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2023-10-11 : Body mass index (BMI) [Percentile] Per age and sex 14.4 %
+  2023-10-11 : Body mass index (BMI) [Ratio]            18.3 kg/m2
+  2023-10-11 : Body Weight                              50.7 kg
+  2023-10-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-10-11 : Body Height                              166.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2023-10-15 : Injection of tetanus antitoxin for Facial laceration
+  2023-10-15 : Suture open wound for Facial laceration
+  2023-10-12 : Anticipatory guidance (procedure)
+  2023-10-12 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2023-10-12 : Assessment of substance use (procedure)
+  2023-10-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-10-11 : Depression screening (procedure)
+  2023-10-11 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2023-10-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2023-10-15 (Dr. Shayla126 White193) : Encounter at KINDRED AT HOME : Encounter for Laceration - injury (disorder)
+2023-10-11 (Dr. Elias404 Skiles927) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2023-08-07 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Contraception care (regime/therapy)
+2022-10-20 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Sinusitis (disorder)
+2022-08-12 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Contraception care (regime/therapy)
+2010-12-28 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Perennial allergic rhinitis with seasonal variation
+2008-02-06 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Allergy to substance (finding)
+2008-01-12 (Dr. Dominic463 Miller503) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Eggs (edible) (substance)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

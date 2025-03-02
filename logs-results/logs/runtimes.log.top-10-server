@@ -1,0 +1,1382 @@
+[2025-02-27T19:03:17.445Z] Search Word: "sheryl275 35969"
+[2025-02-27T19:03:17.446Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:03:21.690Z] Relevant Servers: ["srv03814.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03938.soton.ac.uk:3000","srv03931.soton.ac.uk:3000","srv03813.soton.ac.uk:3000","srv03946.soton.ac.uk:3000"]
+[2025-02-27T19:03:21.691Z] Timer Ended: FindRelevantServers | Elapsed Time: 4244.82ms
+[2025-02-27T19:03:23.460Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.462Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1743.01ms
+[2025-02-27T19:03:23.496Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.497Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 1770.82ms
+[2025-02-27T19:03:23.531Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.532Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1803.40ms
+[2025-02-27T19:03:23.536Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.536Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 1818.99ms
+[2025-02-27T19:03:23.581Z] No. SELECTED PODS from srv03813.soton.ac.uk:3000: 2
+[2025-02-27T19:03:23.581Z] Timer Ended: FindRelevantPods@__srv03813.soton.ac.uk:3000 | Elapsed Time: 1889.54ms
+[2025-02-27T19:03:23.586Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.587Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 1863.32ms
+[2025-02-27T19:03:23.590Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.590Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 1874.61ms
+[2025-02-27T19:03:23.643Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 2
+[2025-02-27T19:03:23.644Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 1931.27ms
+[2025-02-27T19:03:23.648Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.648Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 1923.33ms
+[2025-02-27T19:03:23.669Z] No. SELECTED PODS from srv03938.soton.ac.uk:3000: 1
+[2025-02-27T19:03:23.669Z] Timer Ended: FindRelevantPods@__srv03938.soton.ac.uk:3000 | Elapsed Time: 1947.21ms
+[2025-02-27T19:03:24.224Z] RowsFetched@__srv03945.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.225Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 727.02ms
+[2025-02-27T19:03:24.281Z] RowsFetched@__srv03934.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.281Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 817.89ms
+[2025-02-27T19:03:24.322Z] RowsFetched@__srv03931.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.322Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 785.09ms
+[2025-02-27T19:03:24.367Z] RowsFetched@__srv03946.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.367Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 835.10ms
+[2025-02-27T19:03:24.436Z] RowsFetched@__srv03939.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.436Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 849.59ms
+[2025-02-27T19:03:24.452Z] RowsFetched@__srv03813.soton.ac.uk:3000: 2
+[2025-02-27T19:03:24.452Z] Timer Ended: CombineResults@__srv03813.soton.ac.uk:3000 | Elapsed Time: 870.57ms
+[2025-02-27T19:03:24.465Z] RowsFetched@__srv03922.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.465Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 874.92ms
+[2025-02-27T19:03:24.475Z] RowsFetched@__srv03941.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.476Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 827.19ms
+[2025-02-27T19:03:24.507Z] RowsFetched@__srv03814.soton.ac.uk:3000: 2
+[2025-02-27T19:03:24.507Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 863.56ms
+[2025-02-27T19:03:24.537Z] RowsFetched@__srv03938.soton.ac.uk:3000: 1
+[2025-02-27T19:03:24.537Z] Timer Ended: CombineResults@__srv03938.soton.ac.uk:3000 | Elapsed Time: 867.87ms
+[2025-02-27T19:03:24.538Z] RowsFetched@ALL: 12
+[2025-02-27T19:03:24.538Z] Timer Ended: RankingResults@ALL | Elapsed Time: 0.63ms
+[2025-02-27T19:03:24.542Z] Timer Ended: TotalTime | Elapsed Time: 7097.76ms
+[2025-02-27T19:03:36.404Z] Search Word: "will178 bartell116"
+[2025-02-27T19:03:36.405Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:03:40.557Z] Relevant Servers: ["srv03912.soton.ac.uk:3000","srv03920.soton.ac.uk:3000","srv03933.soton.ac.uk:3000","srv03936.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03931.soton.ac.uk:3000","srv03916.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03815.soton.ac.uk:3000","srv03940.soton.ac.uk:3000"]
+[2025-02-27T19:03:40.557Z] Timer Ended: FindRelevantServers | Elapsed Time: 4151.98ms
+[2025-02-27T19:03:42.025Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 8
+[2025-02-27T19:03:42.026Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 1436.08ms
+[2025-02-27T19:03:42.138Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 8
+[2025-02-27T19:03:42.138Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1546.00ms
+[2025-02-27T19:03:42.181Z] No. SELECTED PODS from srv03916.soton.ac.uk:3000: 8
+[2025-02-27T19:03:42.182Z] Timer Ended: FindRelevantPods@__srv03916.soton.ac.uk:3000 | Elapsed Time: 1596.62ms
+[2025-02-27T19:03:42.304Z] No. SELECTED PODS from srv03920.soton.ac.uk:3000: 11
+[2025-02-27T19:03:42.305Z] Timer Ended: FindRelevantPods@__srv03920.soton.ac.uk:3000 | Elapsed Time: 1718.02ms
+[2025-02-27T19:03:42.486Z] No. SELECTED PODS from srv03933.soton.ac.uk:3000: 8
+[2025-02-27T19:03:42.487Z] Timer Ended: FindRelevantPods@__srv03933.soton.ac.uk:3000 | Elapsed Time: 1896.19ms
+[2025-02-27T19:03:42.548Z] No. SELECTED PODS from srv03936.soton.ac.uk:3000: 7
+[2025-02-27T19:03:42.548Z] Timer Ended: FindRelevantPods@__srv03936.soton.ac.uk:3000 | Elapsed Time: 1954.44ms
+[2025-02-27T19:03:42.553Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 3
+[2025-02-27T19:03:42.554Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 1973.79ms
+[2025-02-27T19:03:42.570Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 16
+[2025-02-27T19:03:42.570Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 1987.08ms
+[2025-02-27T19:03:42.677Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 7
+[2025-02-27T19:03:42.678Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 2119.28ms
+[2025-02-27T19:03:43.243Z] RowsFetched@__srv03931.soton.ac.uk:3000: 8
+[2025-02-27T19:03:43.244Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 1217.91ms
+[2025-02-27T19:03:43.518Z] RowsFetched@__srv03934.soton.ac.uk:3000: 8
+[2025-02-27T19:03:43.519Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1380.22ms
+[2025-02-27T19:03:43.779Z] RowsFetched@__srv03916.soton.ac.uk:3000: 8
+[2025-02-27T19:03:43.780Z] Timer Ended: CombineResults@__srv03916.soton.ac.uk:3000 | Elapsed Time: 1597.83ms
+[2025-02-27T19:03:44.380Z] No. SELECTED PODS from srv03940.soton.ac.uk:3000: 8
+[2025-02-27T19:03:44.380Z] Timer Ended: FindRelevantPods@__srv03940.soton.ac.uk:3000 | Elapsed Time: 3784.60ms
+[2025-02-27T19:03:44.382Z] RowsFetched@__srv03920.soton.ac.uk:3000: 11
+[2025-02-27T19:03:44.382Z] Timer Ended: CombineResults@__srv03920.soton.ac.uk:3000 | Elapsed Time: 2077.35ms
+[2025-02-27T19:03:44.741Z] RowsFetched@__srv03933.soton.ac.uk:3000: 8
+[2025-02-27T19:03:44.741Z] Timer Ended: CombineResults@__srv03933.soton.ac.uk:3000 | Elapsed Time: 2253.43ms
+[2025-02-27T19:03:44.993Z] RowsFetched@__srv03936.soton.ac.uk:3000: 7
+[2025-02-27T19:03:44.994Z] Timer Ended: CombineResults@__srv03936.soton.ac.uk:3000 | Elapsed Time: 2445.18ms
+[2025-02-27T19:03:45.193Z] RowsFetched@__srv03815.soton.ac.uk:3000: 3
+[2025-02-27T19:03:45.193Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2639.44ms
+[2025-02-27T19:03:45.695Z] RowsFetched@__srv03912.soton.ac.uk:3000: 16
+[2025-02-27T19:03:45.696Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 3125.71ms
+[2025-02-27T19:03:46.028Z] RowsFetched@__srv03812.soton.ac.uk:3000: 7
+[2025-02-27T19:03:46.029Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 3350.78ms
+[2025-02-27T19:03:46.498Z] RowsFetched@__srv03940.soton.ac.uk:3000: 8
+[2025-02-27T19:03:46.498Z] Timer Ended: CombineResults@__srv03940.soton.ac.uk:3000 | Elapsed Time: 2117.33ms
+[2025-02-27T19:03:46.499Z] RowsFetched@ALL: 84
+[2025-02-27T19:03:46.499Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.07ms
+[2025-02-27T19:03:46.504Z] Timer Ended: TotalTime | Elapsed Time: 10099.84ms
+[2025-02-27T19:03:58.380Z] Search Word: "vicente970"
+[2025-02-27T19:03:58.381Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:04:02.536Z] Relevant Servers: ["srv03945.soton.ac.uk:3000","srv03815.soton.ac.uk:3000","srv03932.soton.ac.uk:3000","srv03944.soton.ac.uk:3000","srv03952.soton.ac.uk:3000","srv03816.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03920.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03921.soton.ac.uk:3000"]
+[2025-02-27T19:04:02.538Z] Timer Ended: FindRelevantServers | Elapsed Time: 4156.16ms
+[2025-02-27T19:04:04.484Z] No. SELECTED PODS from srv03920.soton.ac.uk:3000: 8
+[2025-02-27T19:04:04.486Z] Timer Ended: FindRelevantPods@__srv03920.soton.ac.uk:3000 | Elapsed Time: 1916.91ms
+[2025-02-27T19:04:04.532Z] No. SELECTED PODS from srv03932.soton.ac.uk:3000: 4
+[2025-02-27T19:04:04.532Z] Timer Ended: FindRelevantPods@__srv03932.soton.ac.uk:3000 | Elapsed Time: 1958.97ms
+[2025-02-27T19:04:04.555Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 7
+[2025-02-27T19:04:04.555Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 1983.72ms
+[2025-02-27T19:04:04.592Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 8
+[2025-02-27T19:04:04.592Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2010.28ms
+[2025-02-27T19:04:04.603Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 4
+[2025-02-27T19:04:04.603Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2024.78ms
+[2025-02-27T19:04:04.611Z] No. SELECTED PODS from srv03944.soton.ac.uk:3000: 8
+[2025-02-27T19:04:04.611Z] Timer Ended: FindRelevantPods@__srv03944.soton.ac.uk:3000 | Elapsed Time: 2034.63ms
+[2025-02-27T19:04:04.618Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 9
+[2025-02-27T19:04:04.618Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2052.91ms
+[2025-02-27T19:04:04.639Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 7
+[2025-02-27T19:04:04.639Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2058.94ms
+[2025-02-27T19:04:04.668Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:04:04.669Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2084.56ms
+[2025-02-27T19:04:04.760Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 6
+[2025-02-27T19:04:04.761Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2220.72ms
+[2025-02-27T19:04:05.813Z] RowsFetched@__srv03920.soton.ac.uk:3000: 8
+[2025-02-27T19:04:05.814Z] Timer Ended: CombineResults@__srv03920.soton.ac.uk:3000 | Elapsed Time: 1327.62ms
+[2025-02-27T19:04:06.062Z] RowsFetched@__srv03932.soton.ac.uk:3000: 4
+[2025-02-27T19:04:06.062Z] Timer Ended: CombineResults@__srv03932.soton.ac.uk:3000 | Elapsed Time: 1529.36ms
+[2025-02-27T19:04:06.065Z] RowsFetched@__srv03921.soton.ac.uk:3000: 7
+[2025-02-27T19:04:06.065Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 1509.79ms
+[2025-02-27T19:04:06.716Z] RowsFetched@__srv03950.soton.ac.uk:3000: 8
+[2025-02-27T19:04:06.717Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2124.27ms
+[2025-02-27T19:04:06.896Z] RowsFetched@__srv03945.soton.ac.uk:3000: 4
+[2025-02-27T19:04:06.896Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2292.48ms
+[2025-02-27T19:04:07.096Z] RowsFetched@__srv03944.soton.ac.uk:3000: 8
+[2025-02-27T19:04:07.097Z] Timer Ended: CombineResults@__srv03944.soton.ac.uk:3000 | Elapsed Time: 2485.56ms
+[2025-02-27T19:04:07.363Z] RowsFetched@__srv03816.soton.ac.uk:3000: 9
+[2025-02-27T19:04:07.364Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2745.26ms
+[2025-02-27T19:04:07.793Z] RowsFetched@__srv03949.soton.ac.uk:3000: 7
+[2025-02-27T19:04:07.793Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 3154.11ms
+[2025-02-27T19:04:08.022Z] RowsFetched@__srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:04:08.022Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 3353.22ms
+[2025-02-27T19:04:08.154Z] RowsFetched@__srv03815.soton.ac.uk:3000: 6
+[2025-02-27T19:04:08.154Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 3393.28ms
+[2025-02-27T19:04:08.156Z] RowsFetched@ALL: 70
+[2025-02-27T19:04:08.156Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.18ms
+[2025-02-27T19:04:08.162Z] Timer Ended: TotalTime | Elapsed Time: 9782.41ms
+[2025-02-27T19:04:20.384Z] Search Word: "noelle559"
+[2025-02-27T19:04:20.385Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:04:24.660Z] Relevant Servers: ["srv03914.soton.ac.uk:3000","srv03816.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03921.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03944.soton.ac.uk:3000","srv03940.soton.ac.uk:3000","srv03813.soton.ac.uk:3000","srv03952.soton.ac.uk:3000"]
+[2025-02-27T19:04:24.662Z] Timer Ended: FindRelevantServers | Elapsed Time: 4276.48ms
+[2025-02-27T19:04:26.178Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 7
+[2025-02-27T19:04:26.179Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 1484.46ms
+[2025-02-27T19:04:26.474Z] No. SELECTED PODS from srv03940.soton.ac.uk:3000: 8
+[2025-02-27T19:04:26.476Z] Timer Ended: FindRelevantPods@__srv03940.soton.ac.uk:3000 | Elapsed Time: 1778.70ms
+[2025-02-27T19:04:26.493Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 5
+[2025-02-27T19:04:26.495Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 1804.90ms
+[2025-02-27T19:04:26.504Z] No. SELECTED PODS from srv03813.soton.ac.uk:3000: 7
+[2025-02-27T19:04:26.504Z] Timer Ended: FindRelevantPods@__srv03813.soton.ac.uk:3000 | Elapsed Time: 1840.02ms
+[2025-02-27T19:04:26.521Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 10
+[2025-02-27T19:04:26.521Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 1833.68ms
+[2025-02-27T19:04:26.564Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:04:26.565Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 1864.57ms
+[2025-02-27T19:04:26.565Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 8
+[2025-02-27T19:04:26.565Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 1869.71ms
+[2025-02-27T19:04:26.623Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 5
+[2025-02-27T19:04:26.623Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 1932.00ms
+[2025-02-27T19:04:26.661Z] No. SELECTED PODS from srv03944.soton.ac.uk:3000: 10
+[2025-02-27T19:04:26.661Z] Timer Ended: FindRelevantPods@__srv03944.soton.ac.uk:3000 | Elapsed Time: 1962.91ms
+[2025-02-27T19:04:26.662Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 11
+[2025-02-27T19:04:26.663Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 1977.48ms
+[2025-02-27T19:04:27.217Z] RowsFetched@__srv03921.soton.ac.uk:3000: 7
+[2025-02-27T19:04:27.217Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 1038.18ms
+[2025-02-27T19:04:27.818Z] RowsFetched@__srv03914.soton.ac.uk:3000: 5
+[2025-02-27T19:04:27.819Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 1323.83ms
+[2025-02-27T19:04:27.998Z] RowsFetched@__srv03940.soton.ac.uk:3000: 8
+[2025-02-27T19:04:27.999Z] Timer Ended: CombineResults@__srv03940.soton.ac.uk:3000 | Elapsed Time: 1522.60ms
+[2025-02-27T19:04:28.228Z] RowsFetched@__srv03813.soton.ac.uk:3000: 7
+[2025-02-27T19:04:28.229Z] Timer Ended: CombineResults@__srv03813.soton.ac.uk:3000 | Elapsed Time: 1723.82ms
+[2025-02-27T19:04:28.742Z] RowsFetched@__srv03816.soton.ac.uk:3000: 10
+[2025-02-27T19:04:28.742Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2220.64ms
+[2025-02-27T19:04:29.248Z] RowsFetched@__srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:04:29.248Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2683.43ms
+[2025-02-27T19:04:29.292Z] RowsFetched@__srv03939.soton.ac.uk:3000: 8
+[2025-02-27T19:04:29.293Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 2727.15ms
+[2025-02-27T19:04:29.688Z] RowsFetched@__srv03919.soton.ac.uk:3000: 5
+[2025-02-27T19:04:29.688Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 3064.66ms
+[2025-02-27T19:04:30.144Z] RowsFetched@__srv03944.soton.ac.uk:3000: 10
+[2025-02-27T19:04:30.144Z] Timer Ended: CombineResults@__srv03944.soton.ac.uk:3000 | Elapsed Time: 3482.60ms
+[2025-02-27T19:04:30.378Z] RowsFetched@__srv03814.soton.ac.uk:3000: 11
+[2025-02-27T19:04:30.378Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 3715.24ms
+[2025-02-27T19:04:30.379Z] RowsFetched@ALL: 80
+[2025-02-27T19:04:30.379Z] Timer Ended: RankingResults@ALL | Elapsed Time: 0.84ms
+[2025-02-27T19:04:30.384Z] Timer Ended: TotalTime | Elapsed Time: 10000.09ms
+[2025-02-27T19:04:42.349Z] Search Word: "franecki195 eleni953"
+[2025-02-27T19:04:42.351Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:04:46.540Z] Relevant Servers: ["srv03950.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03951.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03920.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03816.soton.ac.uk:3000","srv03948.soton.ac.uk:3000","srv03912.soton.ac.uk:3000"]
+[2025-02-27T19:04:46.541Z] Timer Ended: FindRelevantServers | Elapsed Time: 4190.07ms
+[2025-02-27T19:04:48.392Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 7
+[2025-02-27T19:04:48.394Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 1824.70ms
+[2025-02-27T19:04:48.518Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 6
+[2025-02-27T19:04:48.519Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 1943.01ms
+[2025-02-27T19:04:48.534Z] No. SELECTED PODS from srv03920.soton.ac.uk:3000: 7
+[2025-02-27T19:04:48.534Z] Timer Ended: FindRelevantPods@__srv03920.soton.ac.uk:3000 | Elapsed Time: 1963.03ms
+[2025-02-27T19:04:48.571Z] No. SELECTED PODS from srv03951.soton.ac.uk:3000: 6
+[2025-02-27T19:04:48.571Z] Timer Ended: FindRelevantPods@__srv03951.soton.ac.uk:3000 | Elapsed Time: 1990.45ms
+[2025-02-27T19:04:48.581Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 8
+[2025-02-27T19:04:48.582Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2003.08ms
+[2025-02-27T19:04:48.583Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 8
+[2025-02-27T19:04:48.583Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2008.82ms
+[2025-02-27T19:04:48.591Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 6
+[2025-02-27T19:04:48.591Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2026.60ms
+[2025-02-27T19:04:48.592Z] No. SELECTED PODS from srv03948.soton.ac.uk:3000: 7
+[2025-02-27T19:04:48.592Z] Timer Ended: FindRelevantPods@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2014.54ms
+[2025-02-27T19:04:48.592Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 11
+[2025-02-27T19:04:48.592Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 2048.79ms
+[2025-02-27T19:04:48.603Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 7
+[2025-02-27T19:04:48.603Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 2035.84ms
+[2025-02-27T19:04:49.675Z] RowsFetched@__srv03919.soton.ac.uk:3000: 7
+[2025-02-27T19:04:49.693Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 1298.50ms
+[2025-02-27T19:04:50.026Z] RowsFetched@__srv03945.soton.ac.uk:3000: 6
+[2025-02-27T19:04:50.026Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 1507.22ms
+[2025-02-27T19:04:50.091Z] RowsFetched@__srv03920.soton.ac.uk:3000: 7
+[2025-02-27T19:04:50.091Z] Timer Ended: CombineResults@__srv03920.soton.ac.uk:3000 | Elapsed Time: 1556.75ms
+[2025-02-27T19:04:50.387Z] RowsFetched@__srv03951.soton.ac.uk:3000: 6
+[2025-02-27T19:04:50.387Z] Timer Ended: CombineResults@__srv03951.soton.ac.uk:3000 | Elapsed Time: 1815.76ms
+[2025-02-27T19:04:50.988Z] RowsFetched@__srv03950.soton.ac.uk:3000: 8
+[2025-02-27T19:04:50.989Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2406.78ms
+[2025-02-27T19:04:51.373Z] RowsFetched@__srv03937.soton.ac.uk:3000: 8
+[2025-02-27T19:04:51.373Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2789.86ms
+[2025-02-27T19:04:51.448Z] RowsFetched@__srv03816.soton.ac.uk:3000: 6
+[2025-02-27T19:04:51.448Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2856.65ms
+[2025-02-27T19:04:51.992Z] RowsFetched@__srv03948.soton.ac.uk:3000: 7
+[2025-02-27T19:04:51.993Z] Timer Ended: CombineResults@__srv03948.soton.ac.uk:3000 | Elapsed Time: 3400.81ms
+[2025-02-27T19:04:52.281Z] RowsFetched@__srv03814.soton.ac.uk:3000: 11
+[2025-02-27T19:04:52.281Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 3689.01ms
+[2025-02-27T19:04:52.414Z] RowsFetched@__srv03912.soton.ac.uk:3000: 7
+[2025-02-27T19:04:52.415Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 3811.03ms
+[2025-02-27T19:04:52.416Z] RowsFetched@ALL: 73
+[2025-02-27T19:04:52.416Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.24ms
+[2025-02-27T19:04:52.422Z] Timer Ended: TotalTime | Elapsed Time: 10073.11ms
+[2025-02-27T19:05:04.364Z] Search Word: "commonwealth neck"
+[2025-02-27T19:05:04.365Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:05:08.705Z] Relevant Servers: ["srv03943.soton.ac.uk:3000","srv03944.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03918.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03916.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03931.soton.ac.uk:3000","srv03814.soton.ac.uk:3000"]
+[2025-02-27T19:05:08.705Z] Timer Ended: FindRelevantServers | Elapsed Time: 4339.84ms
+[2025-02-27T19:05:10.547Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 47
+[2025-02-27T19:05:10.548Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 1815.09ms
+[2025-02-27T19:05:10.645Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 56
+[2025-02-27T19:05:10.646Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 1897.96ms
+[2025-02-27T19:05:10.660Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 62
+[2025-02-27T19:05:10.661Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 1920.07ms
+[2025-02-27T19:05:10.679Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 53
+[2025-02-27T19:05:10.679Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 1972.59ms
+[2025-02-27T19:05:10.685Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 56
+[2025-02-27T19:05:10.685Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 1950.41ms
+[2025-02-27T19:05:10.744Z] No. SELECTED PODS from srv03918.soton.ac.uk:3000: 40
+[2025-02-27T19:05:10.745Z] Timer Ended: FindRelevantPods@__srv03918.soton.ac.uk:3000 | Elapsed Time: 2014.51ms
+[2025-02-27T19:05:10.776Z] No. SELECTED PODS from srv03916.soton.ac.uk:3000: 57
+[2025-02-27T19:05:10.777Z] Timer Ended: FindRelevantPods@__srv03916.soton.ac.uk:3000 | Elapsed Time: 2049.73ms
+[2025-02-27T19:05:10.844Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 43
+[2025-02-27T19:05:10.844Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2099.14ms
+[2025-02-27T19:05:10.885Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 41
+[2025-02-27T19:05:10.885Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2146.78ms
+[2025-02-27T19:05:11.020Z] No. SELECTED PODS from srv03944.soton.ac.uk:3000: 57
+[2025-02-27T19:05:11.020Z] Timer Ended: FindRelevantPods@__srv03944.soton.ac.uk:3000 | Elapsed Time: 2277.27ms
+[2025-02-27T19:05:14.249Z] RowsFetched@__srv03919.soton.ac.uk:3000: 47
+[2025-02-27T19:05:14.250Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 3702.05ms
+[2025-02-27T19:05:18.548Z] RowsFetched@__srv03949.soton.ac.uk:3000: 56
+[2025-02-27T19:05:18.548Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 7901.92ms
+[2025-02-27T19:05:23.557Z] RowsFetched@__srv03943.soton.ac.uk:3000: 62
+[2025-02-27T19:05:23.558Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 12896.76ms
+[2025-02-27T19:05:27.779Z] RowsFetched@__srv03814.soton.ac.uk:3000: 53
+[2025-02-27T19:05:27.780Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 17100.74ms
+[2025-02-27T19:05:32.884Z] RowsFetched@__srv03931.soton.ac.uk:3000: 56
+[2025-02-27T19:05:32.884Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 22198.83ms
+[2025-02-27T19:05:36.803Z] RowsFetched@__srv03918.soton.ac.uk:3000: 40
+[2025-02-27T19:05:36.803Z] Timer Ended: CombineResults@__srv03918.soton.ac.uk:3000 | Elapsed Time: 26058.59ms
+[2025-02-27T19:05:41.190Z] RowsFetched@__srv03916.soton.ac.uk:3000: 57
+[2025-02-27T19:05:41.193Z] Timer Ended: CombineResults@__srv03916.soton.ac.uk:3000 | Elapsed Time: 30416.58ms
+[2025-02-27T19:05:44.288Z] RowsFetched@__srv03947.soton.ac.uk:3000: 43
+[2025-02-27T19:05:44.288Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 33443.93ms
+[2025-02-27T19:05:47.797Z] RowsFetched@__srv03937.soton.ac.uk:3000: 41
+[2025-02-27T19:05:47.800Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 36914.46ms
+[2025-02-27T19:05:52.159Z] RowsFetched@__srv03944.soton.ac.uk:3000: 57
+[2025-02-27T19:05:52.160Z] Timer Ended: CombineResults@__srv03944.soton.ac.uk:3000 | Elapsed Time: 41139.48ms
+[2025-02-27T19:05:52.163Z] RowsFetched@ALL: 512
+[2025-02-27T19:05:52.163Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.92ms
+[2025-02-27T19:05:52.173Z] Timer Ended: TotalTime | Elapsed Time: 47808.72ms
+[2025-02-27T19:06:04.629Z] Search Word: "behavioral shields502"
+[2025-02-27T19:06:04.630Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:06:09.099Z] Relevant Servers: ["srv03951.soton.ac.uk:3000","srv03955.soton.ac.uk:3000","srv03923.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03815.soton.ac.uk:3000","srv03927.soton.ac.uk:3000","srv03911.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03913.soton.ac.uk:3000"]
+[2025-02-27T19:06:09.100Z] Timer Ended: FindRelevantServers | Elapsed Time: 4468.97ms
+[2025-02-27T19:06:11.040Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 44
+[2025-02-27T19:06:11.041Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 1914.90ms
+[2025-02-27T19:06:11.132Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 35
+[2025-02-27T19:06:11.132Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 1996.83ms
+[2025-02-27T19:06:11.167Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 36
+[2025-02-27T19:06:11.168Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2066.99ms
+[2025-02-27T19:06:11.168Z] No. SELECTED PODS from srv03955.soton.ac.uk:3000: 42
+[2025-02-27T19:06:11.169Z] Timer Ended: FindRelevantPods@__srv03955.soton.ac.uk:3000 | Elapsed Time: 2024.75ms
+[2025-02-27T19:06:11.188Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 47
+[2025-02-27T19:06:11.188Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2050.72ms
+[2025-02-27T19:06:11.227Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 43
+[2025-02-27T19:06:11.227Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2087.51ms
+[2025-02-27T19:06:11.260Z] No. SELECTED PODS from srv03951.soton.ac.uk:3000: 36
+[2025-02-27T19:06:11.260Z] Timer Ended: FindRelevantPods@__srv03951.soton.ac.uk:3000 | Elapsed Time: 2118.23ms
+[2025-02-27T19:06:11.340Z] No. SELECTED PODS from srv03927.soton.ac.uk:3000: 46
+[2025-02-27T19:06:11.341Z] Timer Ended: FindRelevantPods@__srv03927.soton.ac.uk:3000 | Elapsed Time: 2209.28ms
+[2025-02-27T19:06:11.421Z] No. SELECTED PODS from srv03923.soton.ac.uk:3000: 34
+[2025-02-27T19:06:11.421Z] Timer Ended: FindRelevantPods@__srv03923.soton.ac.uk:3000 | Elapsed Time: 2291.84ms
+[2025-02-27T19:06:14.836Z] RowsFetched@__srv03913.soton.ac.uk:3000: 44
+[2025-02-27T19:06:14.836Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 3794.77ms
+[2025-02-27T19:06:14.899Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 39
+[2025-02-27T19:06:14.899Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 5777.28ms
+[2025-02-27T19:06:17.750Z] RowsFetched@__srv03937.soton.ac.uk:3000: 35
+[2025-02-27T19:06:17.751Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 6618.09ms
+[2025-02-27T19:06:19.696Z] RowsFetched@__srv03815.soton.ac.uk:3000: 36
+[2025-02-27T19:06:19.696Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 8528.38ms
+[2025-02-27T19:06:22.453Z] RowsFetched@__srv03955.soton.ac.uk:3000: 42
+[2025-02-27T19:06:22.453Z] Timer Ended: CombineResults@__srv03955.soton.ac.uk:3000 | Elapsed Time: 11284.46ms
+[2025-02-27T19:06:25.670Z] RowsFetched@__srv03947.soton.ac.uk:3000: 47
+[2025-02-27T19:06:25.670Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 14481.86ms
+[2025-02-27T19:06:28.271Z] RowsFetched@__srv03949.soton.ac.uk:3000: 43
+[2025-02-27T19:06:28.271Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 17043.72ms
+[2025-02-27T19:06:31.212Z] RowsFetched@__srv03951.soton.ac.uk:3000: 36
+[2025-02-27T19:06:31.214Z] Timer Ended: CombineResults@__srv03951.soton.ac.uk:3000 | Elapsed Time: 19953.82ms
+[2025-02-27T19:06:34.710Z] RowsFetched@__srv03927.soton.ac.uk:3000: 46
+[2025-02-27T19:06:34.710Z] Timer Ended: CombineResults@__srv03927.soton.ac.uk:3000 | Elapsed Time: 23369.37ms
+[2025-02-27T19:06:37.145Z] RowsFetched@__srv03923.soton.ac.uk:3000: 34
+[2025-02-27T19:06:37.146Z] Timer Ended: CombineResults@__srv03923.soton.ac.uk:3000 | Elapsed Time: 25723.85ms
+[2025-02-27T19:06:39.212Z] RowsFetched@__srv03911.soton.ac.uk:3000: 39
+[2025-02-27T19:06:39.213Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 24313.27ms
+[2025-02-27T19:06:39.215Z] RowsFetched@ALL: 402
+[2025-02-27T19:06:39.215Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.25ms
+[2025-02-27T19:06:39.223Z] Timer Ended: TotalTime | Elapsed Time: 34594.02ms
+[2025-02-27T19:06:51.083Z] Search Word: "milford regional"
+[2025-02-27T19:06:51.084Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:06:55.435Z] Relevant Servers: ["srv03935.soton.ac.uk:3000","srv03952.soton.ac.uk:3000","srv03946.soton.ac.uk:3000","srv03927.soton.ac.uk:3000","srv03942.soton.ac.uk:3000","srv03931.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03912.soton.ac.uk:3000"]
+[2025-02-27T19:06:55.437Z] Timer Ended: FindRelevantServers | Elapsed Time: 4352.89ms
+[2025-02-27T19:06:57.123Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 7
+[2025-02-27T19:06:57.125Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1641.47ms
+[2025-02-27T19:06:57.239Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 5
+[2025-02-27T19:06:57.240Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1766.00ms
+[2025-02-27T19:06:57.531Z] No. SELECTED PODS from srv03927.soton.ac.uk:3000: 7
+[2025-02-27T19:06:57.531Z] Timer Ended: FindRelevantPods@__srv03927.soton.ac.uk:3000 | Elapsed Time: 2062.43ms
+[2025-02-27T19:06:57.549Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:06:57.550Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2064.19ms
+[2025-02-27T19:06:57.564Z] No. SELECTED PODS from srv03935.soton.ac.uk:3000: 16
+[2025-02-27T19:06:57.564Z] Timer Ended: FindRelevantPods@__srv03935.soton.ac.uk:3000 | Elapsed Time: 2086.82ms
+[2025-02-27T19:06:57.565Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 7
+[2025-02-27T19:06:57.565Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2084.05ms
+[2025-02-27T19:06:57.839Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 8
+[2025-02-27T19:06:57.839Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 2367.64ms
+[2025-02-27T19:06:57.840Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 10
+[2025-02-27T19:06:57.840Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 2360.61ms
+[2025-02-27T19:06:57.843Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 14
+[2025-02-27T19:06:57.844Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 2378.49ms
+[2025-02-27T19:06:57.857Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 5
+[2025-02-27T19:06:57.857Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 2417.78ms
+[2025-02-27T19:06:58.949Z] RowsFetched@__srv03946.soton.ac.uk:3000: 7
+[2025-02-27T19:06:58.949Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1824.34ms
+[2025-02-27T19:06:58.997Z] RowsFetched@__srv03934.soton.ac.uk:3000: 5
+[2025-02-27T19:06:58.997Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1756.97ms
+[2025-02-27T19:06:59.742Z] RowsFetched@__srv03927.soton.ac.uk:3000: 7
+[2025-02-27T19:06:59.743Z] Timer Ended: CombineResults@__srv03927.soton.ac.uk:3000 | Elapsed Time: 2210.92ms
+[2025-02-27T19:07:00.539Z] RowsFetched@__srv03952.soton.ac.uk:3000: 9
+[2025-02-27T19:07:00.540Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2989.82ms
+[2025-02-27T19:07:01.536Z] RowsFetched@__srv03935.soton.ac.uk:3000: 16
+[2025-02-27T19:07:01.537Z] Timer Ended: CombineResults@__srv03935.soton.ac.uk:3000 | Elapsed Time: 3971.94ms
+[2025-02-27T19:07:02.108Z] RowsFetched@__srv03945.soton.ac.uk:3000: 7
+[2025-02-27T19:07:02.110Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 4544.14ms
+[2025-02-27T19:07:03.243Z] RowsFetched@__srv03931.soton.ac.uk:3000: 8
+[2025-02-27T19:07:03.243Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 5403.48ms
+[2025-02-27T19:07:03.693Z] RowsFetched@__srv03942.soton.ac.uk:3000: 10
+[2025-02-27T19:07:03.694Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 5853.89ms
+[2025-02-27T19:07:04.462Z] RowsFetched@__srv03912.soton.ac.uk:3000: 14
+[2025-02-27T19:07:04.463Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 6618.38ms
+[2025-02-27T19:07:04.562Z] RowsFetched@__srv03814.soton.ac.uk:3000: 5
+[2025-02-27T19:07:04.563Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 6705.19ms
+[2025-02-27T19:07:04.564Z] RowsFetched@ALL: 88
+[2025-02-27T19:07:04.564Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.49ms
+[2025-02-27T19:07:04.573Z] Timer Ended: TotalTime | Elapsed Time: 13490.29ms
+[2025-02-27T19:07:17.221Z] Search Word: "thanh759 memorial"
+[2025-02-27T19:07:17.222Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:07:22.073Z] Relevant Servers: ["srv03911.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03936.soton.ac.uk:3000","srv03816.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03917.soton.ac.uk:3000","srv03929.soton.ac.uk:3000","srv03927.soton.ac.uk:3000","srv03938.soton.ac.uk:3000"]
+[2025-02-27T19:07:22.075Z] Timer Ended: FindRelevantServers | Elapsed Time: 4852.30ms
+[2025-02-27T19:07:23.753Z] No. SELECTED PODS from srv03927.soton.ac.uk:3000: 25
+[2025-02-27T19:07:23.753Z] Timer Ended: FindRelevantPods@__srv03927.soton.ac.uk:3000 | Elapsed Time: 1651.66ms
+[2025-02-27T19:07:23.978Z] No. SELECTED PODS from srv03936.soton.ac.uk:3000: 21
+[2025-02-27T19:07:23.979Z] Timer Ended: FindRelevantPods@__srv03936.soton.ac.uk:3000 | Elapsed Time: 1871.84ms
+[2025-02-27T19:07:24.141Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 23
+[2025-02-27T19:07:24.142Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2031.00ms
+[2025-02-27T19:07:24.387Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 20
+[2025-02-27T19:07:24.388Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2274.75ms
+[2025-02-27T19:07:24.560Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 24
+[2025-02-27T19:07:24.561Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 2445.81ms
+[2025-02-27T19:07:24.565Z] No. SELECTED PODS from srv03917.soton.ac.uk:3000: 18
+[2025-02-27T19:07:24.566Z] Timer Ended: FindRelevantPods@__srv03917.soton.ac.uk:3000 | Elapsed Time: 2465.98ms
+[2025-02-27T19:07:24.577Z] No. SELECTED PODS from srv03929.soton.ac.uk:3000: 20
+[2025-02-27T19:07:24.578Z] Timer Ended: FindRelevantPods@__srv03929.soton.ac.uk:3000 | Elapsed Time: 2474.39ms
+[2025-02-27T19:07:24.578Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 21
+[2025-02-27T19:07:24.578Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2502.20ms
+[2025-02-27T19:07:24.583Z] No. SELECTED PODS from srv03938.soton.ac.uk:3000: 28
+[2025-02-27T19:07:24.584Z] Timer Ended: FindRelevantPods@__srv03938.soton.ac.uk:3000 | Elapsed Time: 2474.79ms
+[2025-02-27T19:07:26.631Z] RowsFetched@__srv03927.soton.ac.uk:3000: 25
+[2025-02-27T19:07:26.634Z] Timer Ended: CombineResults@__srv03927.soton.ac.uk:3000 | Elapsed Time: 2879.90ms
+[2025-02-27T19:07:28.169Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 25
+[2025-02-27T19:07:28.170Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 6073.92ms
+[2025-02-27T19:07:28.518Z] RowsFetched@__srv03936.soton.ac.uk:3000: 21
+[2025-02-27T19:07:28.518Z] Timer Ended: CombineResults@__srv03936.soton.ac.uk:3000 | Elapsed Time: 4538.66ms
+[2025-02-27T19:07:30.282Z] RowsFetched@__srv03945.soton.ac.uk:3000: 23
+[2025-02-27T19:07:30.282Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 6139.75ms
+[2025-02-27T19:07:31.542Z] RowsFetched@__srv03947.soton.ac.uk:3000: 20
+[2025-02-27T19:07:31.543Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 7155.61ms
+[2025-02-27T19:07:33.427Z] RowsFetched@__srv03954.soton.ac.uk:3000: 24
+[2025-02-27T19:07:33.428Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 8867.02ms
+[2025-02-27T19:07:35.066Z] RowsFetched@__srv03917.soton.ac.uk:3000: 18
+[2025-02-27T19:07:35.066Z] Timer Ended: CombineResults@__srv03917.soton.ac.uk:3000 | Elapsed Time: 10500.39ms
+[2025-02-27T19:07:36.366Z] RowsFetched@__srv03929.soton.ac.uk:3000: 20
+[2025-02-27T19:07:36.366Z] Timer Ended: CombineResults@__srv03929.soton.ac.uk:3000 | Elapsed Time: 11787.98ms
+[2025-02-27T19:07:37.900Z] RowsFetched@__srv03816.soton.ac.uk:3000: 21
+[2025-02-27T19:07:37.900Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 13321.68ms
+[2025-02-27T19:07:40.083Z] RowsFetched@__srv03938.soton.ac.uk:3000: 28
+[2025-02-27T19:07:40.083Z] Timer Ended: CombineResults@__srv03938.soton.ac.uk:3000 | Elapsed Time: 15499.01ms
+[2025-02-27T19:07:41.633Z] RowsFetched@__srv03911.soton.ac.uk:3000: 25
+[2025-02-27T19:07:41.633Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 13462.77ms
+[2025-02-27T19:07:41.635Z] RowsFetched@ALL: 225
+[2025-02-27T19:07:41.635Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.80ms
+[2025-02-27T19:07:41.643Z] Timer Ended: TotalTime | Elapsed Time: 24421.84ms
+[2025-02-27T19:07:53.560Z] Search Word: "childhood inhaler"
+[2025-02-27T19:07:53.561Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:07:58.072Z] Relevant Servers: ["srv03921.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03813.soton.ac.uk:3000","srv03951.soton.ac.uk:3000","srv03944.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03952.soton.ac.uk:3000"]
+[2025-02-27T19:07:58.073Z] Timer Ended: FindRelevantServers | Elapsed Time: 4511.34ms
+[2025-02-27T19:08:00.147Z] No. SELECTED PODS from srv03951.soton.ac.uk:3000: 34
+[2025-02-27T19:08:00.150Z] Timer Ended: FindRelevantPods@__srv03951.soton.ac.uk:3000 | Elapsed Time: 2034.56ms
+[2025-02-27T19:08:00.226Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 34
+[2025-02-27T19:08:00.227Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 2124.59ms
+[2025-02-27T19:08:00.227Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 36
+[2025-02-27T19:08:00.228Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 2123.04ms
+[2025-02-27T19:08:00.228Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 28
+[2025-02-27T19:08:00.228Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2114.64ms
+[2025-02-27T19:08:00.262Z] No. SELECTED PODS from srv03813.soton.ac.uk:3000: 27
+[2025-02-27T19:08:00.262Z] Timer Ended: FindRelevantPods@__srv03813.soton.ac.uk:3000 | Elapsed Time: 2188.07ms
+[2025-02-27T19:08:00.278Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 42
+[2025-02-27T19:08:00.279Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 2182.14ms
+[2025-02-27T19:08:00.307Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 44
+[2025-02-27T19:08:00.307Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 2197.47ms
+[2025-02-27T19:08:00.324Z] No. SELECTED PODS from srv03944.soton.ac.uk:3000: 33
+[2025-02-27T19:08:00.324Z] Timer Ended: FindRelevantPods@__srv03944.soton.ac.uk:3000 | Elapsed Time: 2212.39ms
+[2025-02-27T19:08:00.347Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 29
+[2025-02-27T19:08:00.348Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2229.98ms
+[2025-02-27T19:08:00.367Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 39
+[2025-02-27T19:08:00.367Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2260.97ms
+[2025-02-27T19:08:03.602Z] RowsFetched@__srv03951.soton.ac.uk:3000: 34
+[2025-02-27T19:08:03.603Z] Timer Ended: CombineResults@__srv03951.soton.ac.uk:3000 | Elapsed Time: 3452.54ms
+[2025-02-27T19:08:05.986Z] RowsFetched@__srv03921.soton.ac.uk:3000: 34
+[2025-02-27T19:08:05.986Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 5759.18ms
+[2025-02-27T19:08:08.497Z] RowsFetched@__srv03934.soton.ac.uk:3000: 35
+[2025-02-27T19:08:08.498Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 8270.08ms
+[2025-02-27T19:08:10.535Z] RowsFetched@__srv03950.soton.ac.uk:3000: 28
+[2025-02-27T19:08:10.536Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 10307.02ms
+[2025-02-27T19:08:12.909Z] RowsFetched@__srv03813.soton.ac.uk:3000: 27
+[2025-02-27T19:08:12.910Z] Timer Ended: CombineResults@__srv03813.soton.ac.uk:3000 | Elapsed Time: 12647.03ms
+[2025-02-27T19:08:17.136Z] RowsFetched@__srv03814.soton.ac.uk:3000: 42
+[2025-02-27T19:08:17.137Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 16857.71ms
+[2025-02-27T19:08:22.735Z] RowsFetched@__srv03941.soton.ac.uk:3000: 44
+[2025-02-27T19:08:22.735Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 22427.83ms
+[2025-02-27T19:08:26.556Z] RowsFetched@__srv03944.soton.ac.uk:3000: 33
+[2025-02-27T19:08:26.557Z] Timer Ended: CombineResults@__srv03944.soton.ac.uk:3000 | Elapsed Time: 26232.55ms
+[2025-02-27T19:08:29.779Z] RowsFetched@__srv03952.soton.ac.uk:3000: 29
+[2025-02-27T19:08:29.780Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 29431.70ms
+[2025-02-27T19:08:33.297Z] RowsFetched@__srv03937.soton.ac.uk:3000: 39
+[2025-02-27T19:08:33.298Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 32930.44ms
+[2025-02-27T19:08:33.301Z] RowsFetched@ALL: 345
+[2025-02-27T19:08:33.301Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.35ms
+[2025-02-27T19:08:33.307Z] Timer Ended: TotalTime | Elapsed Time: 39747.56ms
+[2025-02-27T19:08:45.926Z] Search Word: "50603 deena887 cyndy549 35969"
+[2025-02-27T19:08:45.927Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:08:49.987Z] Relevant Servers: ["srv03955.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03814.soton.ac.uk:3000"]
+[2025-02-27T19:08:49.988Z] Timer Ended: FindRelevantServers | Elapsed Time: 4060.08ms
+[2025-02-27T19:08:51.604Z] No. SELECTED PODS from srv03955.soton.ac.uk:3000: 1
+[2025-02-27T19:08:51.604Z] Timer Ended: FindRelevantPods@__srv03955.soton.ac.uk:3000 | Elapsed Time: 1593.01ms
+[2025-02-27T19:08:51.713Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 1
+[2025-02-27T19:08:51.713Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 1705.02ms
+[2025-02-27T19:08:52.044Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 1
+[2025-02-27T19:08:52.045Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 2056.10ms
+[2025-02-27T19:08:52.321Z] RowsFetched@__srv03955.soton.ac.uk:3000: 1
+[2025-02-27T19:08:52.322Z] Timer Ended: CombineResults@__srv03955.soton.ac.uk:3000 | Elapsed Time: 716.62ms
+[2025-02-27T19:08:52.423Z] RowsFetched@__srv03814.soton.ac.uk:3000: 1
+[2025-02-27T19:08:52.423Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 709.52ms
+[2025-02-27T19:08:52.860Z] RowsFetched@__srv03812.soton.ac.uk:3000: 1
+[2025-02-27T19:08:52.860Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 815.25ms
+[2025-02-27T19:08:52.862Z] RowsFetched@ALL: 3
+[2025-02-27T19:08:52.862Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.12ms
+[2025-02-27T19:08:52.868Z] Timer Ended: TotalTime | Elapsed Time: 6941.58ms
+[2025-02-27T19:09:04.708Z] Search Word: "cottage nantucket bernie827 mosciski958 gussie514"
+[2025-02-27T19:09:04.709Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:09:09.668Z] Relevant Servers: ["srv03921.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03930.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03946.soton.ac.uk:3000","srv03928.soton.ac.uk:3000","srv03948.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03949.soton.ac.uk:3000"]
+[2025-02-27T19:09:09.668Z] Timer Ended: FindRelevantServers | Elapsed Time: 4958.62ms
+[2025-02-27T19:09:11.855Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 4
+[2025-02-27T19:09:11.860Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 2155.97ms
+[2025-02-27T19:09:12.054Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 1
+[2025-02-27T19:09:12.059Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2358.15ms
+[2025-02-27T19:09:12.082Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 4
+[2025-02-27T19:09:12.083Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 2390.31ms
+[2025-02-27T19:09:12.104Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 1
+[2025-02-27T19:09:12.104Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2392.36ms
+[2025-02-27T19:09:12.123Z] No. SELECTED PODS from srv03930.soton.ac.uk:3000: 1
+[2025-02-27T19:09:12.123Z] Timer Ended: FindRelevantPods@__srv03930.soton.ac.uk:3000 | Elapsed Time: 2424.58ms
+[2025-02-27T19:09:12.160Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 3
+[2025-02-27T19:09:12.161Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 2490.90ms
+[2025-02-27T19:09:12.319Z] No. SELECTED PODS from srv03948.soton.ac.uk:3000: 3
+[2025-02-27T19:09:12.319Z] Timer Ended: FindRelevantPods@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2610.28ms
+[2025-02-27T19:09:12.327Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 5
+[2025-02-27T19:09:12.328Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2621.58ms
+[2025-02-27T19:09:12.339Z] No. SELECTED PODS from srv03928.soton.ac.uk:3000: 4
+[2025-02-27T19:09:12.340Z] Timer Ended: FindRelevantPods@__srv03928.soton.ac.uk:3000 | Elapsed Time: 2643.19ms
+[2025-02-27T19:09:12.356Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 2
+[2025-02-27T19:09:12.356Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2641.96ms
+[2025-02-27T19:09:13.713Z] RowsFetched@__srv03949.soton.ac.uk:3000: 1
+[2025-02-27T19:09:13.713Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 1609.41ms
+[2025-02-27T19:09:13.836Z] RowsFetched@__srv03930.soton.ac.uk:3000: 1
+[2025-02-27T19:09:13.836Z] Timer Ended: CombineResults@__srv03930.soton.ac.uk:3000 | Elapsed Time: 1712.35ms
+[2025-02-27T19:09:13.854Z] RowsFetched@__srv03946.soton.ac.uk:3000: 4
+[2025-02-27T19:09:13.854Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1993.86ms
+[2025-02-27T19:09:13.890Z] RowsFetched@__srv03945.soton.ac.uk:3000: 1
+[2025-02-27T19:09:13.890Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 1830.85ms
+[2025-02-27T19:09:13.892Z] RowsFetched@__srv03922.soton.ac.uk:3000: 4
+[2025-02-27T19:09:13.892Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 1808.83ms
+[2025-02-27T19:09:13.955Z] RowsFetched@__srv03921.soton.ac.uk:3000: 3
+[2025-02-27T19:09:13.956Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 1794.79ms
+[2025-02-27T19:09:14.141Z] RowsFetched@__srv03948.soton.ac.uk:3000: 3
+[2025-02-27T19:09:14.141Z] Timer Ended: CombineResults@__srv03948.soton.ac.uk:3000 | Elapsed Time: 1821.68ms
+[2025-02-27T19:09:14.277Z] RowsFetched@__srv03947.soton.ac.uk:3000: 5
+[2025-02-27T19:09:14.277Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 1949.71ms
+[2025-02-27T19:09:14.650Z] RowsFetched@__srv03928.soton.ac.uk:3000: 4
+[2025-02-27T19:09:14.651Z] Timer Ended: CombineResults@__srv03928.soton.ac.uk:3000 | Elapsed Time: 2310.78ms
+[2025-02-27T19:09:14.725Z] RowsFetched@__srv03950.soton.ac.uk:3000: 2
+[2025-02-27T19:09:14.726Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2369.24ms
+[2025-02-27T19:09:14.727Z] RowsFetched@ALL: 28
+[2025-02-27T19:09:14.727Z] Timer Ended: RankingResults@ALL | Elapsed Time: 0.83ms
+[2025-02-27T19:09:14.732Z] Timer Ended: TotalTime | Elapsed Time: 10023.85ms
+[2025-02-27T19:09:26.747Z] Search Word: "solutions bartell116 orville751"
+[2025-02-27T19:09:26.748Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:09:31.342Z] Relevant Servers: ["srv03912.soton.ac.uk:3000","srv03933.soton.ac.uk:3000","srv03920.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03915.soton.ac.uk:3000","srv03943.soton.ac.uk:3000","srv03931.soton.ac.uk:3000","srv03951.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03942.soton.ac.uk:3000"]
+[2025-02-27T19:09:31.343Z] Timer Ended: FindRelevantServers | Elapsed Time: 4594.83ms
+[2025-02-27T19:09:33.565Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 6
+[2025-02-27T19:09:33.565Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 2188.64ms
+[2025-02-27T19:09:33.600Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 9
+[2025-02-27T19:09:33.601Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2211.47ms
+[2025-02-27T19:09:33.651Z] No. SELECTED PODS from srv03951.soton.ac.uk:3000: 8
+[2025-02-27T19:09:33.652Z] Timer Ended: FindRelevantPods@__srv03951.soton.ac.uk:3000 | Elapsed Time: 2259.27ms
+[2025-02-27T19:09:33.666Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 7
+[2025-02-27T19:09:33.667Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 2279.41ms
+[2025-02-27T19:09:33.670Z] No. SELECTED PODS from srv03933.soton.ac.uk:3000: 7
+[2025-02-27T19:09:33.671Z] Timer Ended: FindRelevantPods@__srv03933.soton.ac.uk:3000 | Elapsed Time: 2291.54ms
+[2025-02-27T19:09:33.671Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 8
+[2025-02-27T19:09:33.671Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 2286.25ms
+[2025-02-27T19:09:33.683Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 13
+[2025-02-27T19:09:33.684Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 2338.94ms
+[2025-02-27T19:09:33.933Z] No. SELECTED PODS from srv03920.soton.ac.uk:3000: 8
+[2025-02-27T19:09:33.933Z] Timer Ended: FindRelevantPods@__srv03920.soton.ac.uk:3000 | Elapsed Time: 2559.40ms
+[2025-02-27T19:09:33.934Z] No. SELECTED PODS from srv03915.soton.ac.uk:3000: 6
+[2025-02-27T19:09:33.934Z] Timer Ended: FindRelevantPods@__srv03915.soton.ac.uk:3000 | Elapsed Time: 2564.21ms
+[2025-02-27T19:09:33.934Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 5
+[2025-02-27T19:09:33.934Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 2551.61ms
+[2025-02-27T19:09:35.520Z] RowsFetched@__srv03931.soton.ac.uk:3000: 6
+[2025-02-27T19:09:35.521Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 1954.99ms
+[2025-02-27T19:09:36.006Z] RowsFetched@__srv03951.soton.ac.uk:3000: 8
+[2025-02-27T19:09:36.007Z] Timer Ended: CombineResults@__srv03951.soton.ac.uk:3000 | Elapsed Time: 2355.06ms
+[2025-02-27T19:09:36.349Z] RowsFetched@__srv03950.soton.ac.uk:3000: 9
+[2025-02-27T19:09:36.350Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2748.86ms
+[2025-02-27T19:09:37.112Z] RowsFetched@__srv03943.soton.ac.uk:3000: 7
+[2025-02-27T19:09:37.113Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 3445.84ms
+[2025-02-27T19:09:37.489Z] RowsFetched@__srv03933.soton.ac.uk:3000: 7
+[2025-02-27T19:09:37.490Z] Timer Ended: CombineResults@__srv03933.soton.ac.uk:3000 | Elapsed Time: 3818.89ms
+[2025-02-27T19:09:38.037Z] RowsFetched@__srv03942.soton.ac.uk:3000: 8
+[2025-02-27T19:09:38.038Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 4366.29ms
+[2025-02-27T19:09:39.085Z] RowsFetched@__srv03912.soton.ac.uk:3000: 13
+[2025-02-27T19:09:39.087Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 5402.23ms
+[2025-02-27T19:09:39.611Z] RowsFetched@__srv03920.soton.ac.uk:3000: 8
+[2025-02-27T19:09:39.611Z] Timer Ended: CombineResults@__srv03920.soton.ac.uk:3000 | Elapsed Time: 5677.74ms
+[2025-02-27T19:09:39.718Z] RowsFetched@__srv03915.soton.ac.uk:3000: 6
+[2025-02-27T19:09:39.718Z] Timer Ended: CombineResults@__srv03915.soton.ac.uk:3000 | Elapsed Time: 5784.23ms
+[2025-02-27T19:09:40.054Z] RowsFetched@__srv03934.soton.ac.uk:3000: 5
+[2025-02-27T19:09:40.055Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 6119.86ms
+[2025-02-27T19:09:40.056Z] RowsFetched@ALL: 77
+[2025-02-27T19:09:40.057Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.32ms
+[2025-02-27T19:09:40.062Z] Timer Ended: TotalTime | Elapsed Time: 13315.31ms
+[2025-02-27T19:09:52.853Z] Search Word: "nantucket nicolas769 danial835 gussie514"
+[2025-02-27T19:09:52.855Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:09:57.545Z] Relevant Servers: ["srv03950.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03946.soton.ac.uk:3000","srv03948.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03923.soton.ac.uk:3000"]
+[2025-02-27T19:09:57.545Z] Timer Ended: FindRelevantServers | Elapsed Time: 4689.78ms
+[2025-02-27T19:09:59.268Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 10
+[2025-02-27T19:09:59.270Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1691.16ms
+[2025-02-27T19:09:59.638Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 9
+[2025-02-27T19:09:59.639Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2072.82ms
+[2025-02-27T19:09:59.806Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 8
+[2025-02-27T19:09:59.807Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2225.41ms
+[2025-02-27T19:09:59.908Z] No. SELECTED PODS from srv03923.soton.ac.uk:3000: 3
+[2025-02-27T19:09:59.908Z] Timer Ended: FindRelevantPods@__srv03923.soton.ac.uk:3000 | Elapsed Time: 2335.66ms
+[2025-02-27T19:09:59.909Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 10
+[2025-02-27T19:09:59.909Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 2339.01ms
+[2025-02-27T19:10:00.084Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 5
+[2025-02-27T19:10:00.084Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2500.85ms
+[2025-02-27T19:10:00.116Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 10
+[2025-02-27T19:10:00.117Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 2531.17ms
+[2025-02-27T19:10:00.118Z] No. SELECTED PODS from srv03948.soton.ac.uk:3000: 6
+[2025-02-27T19:10:00.118Z] Timer Ended: FindRelevantPods@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2537.65ms
+[2025-02-27T19:10:00.121Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 11
+[2025-02-27T19:10:00.121Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2546.46ms
+[2025-02-27T19:10:01.735Z] RowsFetched@__srv03946.soton.ac.uk:3000: 10
+[2025-02-27T19:10:01.736Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 2465.12ms
+[2025-02-27T19:10:02.327Z] RowsFetched@__srv03919.soton.ac.uk:3000: 9
+[2025-02-27T19:10:02.327Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2687.62ms
+[2025-02-27T19:10:02.996Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 6
+[2025-02-27T19:10:02.998Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 5452.03ms
+[2025-02-27T19:10:03.623Z] RowsFetched@__srv03949.soton.ac.uk:3000: 8
+[2025-02-27T19:10:03.624Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 3816.34ms
+[2025-02-27T19:10:03.641Z] RowsFetched@__srv03923.soton.ac.uk:3000: 3
+[2025-02-27T19:10:03.642Z] Timer Ended: CombineResults@__srv03923.soton.ac.uk:3000 | Elapsed Time: 3733.39ms
+[2025-02-27T19:10:04.411Z] RowsFetched@__srv03922.soton.ac.uk:3000: 10
+[2025-02-27T19:10:04.412Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 4502.47ms
+[2025-02-27T19:10:04.566Z] RowsFetched@__srv03950.soton.ac.uk:3000: 5
+[2025-02-27T19:10:04.566Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 4481.89ms
+[2025-02-27T19:10:05.276Z] RowsFetched@__srv03954.soton.ac.uk:3000: 10
+[2025-02-27T19:10:05.277Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 5160.05ms
+[2025-02-27T19:10:05.417Z] RowsFetched@__srv03948.soton.ac.uk:3000: 6
+[2025-02-27T19:10:05.418Z] Timer Ended: CombineResults@__srv03948.soton.ac.uk:3000 | Elapsed Time: 5299.93ms
+[2025-02-27T19:10:08.785Z] RowsFetched@__srv03945.soton.ac.uk:3000: 11
+[2025-02-27T19:10:08.785Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 8663.93ms
+[2025-02-27T19:10:11.999Z] RowsFetched@__srv03812.soton.ac.uk:3000: 6
+[2025-02-27T19:10:11.999Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 9000.59ms
+[2025-02-27T19:10:12.000Z] RowsFetched@ALL: 78
+[2025-02-27T19:10:12.000Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.01ms
+[2025-02-27T19:10:12.006Z] Timer Ended: TotalTime | Elapsed Time: 19152.40ms
+[2025-02-27T19:10:24.035Z] Search Word: "falmouth miller503 dominic463 nikolaus26 isiah14"
+[2025-02-27T19:10:24.037Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:10:29.205Z] Relevant Servers: ["srv03924.soton.ac.uk:3000","srv03920.soton.ac.uk:3000","srv03935.soton.ac.uk:3000","srv03815.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03930.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03942.soton.ac.uk:3000","srv03929.soton.ac.uk:3000","srv03937.soton.ac.uk:3000"]
+[2025-02-27T19:10:29.206Z] Timer Ended: FindRelevantServers | Elapsed Time: 5168.49ms
+[2025-02-27T19:10:31.360Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 9
+[2025-02-27T19:10:31.362Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2115.97ms
+[2025-02-27T19:10:31.390Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 9
+[2025-02-27T19:10:31.391Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 2140.09ms
+[2025-02-27T19:10:31.451Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 10
+[2025-02-27T19:10:31.451Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2221.93ms
+[2025-02-27T19:10:31.475Z] No. SELECTED PODS from srv03930.soton.ac.uk:3000: 9
+[2025-02-27T19:10:31.475Z] Timer Ended: FindRelevantPods@__srv03930.soton.ac.uk:3000 | Elapsed Time: 2233.61ms
+[2025-02-27T19:10:31.595Z] No. SELECTED PODS from srv03929.soton.ac.uk:3000: 7
+[2025-02-27T19:10:31.596Z] Timer Ended: FindRelevantPods@__srv03929.soton.ac.uk:3000 | Elapsed Time: 2357.32ms
+[2025-02-27T19:10:31.596Z] No. SELECTED PODS from srv03935.soton.ac.uk:3000: 10
+[2025-02-27T19:10:31.597Z] Timer Ended: FindRelevantPods@__srv03935.soton.ac.uk:3000 | Elapsed Time: 2352.96ms
+[2025-02-27T19:10:31.677Z] No. SELECTED PODS from srv03924.soton.ac.uk:3000: 15
+[2025-02-27T19:10:31.678Z] Timer Ended: FindRelevantPods@__srv03924.soton.ac.uk:3000 | Elapsed Time: 2441.26ms
+[2025-02-27T19:10:31.678Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 10
+[2025-02-27T19:10:31.678Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2470.72ms
+[2025-02-27T19:10:31.680Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 11
+[2025-02-27T19:10:31.680Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 2431.48ms
+[2025-02-27T19:10:32.252Z] No. SELECTED PODS from srv03920.soton.ac.uk:3000: 9
+[2025-02-27T19:10:32.262Z] Timer Ended: FindRelevantPods@__srv03920.soton.ac.uk:3000 | Elapsed Time: 3027.75ms
+[2025-02-27T19:10:33.373Z] RowsFetched@__srv03942.soton.ac.uk:3000: 9
+[2025-02-27T19:10:33.374Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 1982.91ms
+[2025-02-27T19:10:33.527Z] RowsFetched@__srv03937.soton.ac.uk:3000: 9
+[2025-02-27T19:10:33.527Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2164.49ms
+[2025-02-27T19:10:35.194Z] RowsFetched@__srv03919.soton.ac.uk:3000: 10
+[2025-02-27T19:10:35.194Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 3742.48ms
+[2025-02-27T19:10:35.578Z] RowsFetched@__srv03930.soton.ac.uk:3000: 9
+[2025-02-27T19:10:35.578Z] Timer Ended: CombineResults@__srv03930.soton.ac.uk:3000 | Elapsed Time: 4102.85ms
+[2025-02-27T19:10:35.802Z] RowsFetched@__srv03929.soton.ac.uk:3000: 7
+[2025-02-27T19:10:35.802Z] Timer Ended: CombineResults@__srv03929.soton.ac.uk:3000 | Elapsed Time: 4206.21ms
+[2025-02-27T19:10:36.915Z] RowsFetched@__srv03935.soton.ac.uk:3000: 10
+[2025-02-27T19:10:36.916Z] Timer Ended: CombineResults@__srv03935.soton.ac.uk:3000 | Elapsed Time: 5318.58ms
+[2025-02-27T19:10:37.630Z] RowsFetched@__srv03924.soton.ac.uk:3000: 15
+[2025-02-27T19:10:37.631Z] Timer Ended: CombineResults@__srv03924.soton.ac.uk:3000 | Elapsed Time: 5952.72ms
+[2025-02-27T19:10:38.936Z] RowsFetched@__srv03815.soton.ac.uk:3000: 10
+[2025-02-27T19:10:38.939Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 7260.58ms
+[2025-02-27T19:10:39.517Z] RowsFetched@__srv03939.soton.ac.uk:3000: 11
+[2025-02-27T19:10:39.517Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 7837.00ms
+[2025-02-27T19:10:39.737Z] RowsFetched@__srv03920.soton.ac.uk:3000: 9
+[2025-02-27T19:10:39.737Z] Timer Ended: CombineResults@__srv03920.soton.ac.uk:3000 | Elapsed Time: 7475.02ms
+[2025-02-27T19:10:39.738Z] RowsFetched@ALL: 99
+[2025-02-27T19:10:39.739Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.34ms
+[2025-02-27T19:10:39.745Z] Timer Ended: TotalTime | Elapsed Time: 15709.28ms
+[2025-02-27T19:10:52.105Z] Search Word: "brockton schmeler639 sallie654 christiansen251"
+[2025-02-27T19:10:52.106Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:10:56.974Z] Relevant Servers: ["srv03918.soton.ac.uk:3000","srv03935.soton.ac.uk:3000","srv03952.soton.ac.uk:3000","srv03914.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03915.soton.ac.uk:3000","srv03813.soton.ac.uk:3000"]
+[2025-02-27T19:10:56.975Z] Timer Ended: FindRelevantServers | Elapsed Time: 4869.15ms
+[2025-02-27T19:10:59.119Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 16
+[2025-02-27T19:10:59.120Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2102.49ms
+[2025-02-27T19:10:59.186Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 21
+[2025-02-27T19:10:59.187Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2176.40ms
+[2025-02-27T19:10:59.229Z] No. SELECTED PODS from srv03813.soton.ac.uk:3000: 15
+[2025-02-27T19:10:59.230Z] Timer Ended: FindRelevantPods@__srv03813.soton.ac.uk:3000 | Elapsed Time: 2253.14ms
+[2025-02-27T19:10:59.270Z] No. SELECTED PODS from srv03915.soton.ac.uk:3000: 16
+[2025-02-27T19:10:59.270Z] Timer Ended: FindRelevantPods@__srv03915.soton.ac.uk:3000 | Elapsed Time: 2265.17ms
+[2025-02-27T19:10:59.292Z] No. SELECTED PODS from srv03935.soton.ac.uk:3000: 16
+[2025-02-27T19:10:59.292Z] Timer Ended: FindRelevantPods@__srv03935.soton.ac.uk:3000 | Elapsed Time: 2279.65ms
+[2025-02-27T19:10:59.329Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 22
+[2025-02-27T19:10:59.329Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 2329.93ms
+[2025-02-27T19:10:59.330Z] No. SELECTED PODS from srv03918.soton.ac.uk:3000: 20
+[2025-02-27T19:10:59.330Z] Timer Ended: FindRelevantPods@__srv03918.soton.ac.uk:3000 | Elapsed Time: 2322.87ms
+[2025-02-27T19:10:59.330Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 19
+[2025-02-27T19:10:59.330Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2315.56ms
+[2025-02-27T19:10:59.432Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 20
+[2025-02-27T19:10:59.433Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 2413.34ms
+[2025-02-27T19:10:59.433Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 22
+[2025-02-27T19:10:59.433Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 2430.87ms
+[2025-02-27T19:11:01.806Z] RowsFetched@__srv03950.soton.ac.uk:3000: 16
+[2025-02-27T19:11:01.806Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2686.26ms
+[2025-02-27T19:11:03.144Z] RowsFetched@__srv03919.soton.ac.uk:3000: 21
+[2025-02-27T19:11:03.144Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 3957.05ms
+[2025-02-27T19:11:04.486Z] RowsFetched@__srv03813.soton.ac.uk:3000: 15
+[2025-02-27T19:11:04.486Z] Timer Ended: CombineResults@__srv03813.soton.ac.uk:3000 | Elapsed Time: 5256.27ms
+[2025-02-27T19:11:05.805Z] RowsFetched@__srv03915.soton.ac.uk:3000: 16
+[2025-02-27T19:11:05.806Z] Timer Ended: CombineResults@__srv03915.soton.ac.uk:3000 | Elapsed Time: 6535.53ms
+[2025-02-27T19:11:07.824Z] RowsFetched@__srv03935.soton.ac.uk:3000: 16
+[2025-02-27T19:11:07.825Z] Timer Ended: CombineResults@__srv03935.soton.ac.uk:3000 | Elapsed Time: 8532.60ms
+[2025-02-27T19:11:10.488Z] RowsFetched@__srv03814.soton.ac.uk:3000: 22
+[2025-02-27T19:11:10.494Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 11165.11ms
+[2025-02-27T19:11:12.186Z] RowsFetched@__srv03918.soton.ac.uk:3000: 20
+[2025-02-27T19:11:12.190Z] Timer Ended: CombineResults@__srv03918.soton.ac.uk:3000 | Elapsed Time: 12859.59ms
+[2025-02-27T19:11:14.971Z] RowsFetched@__srv03937.soton.ac.uk:3000: 19
+[2025-02-27T19:11:14.973Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 15642.16ms
+[2025-02-27T19:11:16.702Z] RowsFetched@__srv03952.soton.ac.uk:3000: 20
+[2025-02-27T19:11:16.703Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 17269.83ms
+[2025-02-27T19:11:18.109Z] RowsFetched@__srv03914.soton.ac.uk:3000: 22
+[2025-02-27T19:11:18.110Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 18675.38ms
+[2025-02-27T19:11:18.111Z] RowsFetched@ALL: 187
+[2025-02-27T19:11:18.112Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.54ms
+[2025-02-27T19:11:18.122Z] Timer Ended: TotalTime | Elapsed Time: 26017.03ms
+[2025-02-27T19:11:30.244Z] Search Word: "tewksbury lowell child"
+[2025-02-27T19:11:30.245Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:11:35.373Z] Relevant Servers: ["srv03924.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03914.soton.ac.uk:3000","srv03948.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03946.soton.ac.uk:3000","srv03929.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03813.soton.ac.uk:3000","srv03815.soton.ac.uk:3000"]
+[2025-02-27T19:11:35.374Z] Timer Ended: FindRelevantServers | Elapsed Time: 5128.33ms
+[2025-02-27T19:11:37.391Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 37
+[2025-02-27T19:11:37.393Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 1990.20ms
+[2025-02-27T19:11:37.499Z] No. SELECTED PODS from srv03813.soton.ac.uk:3000: 28
+[2025-02-27T19:11:37.499Z] Timer Ended: FindRelevantPods@__srv03813.soton.ac.uk:3000 | Elapsed Time: 2124.05ms
+[2025-02-27T19:11:37.526Z] No. SELECTED PODS from srv03948.soton.ac.uk:3000: 30
+[2025-02-27T19:11:37.527Z] Timer Ended: FindRelevantPods@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2107.94ms
+[2025-02-27T19:11:37.597Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 27
+[2025-02-27T19:11:37.597Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 2180.87ms
+[2025-02-27T19:11:37.614Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 37
+[2025-02-27T19:11:37.614Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2208.44ms
+[2025-02-27T19:11:37.723Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 32
+[2025-02-27T19:11:37.723Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 2311.72ms
+[2025-02-27T19:11:37.729Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 32
+[2025-02-27T19:11:37.730Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2308.06ms
+[2025-02-27T19:11:38.054Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 44
+[2025-02-27T19:11:38.054Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2655.16ms
+[2025-02-27T19:11:38.232Z] No. SELECTED PODS from srv03924.soton.ac.uk:3000: 37
+[2025-02-27T19:11:38.233Z] Timer Ended: FindRelevantPods@__srv03924.soton.ac.uk:3000 | Elapsed Time: 2824.60ms
+[2025-02-27T19:11:38.233Z] No. SELECTED PODS from srv03929.soton.ac.uk:3000: 27
+[2025-02-27T19:11:38.234Z] Timer Ended: FindRelevantPods@__srv03929.soton.ac.uk:3000 | Elapsed Time: 2819.37ms
+[2025-02-27T19:11:42.659Z] RowsFetched@__srv03914.soton.ac.uk:3000: 37
+[2025-02-27T19:11:42.661Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 5266.86ms
+[2025-02-27T19:11:45.121Z] RowsFetched@__srv03813.soton.ac.uk:3000: 28
+[2025-02-27T19:11:45.122Z] Timer Ended: CombineResults@__srv03813.soton.ac.uk:3000 | Elapsed Time: 7622.21ms
+[2025-02-27T19:11:48.787Z] RowsFetched@__srv03948.soton.ac.uk:3000: 30
+[2025-02-27T19:11:48.788Z] Timer Ended: CombineResults@__srv03948.soton.ac.uk:3000 | Elapsed Time: 11260.94ms
+[2025-02-27T19:11:51.192Z] RowsFetched@__srv03946.soton.ac.uk:3000: 27
+[2025-02-27T19:11:51.193Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 13595.38ms
+[2025-02-27T19:11:54.976Z] RowsFetched@__srv03919.soton.ac.uk:3000: 37
+[2025-02-27T19:11:54.977Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 17362.30ms
+[2025-02-27T19:11:57.704Z] RowsFetched@__srv03925.soton.ac.uk:3000: 32
+[2025-02-27T19:11:57.705Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 19981.06ms
+[2025-02-27T19:12:01.081Z] RowsFetched@__srv03949.soton.ac.uk:3000: 32
+[2025-02-27T19:12:01.082Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 23352.01ms
+[2025-02-27T19:12:05.620Z] RowsFetched@__srv03815.soton.ac.uk:3000: 44
+[2025-02-27T19:12:05.621Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 27566.57ms
+[2025-02-27T19:12:10.056Z] RowsFetched@__srv03924.soton.ac.uk:3000: 37
+[2025-02-27T19:12:10.056Z] Timer Ended: CombineResults@__srv03924.soton.ac.uk:3000 | Elapsed Time: 31823.49ms
+[2025-02-27T19:12:12.204Z] RowsFetched@__srv03929.soton.ac.uk:3000: 27
+[2025-02-27T19:12:12.205Z] Timer Ended: CombineResults@__srv03929.soton.ac.uk:3000 | Elapsed Time: 33971.33ms
+[2025-02-27T19:12:12.208Z] RowsFetched@ALL: 331
+[2025-02-27T19:12:12.208Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.32ms
+[2025-02-27T19:12:12.216Z] Timer Ended: TotalTime | Elapsed Time: 41971.91ms
+[2025-02-27T19:12:24.593Z] Search Word: "weber641 sturdy memorial wynell591"
+[2025-02-27T19:12:24.594Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:12:29.803Z] Relevant Servers: ["srv03911.soton.ac.uk:3000","srv03917.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03912.soton.ac.uk:3000"]
+[2025-02-27T19:12:29.804Z] Timer Ended: FindRelevantServers | Elapsed Time: 5209.49ms
+[2025-02-27T19:12:32.081Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 22
+[2025-02-27T19:12:32.090Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2244.32ms
+[2025-02-27T19:12:32.759Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 22
+[2025-02-27T19:12:32.760Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 2925.65ms
+[2025-02-27T19:12:33.270Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 20
+[2025-02-27T19:12:33.271Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 3433.87ms
+[2025-02-27T19:12:33.287Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 18
+[2025-02-27T19:12:33.287Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 3446.73ms
+[2025-02-27T19:12:33.288Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 26
+[2025-02-27T19:12:33.289Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 3437.67ms
+[2025-02-27T19:12:33.289Z] No. SELECTED PODS from srv03917.soton.ac.uk:3000: 21
+[2025-02-27T19:12:33.289Z] Timer Ended: FindRelevantPods@__srv03917.soton.ac.uk:3000 | Elapsed Time: 3457.74ms
+[2025-02-27T19:12:33.530Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 27
+[2025-02-27T19:12:33.556Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 3704.57ms
+[2025-02-27T19:12:33.556Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 30
+[2025-02-27T19:12:33.557Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 3708.85ms
+[2025-02-27T19:12:33.557Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 19
+[2025-02-27T19:12:33.557Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 3729.62ms
+[2025-02-27T19:12:35.441Z] RowsFetched@__srv03947.soton.ac.uk:3000: 22
+[2025-02-27T19:12:35.441Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 3351.03ms
+[2025-02-27T19:12:36.247Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 31
+[2025-02-27T19:12:36.248Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 6442.11ms
+[2025-02-27T19:12:38.291Z] RowsFetched@__srv03925.soton.ac.uk:3000: 22
+[2025-02-27T19:12:38.292Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 5531.56ms
+[2025-02-27T19:12:39.790Z] RowsFetched@__srv03934.soton.ac.uk:3000: 20
+[2025-02-27T19:12:39.791Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 6519.86ms
+[2025-02-27T19:12:41.820Z] RowsFetched@__srv03939.soton.ac.uk:3000: 18
+[2025-02-27T19:12:41.821Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 8533.23ms
+[2025-02-27T19:12:44.198Z] RowsFetched@__srv03954.soton.ac.uk:3000: 26
+[2025-02-27T19:12:44.199Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 10910.30ms
+[2025-02-27T19:12:45.780Z] RowsFetched@__srv03917.soton.ac.uk:3000: 21
+[2025-02-27T19:12:45.781Z] Timer Ended: CombineResults@__srv03917.soton.ac.uk:3000 | Elapsed Time: 12491.80ms
+[2025-02-27T19:12:48.466Z] RowsFetched@__srv03945.soton.ac.uk:3000: 27
+[2025-02-27T19:12:48.466Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 14910.11ms
+[2025-02-27T19:12:51.927Z] RowsFetched@__srv03949.soton.ac.uk:3000: 30
+[2025-02-27T19:12:51.928Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 18371.05ms
+[2025-02-27T19:12:54.201Z] RowsFetched@__srv03912.soton.ac.uk:3000: 19
+[2025-02-27T19:12:54.209Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 20651.22ms
+[2025-02-27T19:12:56.638Z] RowsFetched@__srv03911.soton.ac.uk:3000: 31
+[2025-02-27T19:12:56.638Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 20390.60ms
+[2025-02-27T19:12:56.640Z] RowsFetched@ALL: 236
+[2025-02-27T19:12:56.640Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.89ms
+[2025-02-27T19:12:56.648Z] Timer Ended: TotalTime | Elapsed Time: 32055.29ms
+[2025-02-27T19:13:08.954Z] Search Word: "kuphal363 dickinson cleveland582 shriners davis923"
+[2025-02-27T19:13:08.955Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:13:13.859Z] Relevant Servers: ["srv03931.soton.ac.uk:3000","srv03921.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03933.soton.ac.uk:3000","srv03926.soton.ac.uk:3000","srv03911.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03916.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03912.soton.ac.uk:3000"]
+[2025-02-27T19:13:13.861Z] Timer Ended: FindRelevantServers | Elapsed Time: 4905.23ms
+[2025-02-27T19:13:15.884Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 27
+[2025-02-27T19:13:15.885Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 1984.12ms
+[2025-02-27T19:13:15.982Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 26
+[2025-02-27T19:13:15.983Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 2075.20ms
+[2025-02-27T19:13:15.997Z] No. SELECTED PODS from srv03933.soton.ac.uk:3000: 22
+[2025-02-27T19:13:15.998Z] Timer Ended: FindRelevantPods@__srv03933.soton.ac.uk:3000 | Elapsed Time: 2087.14ms
+[2025-02-27T19:13:16.033Z] No. SELECTED PODS from srv03926.soton.ac.uk:3000: 33
+[2025-02-27T19:13:16.034Z] Timer Ended: FindRelevantPods@__srv03926.soton.ac.uk:3000 | Elapsed Time: 2128.58ms
+[2025-02-27T19:13:16.035Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 26
+[2025-02-27T19:13:16.036Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 2137.42ms
+[2025-02-27T19:13:16.052Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 30
+[2025-02-27T19:13:16.052Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 2139.14ms
+[2025-02-27T19:13:16.062Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 32
+[2025-02-27T19:13:16.062Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2146.47ms
+[2025-02-27T19:13:16.097Z] No. SELECTED PODS from srv03916.soton.ac.uk:3000: 26
+[2025-02-27T19:13:16.098Z] Timer Ended: FindRelevantPods@__srv03916.soton.ac.uk:3000 | Elapsed Time: 2202.95ms
+[2025-02-27T19:13:16.431Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 32
+[2025-02-27T19:13:16.432Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 2540.85ms
+[2025-02-27T19:13:19.470Z] RowsFetched@__srv03925.soton.ac.uk:3000: 27
+[2025-02-27T19:13:19.470Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 3584.97ms
+[2025-02-27T19:13:20.271Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 22
+[2025-02-27T19:13:20.272Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 6409.41ms
+[2025-02-27T19:13:21.288Z] RowsFetched@__srv03931.soton.ac.uk:3000: 26
+[2025-02-27T19:13:21.289Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 5305.93ms
+[2025-02-27T19:13:23.020Z] RowsFetched@__srv03933.soton.ac.uk:3000: 22
+[2025-02-27T19:13:23.020Z] Timer Ended: CombineResults@__srv03933.soton.ac.uk:3000 | Elapsed Time: 7022.19ms
+[2025-02-27T19:13:25.846Z] RowsFetched@__srv03926.soton.ac.uk:3000: 33
+[2025-02-27T19:13:25.846Z] Timer Ended: CombineResults@__srv03926.soton.ac.uk:3000 | Elapsed Time: 9812.38ms
+[2025-02-27T19:13:28.347Z] RowsFetched@__srv03921.soton.ac.uk:3000: 26
+[2025-02-27T19:13:28.348Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 12312.02ms
+[2025-02-27T19:13:32.160Z] RowsFetched@__srv03939.soton.ac.uk:3000: 30
+[2025-02-27T19:13:32.161Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 16108.28ms
+[2025-02-27T19:13:35.570Z] RowsFetched@__srv03945.soton.ac.uk:3000: 32
+[2025-02-27T19:13:35.570Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 19507.64ms
+[2025-02-27T19:13:38.598Z] RowsFetched@__srv03916.soton.ac.uk:3000: 26
+[2025-02-27T19:13:38.599Z] Timer Ended: CombineResults@__srv03916.soton.ac.uk:3000 | Elapsed Time: 22500.85ms
+[2025-02-27T19:13:41.603Z] RowsFetched@__srv03912.soton.ac.uk:3000: 32
+[2025-02-27T19:13:41.604Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 25171.57ms
+[2025-02-27T19:13:43.274Z] RowsFetched@__srv03911.soton.ac.uk:3000: 22
+[2025-02-27T19:13:43.275Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 23002.49ms
+[2025-02-27T19:13:43.277Z] RowsFetched@ALL: 276
+[2025-02-27T19:13:43.278Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.60ms
+[2025-02-27T19:13:43.284Z] Timer Ended: TotalTime | Elapsed Time: 34330.86ms
+[2025-02-27T19:13:55.310Z] Search Word: "corporation beth haywood675 faculty harvard"
+[2025-02-27T19:13:55.312Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:14:00.059Z] Relevant Servers: ["srv03930.soton.ac.uk:3000","srv03953.soton.ac.uk:3000","srv03942.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03924.soton.ac.uk:3000","srv03927.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03815.soton.ac.uk:3000","srv03937.soton.ac.uk:3000"]
+[2025-02-27T19:14:00.060Z] Timer Ended: FindRelevantServers | Elapsed Time: 4747.80ms
+[2025-02-27T19:14:02.308Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 44
+[2025-02-27T19:14:02.311Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 2212.50ms
+[2025-02-27T19:14:02.402Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 49
+[2025-02-27T19:14:02.402Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2318.93ms
+[2025-02-27T19:14:02.461Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 43
+[2025-02-27T19:14:02.461Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 2364.44ms
+[2025-02-27T19:14:02.513Z] No. SELECTED PODS from srv03924.soton.ac.uk:3000: 41
+[2025-02-27T19:14:02.513Z] Timer Ended: FindRelevantPods@__srv03924.soton.ac.uk:3000 | Elapsed Time: 2426.15ms
+[2025-02-27T19:14:02.649Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 43
+[2025-02-27T19:14:02.650Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 2549.68ms
+[2025-02-27T19:14:02.650Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 36
+[2025-02-27T19:14:02.651Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2555.76ms
+[2025-02-27T19:14:02.685Z] No. SELECTED PODS from srv03815.soton.ac.uk:3000: 33
+[2025-02-27T19:14:02.685Z] Timer Ended: FindRelevantPods@__srv03815.soton.ac.uk:3000 | Elapsed Time: 2624.39ms
+[2025-02-27T19:14:02.686Z] No. SELECTED PODS from srv03953.soton.ac.uk:3000: 51
+[2025-02-27T19:14:02.687Z] Timer Ended: FindRelevantPods@__srv03953.soton.ac.uk:3000 | Elapsed Time: 2584.87ms
+[2025-02-27T19:14:02.851Z] No. SELECTED PODS from srv03930.soton.ac.uk:3000: 32
+[2025-02-27T19:14:02.852Z] Timer Ended: FindRelevantPods@__srv03930.soton.ac.uk:3000 | Elapsed Time: 2760.54ms
+[2025-02-27T19:14:02.853Z] No. SELECTED PODS from srv03927.soton.ac.uk:3000: 42
+[2025-02-27T19:14:02.853Z] Timer Ended: FindRelevantPods@__srv03927.soton.ac.uk:3000 | Elapsed Time: 2763.87ms
+[2025-02-27T19:14:07.731Z] RowsFetched@__srv03941.soton.ac.uk:3000: 44
+[2025-02-27T19:14:07.732Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 5421.20ms
+[2025-02-27T19:14:13.486Z] RowsFetched@__srv03919.soton.ac.uk:3000: 49
+[2025-02-27T19:14:13.486Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 11083.85ms
+[2025-02-27T19:14:18.126Z] RowsFetched@__srv03939.soton.ac.uk:3000: 43
+[2025-02-27T19:14:18.126Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 15664.96ms
+[2025-02-27T19:14:22.309Z] RowsFetched@__srv03924.soton.ac.uk:3000: 41
+[2025-02-27T19:14:22.309Z] Timer Ended: CombineResults@__srv03924.soton.ac.uk:3000 | Elapsed Time: 19796.24ms
+[2025-02-27T19:14:27.536Z] RowsFetched@__srv03942.soton.ac.uk:3000: 43
+[2025-02-27T19:14:27.537Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 24886.93ms
+[2025-02-27T19:14:32.323Z] RowsFetched@__srv03937.soton.ac.uk:3000: 36
+[2025-02-27T19:14:32.324Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 29673.21ms
+[2025-02-27T19:14:37.693Z] RowsFetched@__srv03815.soton.ac.uk:3000: 33
+[2025-02-27T19:14:37.694Z] Timer Ended: CombineResults@__srv03815.soton.ac.uk:3000 | Elapsed Time: 35008.26ms
+[2025-02-27T19:14:43.085Z] RowsFetched@__srv03953.soton.ac.uk:3000: 51
+[2025-02-27T19:14:43.085Z] Timer Ended: CombineResults@__srv03953.soton.ac.uk:3000 | Elapsed Time: 40398.20ms
+[2025-02-27T19:14:46.928Z] RowsFetched@__srv03930.soton.ac.uk:3000: 32
+[2025-02-27T19:14:46.929Z] Timer Ended: CombineResults@__srv03930.soton.ac.uk:3000 | Elapsed Time: 44076.76ms
+[2025-02-27T19:14:51.072Z] RowsFetched@__srv03927.soton.ac.uk:3000: 42
+[2025-02-27T19:14:51.073Z] Timer Ended: CombineResults@__srv03927.soton.ac.uk:3000 | Elapsed Time: 48219.21ms
+[2025-02-27T19:14:51.076Z] RowsFetched@ALL: 414
+[2025-02-27T19:14:51.077Z] Timer Ended: RankingResults@ALL | Elapsed Time: 3.59ms
+[2025-02-27T19:14:51.086Z] Timer Ended: TotalTime | Elapsed Time: 55776.22ms
+[2025-02-27T19:15:03.876Z] Search Word: "50603 mirna233 deena887 cyndy549 kasandra729 acosta403"
+[2025-02-27T19:15:03.878Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:15:09.627Z] Relevant Servers: ["srv03953.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03955.soton.ac.uk:3000","srv03932.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03814.soton.ac.uk:3000","srv03918.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03943.soton.ac.uk:3000","srv03949.soton.ac.uk:3000"]
+[2025-02-27T19:15:09.628Z] Timer Ended: FindRelevantServers | Elapsed Time: 5748.68ms
+[2025-02-27T19:15:12.037Z] No. SELECTED PODS from srv03955.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.038Z] Timer Ended: FindRelevantPods@__srv03955.soton.ac.uk:3000 | Elapsed Time: 2356.30ms
+[2025-02-27T19:15:12.072Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.073Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 2393.80ms
+[2025-02-27T19:15:12.083Z] No. SELECTED PODS from srv03953.soton.ac.uk:3000: 2
+[2025-02-27T19:15:12.084Z] Timer Ended: FindRelevantPods@__srv03953.soton.ac.uk:3000 | Elapsed Time: 2407.36ms
+[2025-02-27T19:15:12.099Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.099Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 2427.00ms
+[2025-02-27T19:15:12.218Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.218Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2544.20ms
+[2025-02-27T19:15:12.227Z] No. SELECTED PODS from srv03932.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.228Z] Timer Ended: FindRelevantPods@__srv03932.soton.ac.uk:3000 | Elapsed Time: 2559.08ms
+[2025-02-27T19:15:12.229Z] No. SELECTED PODS from srv03918.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.230Z] Timer Ended: FindRelevantPods@__srv03918.soton.ac.uk:3000 | Elapsed Time: 2566.02ms
+[2025-02-27T19:15:12.232Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.232Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 2565.31ms
+[2025-02-27T19:15:12.234Z] No. SELECTED PODS from srv03814.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.234Z] Timer Ended: FindRelevantPods@__srv03814.soton.ac.uk:3000 | Elapsed Time: 2575.84ms
+[2025-02-27T19:15:12.747Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 1
+[2025-02-27T19:15:12.748Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 3119.42ms
+[2025-02-27T19:15:13.291Z] RowsFetched@__srv03955.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.291Z] Timer Ended: CombineResults@__srv03955.soton.ac.uk:3000 | Elapsed Time: 1252.37ms
+[2025-02-27T19:15:13.363Z] RowsFetched@__srv03954.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.364Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 1291.12ms
+[2025-02-27T19:15:13.380Z] RowsFetched@__srv03953.soton.ac.uk:3000: 2
+[2025-02-27T19:15:13.381Z] Timer Ended: CombineResults@__srv03953.soton.ac.uk:3000 | Elapsed Time: 1296.74ms
+[2025-02-27T19:15:13.432Z] RowsFetched@__srv03943.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.432Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 1332.71ms
+[2025-02-27T19:15:13.517Z] RowsFetched@__srv03814.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.517Z] Timer Ended: CombineResults@__srv03814.soton.ac.uk:3000 | Elapsed Time: 1283.33ms
+[2025-02-27T19:15:13.518Z] RowsFetched@__srv03949.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.518Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 1299.59ms
+[2025-02-27T19:15:13.531Z] RowsFetched@__srv03918.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.531Z] Timer Ended: CombineResults@__srv03918.soton.ac.uk:3000 | Elapsed Time: 1301.22ms
+[2025-02-27T19:15:13.534Z] RowsFetched@__srv03922.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.535Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 1302.67ms
+[2025-02-27T19:15:13.547Z] RowsFetched@__srv03932.soton.ac.uk:3000: 1
+[2025-02-27T19:15:13.548Z] Timer Ended: CombineResults@__srv03932.soton.ac.uk:3000 | Elapsed Time: 1319.79ms
+[2025-02-27T19:15:14.791Z] RowsFetched@__srv03812.soton.ac.uk:3000: 1
+[2025-02-27T19:15:14.791Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 2042.28ms
+[2025-02-27T19:15:14.792Z] RowsFetched@ALL: 11
+[2025-02-27T19:15:14.793Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.00ms
+[2025-02-27T19:15:14.799Z] Timer Ended: TotalTime | Elapsed Time: 10923.15ms
+[2025-02-27T19:15:26.708Z] Search Word: "borer986 cottage bernie827 danial835 outreach gussie514"
+[2025-02-27T19:15:26.709Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:15:32.151Z] Relevant Servers: ["srv03945.soton.ac.uk:3000","srv03946.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03948.soton.ac.uk:3000","srv03950.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03921.soton.ac.uk:3000"]
+[2025-02-27T19:15:32.152Z] Timer Ended: FindRelevantServers | Elapsed Time: 5442.46ms
+[2025-02-27T19:15:34.652Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 6
+[2025-02-27T19:15:34.654Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 2467.08ms
+[2025-02-27T19:15:34.755Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 8
+[2025-02-27T19:15:34.755Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 2549.16ms
+[2025-02-27T19:15:34.817Z] No. SELECTED PODS from srv03948.soton.ac.uk:3000: 5
+[2025-02-27T19:15:34.818Z] Timer Ended: FindRelevantPods@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2620.69ms
+[2025-02-27T19:15:34.882Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 6
+[2025-02-27T19:15:34.882Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2682.47ms
+[2025-02-27T19:15:34.902Z] No. SELECTED PODS from srv03950.soton.ac.uk:3000: 3
+[2025-02-27T19:15:34.903Z] Timer Ended: FindRelevantPods@__srv03950.soton.ac.uk:3000 | Elapsed Time: 2699.98ms
+[2025-02-27T19:15:35.047Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 5
+[2025-02-27T19:15:35.047Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 2867.93ms
+[2025-02-27T19:15:35.072Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 6
+[2025-02-27T19:15:35.073Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 2889.26ms
+[2025-02-27T19:15:35.074Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 3
+[2025-02-27T19:15:35.074Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2884.62ms
+[2025-02-27T19:15:36.029Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 5
+[2025-02-27T19:15:36.029Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 3876.32ms
+[2025-02-27T19:15:36.959Z] RowsFetched@__srv03922.soton.ac.uk:3000: 6
+[2025-02-27T19:15:36.960Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 2304.96ms
+[2025-02-27T19:15:37.454Z] RowsFetched@__srv03948.soton.ac.uk:3000: 5
+[2025-02-27T19:15:37.454Z] Timer Ended: CombineResults@__srv03948.soton.ac.uk:3000 | Elapsed Time: 2636.22ms
+[2025-02-27T19:15:37.628Z] RowsFetched@__srv03954.soton.ac.uk:3000: 8
+[2025-02-27T19:15:37.629Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 2873.37ms
+[2025-02-27T19:15:37.709Z] RowsFetched@__srv03949.soton.ac.uk:3000: 6
+[2025-02-27T19:15:37.709Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 2826.67ms
+[2025-02-27T19:15:38.771Z] RowsFetched@__srv03950.soton.ac.uk:3000: 3
+[2025-02-27T19:15:38.772Z] Timer Ended: CombineResults@__srv03950.soton.ac.uk:3000 | Elapsed Time: 3868.89ms
+[2025-02-27T19:15:39.270Z] RowsFetched@__srv03919.soton.ac.uk:3000: 5
+[2025-02-27T19:15:39.270Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 4222.61ms
+[2025-02-27T19:15:39.491Z] RowsFetched@__srv03921.soton.ac.uk:3000: 6
+[2025-02-27T19:15:39.492Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 4418.46ms
+[2025-02-27T19:15:39.512Z] RowsFetched@__srv03945.soton.ac.uk:3000: 3
+[2025-02-27T19:15:39.512Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 4437.72ms
+[2025-02-27T19:15:39.877Z] RowsFetched@__srv03812.soton.ac.uk:3000: 5
+[2025-02-27T19:15:39.878Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 3848.14ms
+[2025-02-27T19:15:43.108Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 7
+[2025-02-27T19:15:43.109Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 10914.32ms
+[2025-02-27T19:15:44.276Z] RowsFetched@__srv03946.soton.ac.uk:3000: 7
+[2025-02-27T19:15:44.276Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 1167.45ms
+[2025-02-27T19:15:44.278Z] RowsFetched@ALL: 54
+[2025-02-27T19:15:44.278Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.38ms
+[2025-02-27T19:15:44.283Z] Timer Ended: TotalTime | Elapsed Time: 17575.28ms
+[2025-02-27T19:15:56.857Z] Search Word: "simonne139 commonwealth neck yulanda554 elara upton"
+[2025-02-27T19:15:56.858Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:16:02.472Z] Relevant Servers: ["srv03913.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03812.soton.ac.uk:3000","srv03918.soton.ac.uk:3000","srv03947.soton.ac.uk:3000","srv03955.soton.ac.uk:3000","srv03928.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03954.soton.ac.uk:3000","srv03946.soton.ac.uk:3000"]
+[2025-02-27T19:16:02.473Z] Timer Ended: FindRelevantServers | Elapsed Time: 5614.31ms
+[2025-02-27T19:16:05.027Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 47
+[2025-02-27T19:16:05.029Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 2506.65ms
+[2025-02-27T19:16:05.426Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 52
+[2025-02-27T19:16:05.427Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2907.76ms
+[2025-02-27T19:16:05.436Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 43
+[2025-02-27T19:16:05.437Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 2924.31ms
+[2025-02-27T19:16:05.437Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 52
+[2025-02-27T19:16:05.438Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 2936.73ms
+[2025-02-27T19:16:05.438Z] No. SELECTED PODS from srv03947.soton.ac.uk:3000: 45
+[2025-02-27T19:16:05.438Z] Timer Ended: FindRelevantPods@__srv03947.soton.ac.uk:3000 | Elapsed Time: 2913.63ms
+[2025-02-27T19:16:05.439Z] No. SELECTED PODS from srv03918.soton.ac.uk:3000: 41
+[2025-02-27T19:16:05.439Z] Timer Ended: FindRelevantPods@__srv03918.soton.ac.uk:3000 | Elapsed Time: 2932.99ms
+[2025-02-27T19:16:05.439Z] No. SELECTED PODS from srv03928.soton.ac.uk:3000: 44
+[2025-02-27T19:16:05.439Z] Timer Ended: FindRelevantPods@__srv03928.soton.ac.uk:3000 | Elapsed Time: 2929.72ms
+[2025-02-27T19:16:06.178Z] No. SELECTED PODS from srv03955.soton.ac.uk:3000: 45
+[2025-02-27T19:16:06.178Z] Timer Ended: FindRelevantPods@__srv03955.soton.ac.uk:3000 | Elapsed Time: 3647.16ms
+[2025-02-27T19:16:06.190Z] No. SELECTED PODS from srv03812.soton.ac.uk:3000: 47
+[2025-02-27T19:16:06.190Z] Timer Ended: FindRelevantPods@__srv03812.soton.ac.uk:3000 | Elapsed Time: 3715.94ms
+[2025-02-27T19:16:12.147Z] RowsFetched@__srv03946.soton.ac.uk:3000: 47
+[2025-02-27T19:16:12.148Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 7118.50ms
+[2025-02-27T19:16:19.117Z] RowsFetched@__srv03945.soton.ac.uk:3000: 52
+[2025-02-27T19:16:19.117Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 13689.56ms
+[2025-02-27T19:16:26.894Z] RowsFetched@__srv03937.soton.ac.uk:3000: 43
+[2025-02-27T19:16:26.903Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 21465.55ms
+[2025-02-27T19:16:33.478Z] No. SELECTED PODS from srv03954.soton.ac.uk:3000: 43
+[2025-02-27T19:16:33.478Z] Timer Ended: FindRelevantPods@__srv03954.soton.ac.uk:3000 | Elapsed Time: 30950.36ms
+[2025-02-27T19:16:33.657Z] RowsFetched@__srv03913.soton.ac.uk:3000: 52
+[2025-02-27T19:16:33.657Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 28219.55ms
+[2025-02-27T19:16:40.908Z] RowsFetched@__srv03947.soton.ac.uk:3000: 45
+[2025-02-27T19:16:40.909Z] Timer Ended: CombineResults@__srv03947.soton.ac.uk:3000 | Elapsed Time: 35470.12ms
+[2025-02-27T19:16:46.946Z] RowsFetched@__srv03918.soton.ac.uk:3000: 41
+[2025-02-27T19:16:46.947Z] Timer Ended: CombineResults@__srv03918.soton.ac.uk:3000 | Elapsed Time: 41507.89ms
+[2025-02-27T19:16:53.116Z] RowsFetched@__srv03928.soton.ac.uk:3000: 44
+[2025-02-27T19:16:53.116Z] Timer Ended: CombineResults@__srv03928.soton.ac.uk:3000 | Elapsed Time: 47676.78ms
+[2025-02-27T19:17:01.087Z] RowsFetched@__srv03955.soton.ac.uk:3000: 45
+[2025-02-27T19:17:01.087Z] Timer Ended: CombineResults@__srv03955.soton.ac.uk:3000 | Elapsed Time: 54908.80ms
+[2025-02-27T19:17:09.595Z] RowsFetched@__srv03812.soton.ac.uk:3000: 47
+[2025-02-27T19:17:09.597Z] Timer Ended: CombineResults@__srv03812.soton.ac.uk:3000 | Elapsed Time: 63406.21ms
+[2025-02-27T19:17:14.768Z] RowsFetched@__srv03954.soton.ac.uk:3000: 43
+[2025-02-27T19:17:14.769Z] Timer Ended: CombineResults@__srv03954.soton.ac.uk:3000 | Elapsed Time: 41290.70ms
+[2025-02-27T19:17:14.772Z] RowsFetched@ALL: 459
+[2025-02-27T19:17:14.772Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.59ms
+[2025-02-27T19:17:14.779Z] Timer Ended: TotalTime | Elapsed Time: 77922.06ms
+[2025-02-27T19:17:27.804Z] Search Word: "bashirian201 henry heywood rayford811 derick144 associates"
+[2025-02-27T19:17:27.806Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:17:35.372Z] Relevant Servers: ["srv03924.soton.ac.uk:3000","srv03942.soton.ac.uk:3000","srv03933.soton.ac.uk:3000","srv03938.soton.ac.uk:3000","srv03936.soton.ac.uk:3000","srv03953.soton.ac.uk:3000","srv03928.soton.ac.uk:3000","srv03944.soton.ac.uk:3000","srv03922.soton.ac.uk:3000","srv03943.soton.ac.uk:3000"]
+[2025-02-27T19:17:35.373Z] Timer Ended: FindRelevantServers | Elapsed Time: 7566.24ms
+[2025-02-27T19:17:38.306Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 32
+[2025-02-27T19:17:38.310Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 2878.10ms
+[2025-02-27T19:17:38.415Z] No. SELECTED PODS from srv03953.soton.ac.uk:3000: 34
+[2025-02-27T19:17:38.415Z] Timer Ended: FindRelevantPods@__srv03953.soton.ac.uk:3000 | Elapsed Time: 2964.61ms
+[2025-02-27T19:17:38.416Z] No. SELECTED PODS from srv03928.soton.ac.uk:3000: 30
+[2025-02-27T19:17:38.417Z] Timer Ended: FindRelevantPods@__srv03928.soton.ac.uk:3000 | Elapsed Time: 3006.43ms
+[2025-02-27T19:17:38.435Z] No. SELECTED PODS from srv03936.soton.ac.uk:3000: 43
+[2025-02-27T19:17:38.436Z] Timer Ended: FindRelevantPods@__srv03936.soton.ac.uk:3000 | Elapsed Time: 3010.46ms
+[2025-02-27T19:17:38.483Z] No. SELECTED PODS from srv03938.soton.ac.uk:3000: 35
+[2025-02-27T19:17:38.484Z] Timer Ended: FindRelevantPods@__srv03938.soton.ac.uk:3000 | Elapsed Time: 3054.58ms
+[2025-02-27T19:17:38.594Z] No. SELECTED PODS from srv03933.soton.ac.uk:3000: 34
+[2025-02-27T19:17:38.595Z] Timer Ended: FindRelevantPods@__srv03933.soton.ac.uk:3000 | Elapsed Time: 3174.38ms
+[2025-02-27T19:17:38.604Z] No. SELECTED PODS from srv03922.soton.ac.uk:3000: 40
+[2025-02-27T19:17:38.604Z] Timer Ended: FindRelevantPods@__srv03922.soton.ac.uk:3000 | Elapsed Time: 3229.58ms
+[2025-02-27T19:17:38.611Z] No. SELECTED PODS from srv03944.soton.ac.uk:3000: 44
+[2025-02-27T19:17:38.613Z] Timer Ended: FindRelevantPods@__srv03944.soton.ac.uk:3000 | Elapsed Time: 3165.28ms
+[2025-02-27T19:17:38.628Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 31
+[2025-02-27T19:17:38.629Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 3194.57ms
+[2025-02-27T19:17:40.885Z] No. SELECTED PODS from srv03924.soton.ac.uk:3000: 33
+[2025-02-27T19:17:40.886Z] Timer Ended: FindRelevantPods@__srv03924.soton.ac.uk:3000 | Elapsed Time: 5479.35ms
+[2025-02-27T19:17:44.172Z] RowsFetched@__srv03942.soton.ac.uk:3000: 32
+[2025-02-27T19:17:44.173Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 5862.01ms
+[2025-02-27T19:17:46.948Z] RowsFetched@__srv03953.soton.ac.uk:3000: 34
+[2025-02-27T19:17:46.948Z] Timer Ended: CombineResults@__srv03953.soton.ac.uk:3000 | Elapsed Time: 8532.57ms
+[2025-02-27T19:17:51.226Z] RowsFetched@__srv03928.soton.ac.uk:3000: 30
+[2025-02-27T19:17:51.226Z] Timer Ended: CombineResults@__srv03928.soton.ac.uk:3000 | Elapsed Time: 12809.07ms
+[2025-02-27T19:17:56.935Z] RowsFetched@__srv03936.soton.ac.uk:3000: 43
+[2025-02-27T19:17:56.935Z] Timer Ended: CombineResults@__srv03936.soton.ac.uk:3000 | Elapsed Time: 18499.40ms
+[2025-02-27T19:17:59.461Z] RowsFetched@__srv03938.soton.ac.uk:3000: 35
+[2025-02-27T19:17:59.461Z] Timer Ended: CombineResults@__srv03938.soton.ac.uk:3000 | Elapsed Time: 20975.10ms
+[2025-02-27T19:18:02.102Z] RowsFetched@__srv03933.soton.ac.uk:3000: 34
+[2025-02-27T19:18:02.102Z] Timer Ended: CombineResults@__srv03933.soton.ac.uk:3000 | Elapsed Time: 23506.97ms
+[2025-02-27T19:18:05.172Z] RowsFetched@__srv03922.soton.ac.uk:3000: 40
+[2025-02-27T19:18:05.172Z] Timer Ended: CombineResults@__srv03922.soton.ac.uk:3000 | Elapsed Time: 26568.03ms
+[2025-02-27T19:18:08.965Z] RowsFetched@__srv03944.soton.ac.uk:3000: 44
+[2025-02-27T19:18:08.966Z] Timer Ended: CombineResults@__srv03944.soton.ac.uk:3000 | Elapsed Time: 30352.59ms
+[2025-02-27T19:18:11.277Z] RowsFetched@__srv03943.soton.ac.uk:3000: 31
+[2025-02-27T19:18:11.278Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 32648.96ms
+[2025-02-27T19:18:13.185Z] RowsFetched@__srv03924.soton.ac.uk:3000: 33
+[2025-02-27T19:18:13.185Z] Timer Ended: CombineResults@__srv03924.soton.ac.uk:3000 | Elapsed Time: 32299.48ms
+[2025-02-27T19:18:13.187Z] RowsFetched@ALL: 356
+[2025-02-27T19:18:13.188Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.11ms
+[2025-02-27T19:18:13.194Z] Timer Ended: TotalTime | Elapsed Time: 45390.18ms
+[2025-02-27T19:18:26.077Z] Search Word: "practice valdÃ©s907 manuela585 public commission whitley"
+[2025-02-27T19:18:26.078Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:18:32.394Z] Relevant Servers: ["srv03921.soton.ac.uk:3000","srv03940.soton.ac.uk:3000","srv03914.soton.ac.uk:3000","srv03916.soton.ac.uk:3000","srv03930.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03949.soton.ac.uk:3000","srv03913.soton.ac.uk:3000","srv03929.soton.ac.uk:3000","srv03952.soton.ac.uk:3000"]
+[2025-02-27T19:18:32.394Z] Timer Ended: FindRelevantServers | Elapsed Time: 6316.33ms
+[2025-02-27T19:18:35.418Z] No. SELECTED PODS from srv03940.soton.ac.uk:3000: 43
+[2025-02-27T19:18:35.419Z] Timer Ended: FindRelevantPods@__srv03940.soton.ac.uk:3000 | Elapsed Time: 2966.33ms
+[2025-02-27T19:18:35.492Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 49
+[2025-02-27T19:18:35.493Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 3097.46ms
+[2025-02-27T19:18:35.493Z] No. SELECTED PODS from srv03929.soton.ac.uk:3000: 34
+[2025-02-27T19:18:35.494Z] Timer Ended: FindRelevantPods@__srv03929.soton.ac.uk:3000 | Elapsed Time: 3057.71ms
+[2025-02-27T19:18:35.494Z] No. SELECTED PODS from srv03930.soton.ac.uk:3000: 41
+[2025-02-27T19:18:35.494Z] Timer Ended: FindRelevantPods@__srv03930.soton.ac.uk:3000 | Elapsed Time: 3053.68ms
+[2025-02-27T19:18:35.494Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 42
+[2025-02-27T19:18:35.494Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 3070.92ms
+[2025-02-27T19:18:35.535Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 44
+[2025-02-27T19:18:35.536Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 3102.36ms
+[2025-02-27T19:18:35.536Z] No. SELECTED PODS from srv03916.soton.ac.uk:3000: 48
+[2025-02-27T19:18:35.537Z] Timer Ended: FindRelevantPods@__srv03916.soton.ac.uk:3000 | Elapsed Time: 3107.05ms
+[2025-02-27T19:18:35.552Z] No. SELECTED PODS from srv03952.soton.ac.uk:3000: 38
+[2025-02-27T19:18:35.552Z] Timer Ended: FindRelevantPods@__srv03952.soton.ac.uk:3000 | Elapsed Time: 3093.09ms
+[2025-02-27T19:18:35.555Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 34
+[2025-02-27T19:18:35.556Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 3099.42ms
+[2025-02-27T19:18:35.620Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 30
+[2025-02-27T19:18:35.621Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 3177.66ms
+[2025-02-27T19:18:41.105Z] RowsFetched@__srv03940.soton.ac.uk:3000: 43
+[2025-02-27T19:18:41.106Z] Timer Ended: CombineResults@__srv03940.soton.ac.uk:3000 | Elapsed Time: 5686.04ms
+[2025-02-27T19:18:45.509Z] RowsFetched@__srv03913.soton.ac.uk:3000: 49
+[2025-02-27T19:18:45.510Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 10016.52ms
+[2025-02-27T19:18:49.146Z] RowsFetched@__srv03929.soton.ac.uk:3000: 34
+[2025-02-27T19:18:49.147Z] Timer Ended: CombineResults@__srv03929.soton.ac.uk:3000 | Elapsed Time: 13652.81ms
+[2025-02-27T19:18:52.711Z] RowsFetched@__srv03930.soton.ac.uk:3000: 41
+[2025-02-27T19:18:52.721Z] Timer Ended: CombineResults@__srv03930.soton.ac.uk:3000 | Elapsed Time: 17227.39ms
+[2025-02-27T19:18:55.557Z] RowsFetched@__srv03914.soton.ac.uk:3000: 42
+[2025-02-27T19:18:55.558Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 20063.49ms
+[2025-02-27T19:18:59.161Z] RowsFetched@__srv03921.soton.ac.uk:3000: 44
+[2025-02-27T19:18:59.161Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 23625.58ms
+[2025-02-27T19:19:02.476Z] RowsFetched@__srv03916.soton.ac.uk:3000: 48
+[2025-02-27T19:19:02.476Z] Timer Ended: CombineResults@__srv03916.soton.ac.uk:3000 | Elapsed Time: 26939.67ms
+[2025-02-27T19:19:04.960Z] RowsFetched@__srv03952.soton.ac.uk:3000: 38
+[2025-02-27T19:19:04.960Z] Timer Ended: CombineResults@__srv03952.soton.ac.uk:3000 | Elapsed Time: 29408.06ms
+[2025-02-27T19:19:07.371Z] RowsFetched@__srv03949.soton.ac.uk:3000: 34
+[2025-02-27T19:19:07.372Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 31815.67ms
+[2025-02-27T19:19:08.755Z] RowsFetched@__srv03934.soton.ac.uk:3000: 30
+[2025-02-27T19:19:08.756Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 33134.74ms
+[2025-02-27T19:19:08.757Z] RowsFetched@ALL: 403
+[2025-02-27T19:19:08.758Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.76ms
+[2025-02-27T19:19:08.765Z] Timer Ended: TotalTime | Elapsed Time: 42687.87ms
+[2025-02-27T19:19:20.728Z] Search Word: "kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180"
+[2025-02-27T19:19:20.729Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:19:27.054Z] Relevant Servers: ["srv03931.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03921.soton.ac.uk:3000","srv03933.soton.ac.uk:3000","srv03911.soton.ac.uk:3000","srv03912.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03926.soton.ac.uk:3000","srv03945.soton.ac.uk:3000","srv03946.soton.ac.uk:3000"]
+[2025-02-27T19:19:27.055Z] Timer Ended: FindRelevantServers | Elapsed Time: 6325.60ms
+[2025-02-27T19:19:29.703Z] No. SELECTED PODS from srv03946.soton.ac.uk:3000: 25
+[2025-02-27T19:19:29.705Z] Timer Ended: FindRelevantPods@__srv03946.soton.ac.uk:3000 | Elapsed Time: 2600.54ms
+[2025-02-27T19:19:29.784Z] No. SELECTED PODS from srv03926.soton.ac.uk:3000: 36
+[2025-02-27T19:19:29.784Z] Timer Ended: FindRelevantPods@__srv03926.soton.ac.uk:3000 | Elapsed Time: 2693.48ms
+[2025-02-27T19:19:29.785Z] No. SELECTED PODS from srv03933.soton.ac.uk:3000: 23
+[2025-02-27T19:19:29.785Z] Timer Ended: FindRelevantPods@__srv03933.soton.ac.uk:3000 | Elapsed Time: 2687.73ms
+[2025-02-27T19:19:29.787Z] No. SELECTED PODS from srv03931.soton.ac.uk:3000: 28
+[2025-02-27T19:19:29.787Z] Timer Ended: FindRelevantPods@__srv03931.soton.ac.uk:3000 | Elapsed Time: 2692.44ms
+[2025-02-27T19:19:29.801Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 28
+[2025-02-27T19:19:29.802Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 2713.71ms
+[2025-02-27T19:19:29.814Z] No. SELECTED PODS from srv03912.soton.ac.uk:3000: 33
+[2025-02-27T19:19:29.814Z] Timer Ended: FindRelevantPods@__srv03912.soton.ac.uk:3000 | Elapsed Time: 2732.77ms
+[2025-02-27T19:19:29.815Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 32
+[2025-02-27T19:19:29.815Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 2715.47ms
+[2025-02-27T19:19:29.826Z] No. SELECTED PODS from srv03945.soton.ac.uk:3000: 33
+[2025-02-27T19:19:29.827Z] Timer Ended: FindRelevantPods@__srv03945.soton.ac.uk:3000 | Elapsed Time: 2725.10ms
+[2025-02-27T19:19:29.870Z] No. SELECTED PODS from srv03921.soton.ac.uk:3000: 28
+[2025-02-27T19:19:29.871Z] Timer Ended: FindRelevantPods@__srv03921.soton.ac.uk:3000 | Elapsed Time: 2785.56ms
+[2025-02-27T19:19:32.823Z] RowsFetched@__srv03946.soton.ac.uk:3000: 25
+[2025-02-27T19:19:32.824Z] Timer Ended: CombineResults@__srv03946.soton.ac.uk:3000 | Elapsed Time: 3117.91ms
+[2025-02-27T19:19:34.128Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 26
+[2025-02-27T19:19:34.129Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 7072.84ms
+[2025-02-27T19:19:36.728Z] RowsFetched@__srv03926.soton.ac.uk:3000: 36
+[2025-02-27T19:19:36.729Z] Timer Ended: CombineResults@__srv03926.soton.ac.uk:3000 | Elapsed Time: 6944.36ms
+[2025-02-27T19:19:39.042Z] RowsFetched@__srv03933.soton.ac.uk:3000: 23
+[2025-02-27T19:19:39.042Z] Timer Ended: CombineResults@__srv03933.soton.ac.uk:3000 | Elapsed Time: 9255.65ms
+[2025-02-27T19:19:41.291Z] RowsFetched@__srv03931.soton.ac.uk:3000: 28
+[2025-02-27T19:19:41.293Z] Timer Ended: CombineResults@__srv03931.soton.ac.uk:3000 | Elapsed Time: 11505.49ms
+[2025-02-27T19:19:44.318Z] RowsFetched@__srv03925.soton.ac.uk:3000: 28
+[2025-02-27T19:19:44.319Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 14516.36ms
+[2025-02-27T19:19:46.402Z] RowsFetched@__srv03912.soton.ac.uk:3000: 33
+[2025-02-27T19:19:46.403Z] Timer Ended: CombineResults@__srv03912.soton.ac.uk:3000 | Elapsed Time: 16588.55ms
+[2025-02-27T19:19:48.895Z] RowsFetched@__srv03939.soton.ac.uk:3000: 32
+[2025-02-27T19:19:48.895Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 19080.01ms
+[2025-02-27T19:19:52.550Z] RowsFetched@__srv03945.soton.ac.uk:3000: 33
+[2025-02-27T19:19:52.551Z] Timer Ended: CombineResults@__srv03945.soton.ac.uk:3000 | Elapsed Time: 22722.98ms
+[2025-02-27T19:19:55.346Z] RowsFetched@__srv03921.soton.ac.uk:3000: 28
+[2025-02-27T19:19:55.347Z] Timer Ended: CombineResults@__srv03921.soton.ac.uk:3000 | Elapsed Time: 25475.24ms
+[2025-02-27T19:19:56.765Z] RowsFetched@__srv03911.soton.ac.uk:3000: 26
+[2025-02-27T19:19:56.766Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 22636.42ms
+[2025-02-27T19:19:56.767Z] RowsFetched@ALL: 292
+[2025-02-27T19:19:56.768Z] Timer Ended: RankingResults@ALL | Elapsed Time: 1.77ms
+[2025-02-27T19:19:56.773Z] Timer Ended: TotalTime | Elapsed Time: 36045.25ms
+[2025-02-27T19:20:08.910Z] Search Word: "new associates hilpert278 mickey576 baptist buckridge80"
+[2025-02-27T19:20:08.911Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:20:13.096Z] Relevant Servers: ["srv03914.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03923.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03915.soton.ac.uk:3000","srv03943.soton.ac.uk:3000","srv03938.soton.ac.uk:3000","srv03913.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03816.soton.ac.uk:3000"]
+[2025-02-27T19:20:13.097Z] Timer Ended: FindRelevantServers | Elapsed Time: 4185.03ms
+[2025-02-27T19:20:15.077Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 66
+[2025-02-27T19:20:15.078Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1940.81ms
+[2025-02-27T19:20:15.146Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 54
+[2025-02-27T19:20:15.147Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 2011.91ms
+[2025-02-27T19:20:15.210Z] No. SELECTED PODS from srv03915.soton.ac.uk:3000: 54
+[2025-02-27T19:20:15.211Z] Timer Ended: FindRelevantPods@__srv03915.soton.ac.uk:3000 | Elapsed Time: 2080.65ms
+[2025-02-27T19:20:15.240Z] No. SELECTED PODS from srv03938.soton.ac.uk:3000: 50
+[2025-02-27T19:20:15.240Z] Timer Ended: FindRelevantPods@__srv03938.soton.ac.uk:3000 | Elapsed Time: 2101.18ms
+[2025-02-27T19:20:15.251Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 58
+[2025-02-27T19:20:15.251Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 2126.05ms
+[2025-02-27T19:20:15.265Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 69
+[2025-02-27T19:20:15.265Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 2136.99ms
+[2025-02-27T19:20:15.267Z] No. SELECTED PODS from srv03923.soton.ac.uk:3000: 45
+[2025-02-27T19:20:15.268Z] Timer Ended: FindRelevantPods@__srv03923.soton.ac.uk:3000 | Elapsed Time: 2135.45ms
+[2025-02-27T19:20:15.278Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 47
+[2025-02-27T19:20:15.278Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 2136.09ms
+[2025-02-27T19:20:15.309Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 71
+[2025-02-27T19:20:15.309Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 2168.67ms
+[2025-02-27T19:20:15.351Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 50
+[2025-02-27T19:20:15.351Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 2252.64ms
+[2025-02-27T19:20:19.709Z] RowsFetched@__srv03934.soton.ac.uk:3000: 66
+[2025-02-27T19:20:19.712Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 4633.26ms
+[2025-02-27T19:20:22.401Z] RowsFetched@__srv03925.soton.ac.uk:3000: 54
+[2025-02-27T19:20:22.401Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 7253.38ms
+[2025-02-27T19:20:25.295Z] RowsFetched@__srv03915.soton.ac.uk:3000: 54
+[2025-02-27T19:20:25.295Z] Timer Ended: CombineResults@__srv03915.soton.ac.uk:3000 | Elapsed Time: 10083.63ms
+[2025-02-27T19:20:28.559Z] RowsFetched@__srv03938.soton.ac.uk:3000: 50
+[2025-02-27T19:20:28.560Z] Timer Ended: CombineResults@__srv03938.soton.ac.uk:3000 | Elapsed Time: 13319.81ms
+[2025-02-27T19:20:31.682Z] RowsFetched@__srv03913.soton.ac.uk:3000: 58
+[2025-02-27T19:20:31.683Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 16431.07ms
+[2025-02-27T19:20:35.990Z] RowsFetched@__srv03914.soton.ac.uk:3000: 69
+[2025-02-27T19:20:35.991Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 20724.92ms
+[2025-02-27T19:20:38.289Z] RowsFetched@__srv03923.soton.ac.uk:3000: 45
+[2025-02-27T19:20:38.290Z] Timer Ended: CombineResults@__srv03923.soton.ac.uk:3000 | Elapsed Time: 23021.84ms
+[2025-02-27T19:20:41.457Z] RowsFetched@__srv03943.soton.ac.uk:3000: 47
+[2025-02-27T19:20:41.457Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 26178.42ms
+[2025-02-27T19:20:45.901Z] RowsFetched@__srv03941.soton.ac.uk:3000: 71
+[2025-02-27T19:20:45.902Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 30592.60ms
+[2025-02-27T19:20:49.135Z] RowsFetched@__srv03816.soton.ac.uk:3000: 50
+[2025-02-27T19:20:49.135Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 33783.64ms
+[2025-02-27T19:20:49.138Z] RowsFetched@ALL: 564
+[2025-02-27T19:20:49.138Z] Timer Ended: RankingResults@ALL | Elapsed Time: 2.70ms
+[2025-02-27T19:20:49.145Z] Timer Ended: TotalTime | Elapsed Time: 40235.12ms
+[2025-02-27T19:21:00.997Z] Search Word: "physicians corporation associated strosin214 beth faculty"
+[2025-02-27T19:21:00.998Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:21:05.128Z] Relevant Servers: ["srv03930.soton.ac.uk:3000","srv03953.soton.ac.uk:3000","srv03924.soton.ac.uk:3000","srv03942.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03919.soton.ac.uk:3000","srv03927.soton.ac.uk:3000","srv03939.soton.ac.uk:3000","srv03917.soton.ac.uk:3000","srv03937.soton.ac.uk:3000"]
+[2025-02-27T19:21:05.129Z] Timer Ended: FindRelevantServers | Elapsed Time: 4130.64ms
+[2025-02-27T19:21:06.911Z] No. SELECTED PODS from srv03927.soton.ac.uk:3000: 57
+[2025-02-27T19:21:06.912Z] Timer Ended: FindRelevantPods@__srv03927.soton.ac.uk:3000 | Elapsed Time: 1746.56ms
+[2025-02-27T19:21:06.981Z] No. SELECTED PODS from srv03939.soton.ac.uk:3000: 62
+[2025-02-27T19:21:06.981Z] Timer Ended: FindRelevantPods@__srv03939.soton.ac.uk:3000 | Elapsed Time: 1807.62ms
+[2025-02-27T19:21:06.996Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 59
+[2025-02-27T19:21:06.997Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 1820.35ms
+[2025-02-27T19:21:07.018Z] No. SELECTED PODS from srv03930.soton.ac.uk:3000: 47
+[2025-02-27T19:21:07.018Z] Timer Ended: FindRelevantPods@__srv03930.soton.ac.uk:3000 | Elapsed Time: 1850.39ms
+[2025-02-27T19:21:07.023Z] No. SELECTED PODS from srv03924.soton.ac.uk:3000: 55
+[2025-02-27T19:21:07.023Z] Timer Ended: FindRelevantPods@__srv03924.soton.ac.uk:3000 | Elapsed Time: 1861.51ms
+[2025-02-27T19:21:07.033Z] No. SELECTED PODS from srv03919.soton.ac.uk:3000: 60
+[2025-02-27T19:21:07.034Z] Timer Ended: FindRelevantPods@__srv03919.soton.ac.uk:3000 | Elapsed Time: 1875.97ms
+[2025-02-27T19:21:07.072Z] No. SELECTED PODS from srv03942.soton.ac.uk:3000: 57
+[2025-02-27T19:21:07.072Z] Timer Ended: FindRelevantPods@__srv03942.soton.ac.uk:3000 | Elapsed Time: 1893.27ms
+[2025-02-27T19:21:07.087Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 53
+[2025-02-27T19:21:07.088Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 1916.13ms
+[2025-02-27T19:21:07.125Z] No. SELECTED PODS from srv03953.soton.ac.uk:3000: 61
+[2025-02-27T19:21:07.125Z] Timer Ended: FindRelevantPods@__srv03953.soton.ac.uk:3000 | Elapsed Time: 1943.50ms
+[2025-02-27T19:21:07.381Z] No. SELECTED PODS from srv03917.soton.ac.uk:3000: 64
+[2025-02-27T19:21:07.382Z] Timer Ended: FindRelevantPods@__srv03917.soton.ac.uk:3000 | Elapsed Time: 2251.19ms
+[2025-02-27T19:21:10.943Z] RowsFetched@__srv03927.soton.ac.uk:3000: 57
+[2025-02-27T19:21:10.944Z] Timer Ended: CombineResults@__srv03927.soton.ac.uk:3000 | Elapsed Time: 4031.41ms
+[2025-02-27T19:21:13.915Z] RowsFetched@__srv03939.soton.ac.uk:3000: 62
+[2025-02-27T19:21:13.915Z] Timer Ended: CombineResults@__srv03939.soton.ac.uk:3000 | Elapsed Time: 6933.74ms
+[2025-02-27T19:21:16.691Z] RowsFetched@__srv03941.soton.ac.uk:3000: 59
+[2025-02-27T19:21:16.691Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 9694.46ms
+[2025-02-27T19:21:18.987Z] RowsFetched@__srv03930.soton.ac.uk:3000: 47
+[2025-02-27T19:21:18.988Z] Timer Ended: CombineResults@__srv03930.soton.ac.uk:3000 | Elapsed Time: 11969.67ms
+[2025-02-27T19:21:21.540Z] RowsFetched@__srv03924.soton.ac.uk:3000: 55
+[2025-02-27T19:21:21.541Z] Timer Ended: CombineResults@__srv03924.soton.ac.uk:3000 | Elapsed Time: 14517.15ms
+[2025-02-27T19:21:24.606Z] RowsFetched@__srv03919.soton.ac.uk:3000: 60
+[2025-02-27T19:21:24.606Z] Timer Ended: CombineResults@__srv03919.soton.ac.uk:3000 | Elapsed Time: 17572.62ms
+[2025-02-27T19:21:27.092Z] RowsFetched@__srv03942.soton.ac.uk:3000: 57
+[2025-02-27T19:21:27.093Z] Timer Ended: CombineResults@__srv03942.soton.ac.uk:3000 | Elapsed Time: 20020.27ms
+[2025-02-27T19:21:29.787Z] RowsFetched@__srv03937.soton.ac.uk:3000: 53
+[2025-02-27T19:21:29.788Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 22699.81ms
+[2025-02-27T19:21:32.785Z] RowsFetched@__srv03953.soton.ac.uk:3000: 61
+[2025-02-27T19:21:32.786Z] Timer Ended: CombineResults@__srv03953.soton.ac.uk:3000 | Elapsed Time: 25660.24ms
+[2025-02-27T19:21:35.831Z] RowsFetched@__srv03917.soton.ac.uk:3000: 64
+[2025-02-27T19:21:35.832Z] Timer Ended: CombineResults@__srv03917.soton.ac.uk:3000 | Elapsed Time: 28449.85ms
+[2025-02-27T19:21:35.835Z] RowsFetched@ALL: 575
+[2025-02-27T19:21:35.835Z] Timer Ended: RankingResults@ALL | Elapsed Time: 3.13ms
+[2025-02-27T19:21:35.843Z] Timer Ended: TotalTime | Elapsed Time: 34846.01ms
+[2025-02-27T19:21:47.632Z] Search Word: "internal associates satterfield305 hintz995 eichmann909 waldo53"
+[2025-02-27T19:21:47.633Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:21:51.634Z] Relevant Servers: ["srv03911.soton.ac.uk:3000","srv03937.soton.ac.uk:3000","srv03940.soton.ac.uk:3000","srv03929.soton.ac.uk:3000","srv03913.soton.ac.uk:3000","srv03936.soton.ac.uk:3000","srv03932.soton.ac.uk:3000","srv03914.soton.ac.uk:3000","srv03917.soton.ac.uk:3000","srv03949.soton.ac.uk:3000"]
+[2025-02-27T19:21:51.635Z] Timer Ended: FindRelevantServers | Elapsed Time: 4001.62ms
+[2025-02-27T19:21:53.356Z] No. SELECTED PODS from srv03937.soton.ac.uk:3000: 69
+[2025-02-27T19:21:53.358Z] Timer Ended: FindRelevantPods@__srv03937.soton.ac.uk:3000 | Elapsed Time: 1687.00ms
+[2025-02-27T19:21:53.421Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 61
+[2025-02-27T19:21:53.422Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 1762.45ms
+[2025-02-27T19:21:53.438Z] No. SELECTED PODS from srv03949.soton.ac.uk:3000: 69
+[2025-02-27T19:21:53.438Z] Timer Ended: FindRelevantPods@__srv03949.soton.ac.uk:3000 | Elapsed Time: 1764.02ms
+[2025-02-27T19:21:53.448Z] No. SELECTED PODS from srv03929.soton.ac.uk:3000: 56
+[2025-02-27T19:21:53.448Z] Timer Ended: FindRelevantPods@__srv03929.soton.ac.uk:3000 | Elapsed Time: 1782.63ms
+[2025-02-27T19:21:53.467Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 67
+[2025-02-27T19:21:53.468Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 1806.04ms
+[2025-02-27T19:21:53.503Z] No. SELECTED PODS from srv03936.soton.ac.uk:3000: 68
+[2025-02-27T19:21:53.504Z] Timer Ended: FindRelevantPods@__srv03936.soton.ac.uk:3000 | Elapsed Time: 1834.04ms
+[2025-02-27T19:21:53.533Z] No. SELECTED PODS from srv03932.soton.ac.uk:3000: 58
+[2025-02-27T19:21:53.533Z] Timer Ended: FindRelevantPods@__srv03932.soton.ac.uk:3000 | Elapsed Time: 1865.06ms
+[2025-02-27T19:21:53.556Z] No. SELECTED PODS from srv03940.soton.ac.uk:3000: 58
+[2025-02-27T19:21:53.556Z] Timer Ended: FindRelevantPods@__srv03940.soton.ac.uk:3000 | Elapsed Time: 1883.49ms
+[2025-02-27T19:21:53.901Z] No. SELECTED PODS from srv03917.soton.ac.uk:3000: 62
+[2025-02-27T19:21:53.902Z] Timer Ended: FindRelevantPods@__srv03917.soton.ac.uk:3000 | Elapsed Time: 2237.70ms
+[2025-02-27T19:21:56.679Z] No. SELECTED PODS from srv03911.soton.ac.uk:3000: 48
+[2025-02-27T19:21:56.679Z] Timer Ended: FindRelevantPods@__srv03911.soton.ac.uk:3000 | Elapsed Time: 5042.48ms
+[2025-02-27T19:21:57.458Z] RowsFetched@__srv03937.soton.ac.uk:3000: 69
+[2025-02-27T19:21:57.459Z] Timer Ended: CombineResults@__srv03937.soton.ac.uk:3000 | Elapsed Time: 4100.30ms
+[2025-02-27T19:22:00.480Z] RowsFetched@__srv03913.soton.ac.uk:3000: 61
+[2025-02-27T19:22:00.480Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 7058.52ms
+[2025-02-27T19:22:04.250Z] RowsFetched@__srv03949.soton.ac.uk:3000: 69
+[2025-02-27T19:22:04.261Z] Timer Ended: CombineResults@__srv03949.soton.ac.uk:3000 | Elapsed Time: 10822.51ms
+[2025-02-27T19:22:07.295Z] RowsFetched@__srv03929.soton.ac.uk:3000: 56
+[2025-02-27T19:22:07.295Z] Timer Ended: CombineResults@__srv03929.soton.ac.uk:3000 | Elapsed Time: 13847.10ms
+[2025-02-27T19:22:10.774Z] RowsFetched@__srv03914.soton.ac.uk:3000: 67
+[2025-02-27T19:22:10.775Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 17306.09ms
+[2025-02-27T19:22:14.351Z] RowsFetched@__srv03936.soton.ac.uk:3000: 68
+[2025-02-27T19:22:14.352Z] Timer Ended: CombineResults@__srv03936.soton.ac.uk:3000 | Elapsed Time: 20848.18ms
+[2025-02-27T19:22:17.480Z] RowsFetched@__srv03932.soton.ac.uk:3000: 58
+[2025-02-27T19:22:17.481Z] Timer Ended: CombineResults@__srv03932.soton.ac.uk:3000 | Elapsed Time: 23947.36ms
+[2025-02-27T19:22:20.299Z] RowsFetched@__srv03940.soton.ac.uk:3000: 58
+[2025-02-27T19:22:20.300Z] Timer Ended: CombineResults@__srv03940.soton.ac.uk:3000 | Elapsed Time: 26743.19ms
+[2025-02-27T19:22:23.408Z] RowsFetched@__srv03917.soton.ac.uk:3000: 62
+[2025-02-27T19:22:23.408Z] Timer Ended: CombineResults@__srv03917.soton.ac.uk:3000 | Elapsed Time: 29506.30ms
+[2025-02-27T19:22:25.345Z] RowsFetched@__srv03911.soton.ac.uk:3000: 48
+[2025-02-27T19:22:25.345Z] Timer Ended: CombineResults@__srv03911.soton.ac.uk:3000 | Elapsed Time: 28665.53ms
+[2025-02-27T19:22:25.350Z] RowsFetched@ALL: 616
+[2025-02-27T19:22:25.350Z] Timer Ended: RankingResults@ALL | Elapsed Time: 4.56ms
+[2025-02-27T19:22:25.360Z] Timer Ended: TotalTime | Elapsed Time: 37727.79ms
+[2025-02-27T19:22:37.733Z] Search Word: "services england associates mickey576 gerlach374 baptist buckridge80"
+[2025-02-27T19:22:37.733Z] WebID: "httpexampleorgagent4profilecardme"
+[2025-02-27T19:22:41.880Z] Relevant Servers: ["srv03914.soton.ac.uk:3000","srv03925.soton.ac.uk:3000","srv03923.soton.ac.uk:3000","srv03934.soton.ac.uk:3000","srv03915.soton.ac.uk:3000","srv03943.soton.ac.uk:3000","srv03938.soton.ac.uk:3000","srv03913.soton.ac.uk:3000","srv03941.soton.ac.uk:3000","srv03816.soton.ac.uk:3000"]
+[2025-02-27T19:22:41.881Z] Timer Ended: FindRelevantServers | Elapsed Time: 4147.34ms
+[2025-02-27T19:22:43.642Z] No. SELECTED PODS from srv03923.soton.ac.uk:3000: 54
+[2025-02-27T19:22:43.644Z] Timer Ended: FindRelevantPods@__srv03923.soton.ac.uk:3000 | Elapsed Time: 1734.25ms
+[2025-02-27T19:22:43.705Z] No. SELECTED PODS from srv03941.soton.ac.uk:3000: 81
+[2025-02-27T19:22:43.705Z] Timer Ended: FindRelevantPods@__srv03941.soton.ac.uk:3000 | Elapsed Time: 1788.05ms
+[2025-02-27T19:22:43.706Z] No. SELECTED PODS from srv03915.soton.ac.uk:3000: 50
+[2025-02-27T19:22:43.706Z] Timer Ended: FindRelevantPods@__srv03915.soton.ac.uk:3000 | Elapsed Time: 1798.42ms
+[2025-02-27T19:22:43.707Z] No. SELECTED PODS from srv03934.soton.ac.uk:3000: 73
+[2025-02-27T19:22:43.707Z] Timer Ended: FindRelevantPods@__srv03934.soton.ac.uk:3000 | Elapsed Time: 1792.92ms
+[2025-02-27T19:22:43.717Z] No. SELECTED PODS from srv03913.soton.ac.uk:3000: 65
+[2025-02-27T19:22:43.717Z] Timer Ended: FindRelevantPods@__srv03913.soton.ac.uk:3000 | Elapsed Time: 1814.80ms
+[2025-02-27T19:22:43.751Z] No. SELECTED PODS from srv03943.soton.ac.uk:3000: 62
+[2025-02-27T19:22:43.752Z] Timer Ended: FindRelevantPods@__srv03943.soton.ac.uk:3000 | Elapsed Time: 1832.19ms
+[2025-02-27T19:22:43.757Z] No. SELECTED PODS from srv03938.soton.ac.uk:3000: 68
+[2025-02-27T19:22:43.757Z] Timer Ended: FindRelevantPods@__srv03938.soton.ac.uk:3000 | Elapsed Time: 1841.50ms
+[2025-02-27T19:22:43.761Z] No. SELECTED PODS from srv03816.soton.ac.uk:3000: 61
+[2025-02-27T19:22:43.762Z] Timer Ended: FindRelevantPods@__srv03816.soton.ac.uk:3000 | Elapsed Time: 1879.55ms
+[2025-02-27T19:22:43.822Z] No. SELECTED PODS from srv03914.soton.ac.uk:3000: 84
+[2025-02-27T19:22:43.822Z] Timer Ended: FindRelevantPods@__srv03914.soton.ac.uk:3000 | Elapsed Time: 1916.88ms
+[2025-02-27T19:22:44.682Z] No. SELECTED PODS from srv03925.soton.ac.uk:3000: 73
+[2025-02-27T19:22:44.682Z] Timer Ended: FindRelevantPods@__srv03925.soton.ac.uk:3000 | Elapsed Time: 2770.06ms
+[2025-02-27T19:22:47.121Z] RowsFetched@__srv03923.soton.ac.uk:3000: 54
+[2025-02-27T19:22:47.122Z] Timer Ended: CombineResults@__srv03923.soton.ac.uk:3000 | Elapsed Time: 3478.25ms
+[2025-02-27T19:22:50.513Z] RowsFetched@__srv03941.soton.ac.uk:3000: 81
+[2025-02-27T19:22:50.513Z] Timer Ended: CombineResults@__srv03941.soton.ac.uk:3000 | Elapsed Time: 6807.63ms
+[2025-02-27T19:22:52.627Z] RowsFetched@__srv03915.soton.ac.uk:3000: 50
+[2025-02-27T19:22:52.627Z] Timer Ended: CombineResults@__srv03915.soton.ac.uk:3000 | Elapsed Time: 8920.92ms
+[2025-02-27T19:22:55.555Z] RowsFetched@__srv03934.soton.ac.uk:3000: 73
+[2025-02-27T19:22:55.555Z] Timer Ended: CombineResults@__srv03934.soton.ac.uk:3000 | Elapsed Time: 11848.57ms
+[2025-02-27T19:22:58.188Z] RowsFetched@__srv03913.soton.ac.uk:3000: 65
+[2025-02-27T19:22:58.189Z] Timer Ended: CombineResults@__srv03913.soton.ac.uk:3000 | Elapsed Time: 14471.23ms
+[2025-02-27T19:23:00.763Z] RowsFetched@__srv03943.soton.ac.uk:3000: 62
+[2025-02-27T19:23:00.763Z] Timer Ended: CombineResults@__srv03943.soton.ac.uk:3000 | Elapsed Time: 17011.38ms
+[2025-02-27T19:23:03.649Z] RowsFetched@__srv03938.soton.ac.uk:3000: 68
+[2025-02-27T19:23:03.650Z] Timer Ended: CombineResults@__srv03938.soton.ac.uk:3000 | Elapsed Time: 19892.73ms
+[2025-02-27T19:23:06.163Z] RowsFetched@__srv03816.soton.ac.uk:3000: 61
+[2025-02-27T19:23:06.163Z] Timer Ended: CombineResults@__srv03816.soton.ac.uk:3000 | Elapsed Time: 22401.11ms
+[2025-02-27T19:23:09.733Z] RowsFetched@__srv03914.soton.ac.uk:3000: 84
+[2025-02-27T19:23:09.733Z] Timer Ended: CombineResults@__srv03914.soton.ac.uk:3000 | Elapsed Time: 25910.24ms
+[2025-02-27T19:23:12.653Z] RowsFetched@__srv03925.soton.ac.uk:3000: 73
+[2025-02-27T19:23:12.654Z] Timer Ended: CombineResults@__srv03925.soton.ac.uk:3000 | Elapsed Time: 27970.88ms
+[2025-02-27T19:23:12.657Z] RowsFetched@ALL: 671
+[2025-02-27T19:23:12.657Z] Timer Ended: RankingResults@ALL | Elapsed Time: 3.24ms
+[2025-02-27T19:23:12.666Z] Timer Ended: TotalTime | Elapsed Time: 34933.73ms

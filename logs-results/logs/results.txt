@@ -1,0 +1,1866 @@
+childhood inhaler Q0 vldb_pod0-Big 1 0.5659414 my_run
+childhood inhaler Q0 vldb_pod0-Big 2 0.5621185 my_run
+childhood inhaler Q0 vldb_pod0-Big 3 0.55575305 my_run
+childhood inhaler Q0 vldb_pod0-Big 4 0.55149484 my_run
+childhood inhaler Q0 vldb_pod0-Big 5 0.55106926 my_run
+childhood inhaler Q0 vldb_pod0-Big 6 0.54957986 my_run
+childhood inhaler Q0 vldb_pod0-Big 7 0.5492474 my_run
+childhood inhaler Q0 vldb_pod0-Big 8 0.5374589 my_run
+childhood inhaler Q0 vldb_pod0-Big 9 0.53512037 my_run
+childhood inhaler Q0 vldb_pod0-Big 10 0.5336842 my_run
+childhood inhaler Q0 vldb_pod0-Big 11 0.53017104 my_run
+childhood inhaler Q0 vldb_pod0-Big 12 0.52984256 my_run
+childhood inhaler Q0 vldb_pod0-Big 13 0.525668 my_run
+childhood inhaler Q0 vldb_pod0-Big 14 0.51902807 my_run
+childhood inhaler Q0 vldb_pod0-Big 15 0.5189586 my_run
+childhood inhaler Q0 vldb_pod0-Big 16 0.510928 my_run
+childhood inhaler Q0 vldb_pod0-Big 17 0.50881773 my_run
+childhood inhaler Q0 vldb_pod0-Big 18 0.5069637 my_run
+childhood inhaler Q0 vldb_pod0-Big 19 0.49847537 my_run
+childhood inhaler Q0 vldb_pod0-Big 20 0.49578154 my_run
+childhood inhaler Q0 vldb_pod0-Big 21 0.49559152 my_run
+childhood inhaler Q0 vldb_pod0-Big 22 0.4946887 my_run
+childhood inhaler Q0 vldb_pod0-Big 23 0.49462622 my_run
+childhood inhaler Q0 vldb_pod0-Big 24 0.49447227 my_run
+childhood inhaler Q0 vldb_pod0-Big 25 0.4903576 my_run
+childhood inhaler Q0 vldb_pod0-Big 26 0.48822668 my_run
+childhood inhaler Q0 vldb_pod0-Big 27 0.4858638 my_run
+childhood inhaler Q0 vldb_pod0-Big 28 0.48447448 my_run
+childhood inhaler Q0 vldb_pod0-Big 29 0.4811832 my_run
+childhood inhaler Q0 vldb_pod0-Big 30 0.48094705 my_run
+childhood inhaler Q0 vldb_pod0-Big 31 0.47426766 my_run
+childhood inhaler Q0 vldb_pod0-Big 32 0.47338519 my_run
+childhood inhaler Q0 vldb_pod0-Big 33 0.47159863 my_run
+childhood inhaler Q0 vldb_pod0-Big 34 0.46979046 my_run
+childhood inhaler Q0 vldb_pod0-Big 35 0.46953234 my_run
+childhood inhaler Q0 vldb_pod0-Big 36 0.46952116 my_run
+childhood inhaler Q0 vldb_pod0-Big 37 0.46895272 my_run
+childhood inhaler Q0 vldb_pod0-Big 38 0.46846274 my_run
+childhood inhaler Q0 vldb_pod0-Big 39 0.4679564 my_run
+childhood inhaler Q0 vldb_pod0-Big 40 0.46676636 my_run
+childhood inhaler Q0 vldb_pod0-Big 41 0.46624106 my_run
+childhood inhaler Q0 vldb_pod0-Big 42 0.46603626 my_run
+childhood inhaler Q0 vldb_pod0-Big 43 0.4658124 my_run
+childhood inhaler Q0 vldb_pod0-Big 44 0.46475357 my_run
+childhood inhaler Q0 vldb_pod0-Big 45 0.46471113 my_run
+childhood inhaler Q0 vldb_pod0-Big 46 0.46414903 my_run
+childhood inhaler Q0 vldb_pod0-Big 47 0.46383643 my_run
+childhood inhaler Q0 vldb_pod0-Big 48 0.46345145 my_run
+childhood inhaler Q0 vldb_pod0-Big 49 0.4632189 my_run
+childhood inhaler Q0 vldb_pod0-Big 50 0.46319908 my_run
+childhood inhaler Q0 vldb_pod0-Big 51 0.46302024 my_run
+childhood inhaler Q0 vldb_pod0-Big 52 0.46288168 my_run
+childhood inhaler Q0 vldb_pod0-Big 53 0.46261483 my_run
+childhood inhaler Q0 vldb_pod0-Big 54 0.4623675 my_run
+childhood inhaler Q0 vldb_pod0-Big 55 0.46221533 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 58 0.461029 my_run
+childhood inhaler Q0 vldb_pod0-Big 59 0.46083215 my_run
+childhood inhaler Q0 vldb_pod0-Big 60 0.4602235 my_run
+childhood inhaler Q0 vldb_pod0-Big 61 0.4594769 my_run
+childhood inhaler Q0 vldb_pod0-Big 62 0.45806062 my_run
+childhood inhaler Q0 vldb_pod0-Big 63 0.45748815 my_run
+childhood inhaler Q0 vldb_pod0-Big 64 0.45644817 my_run
+childhood inhaler Q0 vldb_pod0-Big 65 0.45619255 my_run
+childhood inhaler Q0 vldb_pod0-Big 66 0.45593613 my_run
+childhood inhaler Q0 vldb_pod0-Big 67 0.43760884 my_run
+childhood inhaler Q0 vldb_pod0-Big 68 0.43724346 my_run
+childhood inhaler Q0 vldb_pod0-Big 69 0.43619633 my_run
+childhood inhaler Q0 vldb_pod0-Big 70 0.43439233 my_run
+childhood inhaler Q0 vldb_pod0-Big 71 0.4336733 my_run
+childhood inhaler Q0 vldb_pod0-Big 72 0.43360627 my_run
+childhood inhaler Q0 vldb_pod0-Big 73 0.43219063 my_run
+childhood inhaler Q0 vldb_pod0-Big 74 0.4314705 my_run
+childhood inhaler Q0 vldb_pod0-Big 75 0.4312389 my_run
+childhood inhaler Q0 vldb_pod0-Big 76 0.43121496 my_run
+childhood inhaler Q0 vldb_pod0-Big 77 0.43113887 my_run
+childhood inhaler Q0 vldb_pod0-Big 78 0.43108818 my_run
+childhood inhaler Q0 vldb_pod0-Big 79 0.4309939 my_run
+childhood inhaler Q0 vldb_pod0-Big 80 0.43075138 my_run
+childhood inhaler Q0 vldb_pod0-Big 81 0.43070424 my_run
+childhood inhaler Q0 vldb_pod0-Big 82 0.4306671 my_run
+childhood inhaler Q0 vldb_pod0-Big 83 0.43013746 my_run
+childhood inhaler Q0 vldb_pod0-Big 84 0.4298064 my_run
+childhood inhaler Q0 vldb_pod0-Big 85 0.42976806 my_run
+childhood inhaler Q0 vldb_pod0-Big 86 0.4288705 my_run
+childhood inhaler Q0 vldb_pod0-Big 87 0.42845714 my_run
+childhood inhaler Q0 vldb_pod0-Big 88 0.4279173 my_run
+childhood inhaler Q0 vldb_pod0-Big 89 0.42737132 my_run
+childhood inhaler Q0 vldb_pod0-Big 90 0.4273553 my_run
+childhood inhaler Q0 vldb_pod0-Big 91 0.42709225 my_run
+childhood inhaler Q0 vldb_pod0-Big 92 0.42689833 my_run
+childhood inhaler Q0 vldb_pod0-Big 93 0.4261015 my_run
+childhood inhaler Q0 vldb_pod0-Big 94 0.42591318 my_run
+childhood inhaler Q0 vldb_pod0-Big 95 0.4258077 my_run
+childhood inhaler Q0 vldb_pod0-Big 96 0.42529863 my_run
+childhood inhaler Q0 vldb_pod0-Big 97 0.42518488 my_run
+childhood inhaler Q0 vldb_pod0-Big 98 0.4251448 my_run
+childhood inhaler Q0 vldb_pod0-Big 99 0.4248711 my_run
+childhood inhaler Q0 vldb_pod0-Big 100 0.42478913 my_run
+childhood inhaler Q0 vldb_pod0-Big 101 0.4246164 my_run
+childhood inhaler Q0 vldb_pod0-Big 102 0.42442107 my_run
+childhood inhaler Q0 vldb_pod0-Big 103 0.42441356 my_run
+childhood inhaler Q0 vldb_pod0-Big 104 0.42420882 my_run
+childhood inhaler Q0 vldb_pod0-Big 105 0.42407563 my_run
+childhood inhaler Q0 vldb_pod0-Big 106 0.42388046 my_run
+childhood inhaler Q0 vldb_pod0-Big 107 0.42366835 my_run
+childhood inhaler Q0 vldb_pod0-Big 108 0.42352003 my_run
+childhood inhaler Q0 vldb_pod0-Big 109 0.42345035 my_run
+childhood inhaler Q0 vldb_pod0-Big 110 0.4228614 my_run
+childhood inhaler Q0 vldb_pod0-Big 111 0.4226823 my_run
+childhood inhaler Q0 vldb_pod0-Big 112 0.42263952 my_run
+childhood inhaler Q0 vldb_pod0-Big 113 0.42259485 my_run
+childhood inhaler Q0 vldb_pod0-Big 114 0.4222841 my_run
+childhood inhaler Q0 vldb_pod0-Big 115 0.4222208 my_run
+childhood inhaler Q0 vldb_pod0-Big 116 0.4221809 my_run
+childhood inhaler Q0 vldb_pod0-Big 117 0.42200273 my_run
+childhood inhaler Q0 vldb_pod0-Big 118 0.4219385 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 121 0.4218086 my_run
+childhood inhaler Q0 vldb_pod0-Big 122 0.42174983 my_run
+childhood inhaler Q0 vldb_pod0-Big 123 0.42174625 my_run
+childhood inhaler Q0 vldb_pod0-Big 124 0.42163032 my_run
+childhood inhaler Q0 vldb_pod0-Big 125 0.42147577 my_run
+childhood inhaler Q0 vldb_pod0-Big 126 0.42146415 my_run
+childhood inhaler Q0 vldb_pod0-Big 127 0.42131233 my_run
+childhood inhaler Q0 vldb_pod0-Big 128 0.42105085 my_run
+childhood inhaler Q0 vldb_pod0-Big 129 0.42087755 my_run
+childhood inhaler Q0 vldb_pod0-Big 130 0.42084533 my_run
+childhood inhaler Q0 vldb_pod0-Big 131 0.42084163 my_run
+childhood inhaler Q0 vldb_pod0-Big 132 0.42072403 my_run
+childhood inhaler Q0 vldb_pod0-Big 133 0.4205093 my_run
+childhood inhaler Q0 vldb_pod0-Big 134 0.42050293 my_run
+childhood inhaler Q0 vldb_pod0-Big 135 0.42027223 my_run
+childhood inhaler Q0 vldb_pod0-Big 136 0.419949 my_run
+childhood inhaler Q0 vldb_pod0-Big 137 0.41994774 my_run
+childhood inhaler Q0 vldb_pod0-Big 138 0.41953635 my_run
+childhood inhaler Q0 vldb_pod0-Big 139 0.40626395 my_run
+childhood inhaler Q0 vldb_pod0-Big 140 0.36813158 my_run
+childhood inhaler Q0 vldb_pod0-Big 141 0.35762927 my_run
+childhood inhaler Q0 vldb_pod0-Big 142 0.35522664 my_run
+childhood inhaler Q0 vldb_pod0-Big 143 0.28001478 my_run
+childhood inhaler Q0 vldb_pod0-Big 144 0.2763604 my_run
+childhood inhaler Q0 vldb_pod0-Big 145 0.27596232 my_run
+childhood inhaler Q0 vldb_pod0-Big 146 0.2732723 my_run
+childhood inhaler Q0 vldb_pod0-Big 147 0.27065358 my_run
+childhood inhaler Q0 vldb_pod0-Big 148 0.27002847 my_run
+childhood inhaler Q0 vldb_pod0-Big 149 0.26881576 my_run
+childhood inhaler Q0 vldb_pod0-Big 150 0.26627246 my_run
+childhood inhaler Q0 vldb_pod0-Big 151 0.264417 my_run
+childhood inhaler Q0 vldb_pod0-Big 152 0.2625212 my_run
+childhood inhaler Q0 vldb_pod0-Big 153 0.2620516 my_run
+childhood inhaler Q0 vldb_pod0-Big 154 0.2604861 my_run
+childhood inhaler Q0 vldb_pod0-Big 155 0.25947636 my_run
+childhood inhaler Q0 vldb_pod0-Big 156 0.25873584 my_run
+childhood inhaler Q0 vldb_pod0-Big 157 0.25821835 my_run
+childhood inhaler Q0 vldb_pod0-Big 158 0.2578773 my_run
+childhood inhaler Q0 vldb_pod0-Big 159 0.25780493 my_run
+childhood inhaler Q0 vldb_pod0-Big 160 0.25747895 my_run
+childhood inhaler Q0 vldb_pod0-Big 161 0.25728795 my_run
+childhood inhaler Q0 vldb_pod0-Big 162 0.25714207 my_run
+childhood inhaler Q0 vldb_pod0-Big 163 0.25696278 my_run
+childhood inhaler Q0 vldb_pod0-Big 164 0.2552512 my_run
+childhood inhaler Q0 vldb_pod0-Big 165 0.25509396 my_run
+childhood inhaler Q0 vldb_pod0-Big 166 0.2545617 my_run
+childhood inhaler Q0 vldb_pod0-Big 167 0.25437275 my_run
+childhood inhaler Q0 vldb_pod0-Big 168 0.25429803 my_run
+childhood inhaler Q0 vldb_pod0-Big 169 0.25267625 my_run
+childhood inhaler Q0 vldb_pod0-Big 170 0.25183386 my_run
+childhood inhaler Q0 vldb_pod0-Big 171 0.25137994 my_run
+childhood inhaler Q0 vldb_pod0-Big 172 0.25115275 my_run
+childhood inhaler Q0 vldb_pod0-Big 173 0.2510269 my_run
+childhood inhaler Q0 vldb_pod0-Big 174 0.2475208 my_run
+childhood inhaler Q0 vldb_pod0-Big 175 0.24727428 my_run
+childhood inhaler Q0 vldb_pod0-Big 176 0.2472561 my_run
+childhood inhaler Q0 vldb_pod0-Big 177 0.2466537 my_run
+childhood inhaler Q0 vldb_pod0-Big 178 0.24662974 my_run
+childhood inhaler Q0 vldb_pod0-Big 179 0.24661538 my_run
+childhood inhaler Q0 vldb_pod0-Big 180 0.24658905 my_run
+childhood inhaler Q0 vldb_pod0-Big 181 0.24641241 my_run
+childhood inhaler Q0 vldb_pod0-Big 182 0.24637547 my_run
+childhood inhaler Q0 vldb_pod0-Big 183 0.24632531 my_run
+childhood inhaler Q0 vldb_pod0-Big 184 0.24632423 my_run
+childhood inhaler Q0 vldb_pod0-Big 185 0.24572122 my_run
+childhood inhaler Q0 vldb_pod0-Big 186 0.24558227 my_run
+childhood inhaler Q0 vldb_pod0-Big 187 0.24300456 my_run
+childhood inhaler Q0 vldb_pod0-Big 188 0.24255012 my_run
+childhood inhaler Q0 vldb_pod0-Big 189 0.24234979 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 192 0.2421509 my_run
+childhood inhaler Q0 vldb_pod0-Big 193 0.24194704 my_run
+childhood inhaler Q0 vldb_pod0-Big 194 0.24181722 my_run
+childhood inhaler Q0 vldb_pod0-Big 195 0.24177621 my_run
+childhood inhaler Q0 vldb_pod0-Big 196 0.24165803 my_run
+childhood inhaler Q0 vldb_pod0-Big 197 0.24159634 my_run
+childhood inhaler Q0 vldb_pod0-Big 198 0.24156246 my_run
+childhood inhaler Q0 vldb_pod0-Big 199 0.2415494 my_run
+childhood inhaler Q0 vldb_pod0-Big 200 0.24154644 my_run
+childhood inhaler Q0 vldb_pod0-Big 201 0.24145529 my_run
+childhood inhaler Q0 vldb_pod0-Big 202 0.24140662 my_run
+childhood inhaler Q0 vldb_pod0-Big 203 0.24139479 my_run
+childhood inhaler Q0 vldb_pod0-Big 204 0.2413552 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 207 0.24122085 my_run
+childhood inhaler Q0 vldb_pod0-Big 208 0.24118878 my_run
+childhood inhaler Q0 vldb_pod0-Big 209 0.24113382 my_run
+childhood inhaler Q0 vldb_pod0-Big 210 0.24094865 my_run
+childhood inhaler Q0 vldb_pod0-Big 211 0.24088298 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 214 0.24075998 my_run
+childhood inhaler Q0 vldb_pod0-Big 215 0.24066615 my_run
+childhood inhaler Q0 vldb_pod0-Big 216 0.24065432 my_run
+childhood inhaler Q0 vldb_pod0-Big 217 0.24052176 my_run
+childhood inhaler Q0 vldb_pod0-Big 218 0.24050899 my_run
+childhood inhaler Q0 vldb_pod0-Big 219 0.24038756 my_run
+childhood inhaler Q0 vldb_pod0-Big 220 0.24030408 my_run
+childhood inhaler Q0 vldb_pod0-Big 221 0.2402556 my_run
+childhood inhaler Q0 vldb_pod0-Big 222 0.2401886 my_run
+childhood inhaler Q0 vldb_pod0-Big 223 0.23995537 my_run
+childhood inhaler Q0 vldb_pod0-Big 224 0.23988728 my_run
+childhood inhaler Q0 vldb_pod0-Big 225 0.23980388 my_run
+childhood inhaler Q0 vldb_pod0-Big 226 0.23979777 my_run
+childhood inhaler Q0 vldb_pod0-Big 227 0.23375195 my_run
+childhood inhaler Q0 vldb_pod0-Big 228 0.23371366 my_run
+childhood inhaler Q0 vldb_pod0-Big 229 0.2337032 my_run
+childhood inhaler Q0 vldb_pod0-Big 230 0.2333712 my_run
+childhood inhaler Q0 vldb_pod0-Big 231 0.23302284 my_run
+childhood inhaler Q0 vldb_pod0-Big 232 0.23279352 my_run
+childhood inhaler Q0 vldb_pod0-Big 233 0.23251778 my_run
+childhood inhaler Q0 vldb_pod0-Big 234 0.22509477 my_run
+childhood inhaler Q0 vldb_pod0-Big 235 0.22504064 my_run
+childhood inhaler Q0 vldb_pod0-Big 236 0.22500524 my_run
+childhood inhaler Q0 vldb_pod0-Big 237 0.22375071 my_run
+childhood inhaler Q0 vldb_pod0-Big 238 0.22347695 my_run
+childhood inhaler Q0 vldb_pod0-Big 239 0.22317234 my_run
+childhood inhaler Q0 vldb_pod0-Big 240 0.22314116 my_run
+childhood inhaler Q0 vldb_pod0-Big 241 0.222606 my_run
+childhood inhaler Q0 vldb_pod0-Big 242 0.22255006 my_run
+childhood inhaler Q0 vldb_pod0-Big 243 0.22189474 my_run
+childhood inhaler Q0 vldb_pod0-Big 244 0.2218357 my_run
+childhood inhaler Q0 vldb_pod0-Big 245 0.22176419 my_run
+childhood inhaler Q0 vldb_pod0-Big 246 0.22164991 my_run
+childhood inhaler Q0 vldb_pod0-Big 247 0.20917784 my_run
+childhood inhaler Q0 vldb_pod0-Big 248 0.20884463 my_run
+childhood inhaler Q0 vldb_pod0-Big 249 0.20817448 my_run
+childhood inhaler Q0 vldb_pod0-Big 250 0.2070361 my_run
+childhood inhaler Q0 vldb_pod0-Big 251 0.20701273 my_run
+childhood inhaler Q0 vldb_pod0-Big 252 0.20692529 my_run
+childhood inhaler Q0 vldb_pod0-Big 253 0.20670797 my_run
+childhood inhaler Q0 vldb_pod0-Big 254 0.20561442 my_run
+childhood inhaler Q0 vldb_pod0-Big 255 0.18535668 my_run
+childhood inhaler Q0 vldb_pod0-Big 256 0.18531571 my_run
+childhood inhaler Q0 vldb_pod0-Big 257 0.18486172 my_run
+childhood inhaler Q0 vldb_pod0-Big 258 0.18467379 my_run
+childhood inhaler Q0 vldb_pod0-Big 259 0.18457147 my_run
+childhood inhaler Q0 vldb_pod0-Big 260 0.18435292 my_run
+childhood inhaler Q0 vldb_pod0-Big 261 0.18433633 my_run
+childhood inhaler Q0 vldb_pod0-Big 262 0.18419565 my_run
+childhood inhaler Q0 vldb_pod0-Big 263 0.18410495 my_run
+childhood inhaler Q0 vldb_pod0-Big 264 0.18387127 my_run
+childhood inhaler Q0 vldb_pod0-Big 265 0.18382242 my_run
+childhood inhaler Q0 vldb_pod0-Big 266 0.18370059 my_run
+childhood inhaler Q0 vldb_pod0-Big 267 0.18363611 my_run
+childhood inhaler Q0 vldb_pod0-Big 268 0.183592 my_run
+childhood inhaler Q0 vldb_pod0-Big 269 0.18347672 my_run
+childhood inhaler Q0 vldb_pod0-Big 270 0.18337205 my_run
+childhood inhaler Q0 vldb_pod0-Big 271 0.18335351 my_run
+childhood inhaler Q0 vldb_pod0-Big 272 0.18332359 my_run
+childhood inhaler Q0 vldb_pod0-Big 273 0.18329172 my_run
+childhood inhaler Q0 vldb_pod0-Big 274 0.18312007 my_run
+childhood inhaler Q0 vldb_pod0-Big 275 0.18308207 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 278 0.18300276 my_run
+childhood inhaler Q0 vldb_pod0-Big 279 0.18296355 my_run
+childhood inhaler Q0 vldb_pod0-Big 280 0.1826999 my_run
+childhood inhaler Q0 vldb_pod0-Big 281 0.18268786 my_run
+childhood inhaler Q0 vldb_pod0-Big 282 0.18252932 my_run
+childhood inhaler Q0 vldb_pod0-Big 283 0.18248957 my_run
+childhood inhaler Q0 vldb_pod0-Big 284 0.18244977 my_run
+childhood inhaler Q0 vldb_pod0-Big 285 0.18237908 my_run
+childhood inhaler Q0 vldb_pod0-Big 286 0.18233255 my_run
+childhood inhaler Q0 vldb_pod0-Big 287 0.18231454 my_run
+childhood inhaler Q0 vldb_pod0-Big 288 0.18229322 my_run
+childhood inhaler Q0 vldb_pod0-Big 289 0.18212101 my_run
+childhood inhaler Q0 vldb_pod0-Big 290 0.18196972 my_run
+childhood inhaler Q0 vldb_pod0-Big 291 0.18193333 my_run
+childhood inhaler Q0 vldb_pod0-Big 292 0.18192807 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 295 0.1818094 my_run
+childhood inhaler Q0 vldb_pod0-Big 296 0.18167794 my_run
+childhood inhaler Q0 vldb_pod0-Big 297 0.18164226 my_run
+childhood inhaler Q0 vldb_pod0-Big 298 0.18146846 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 302 0.18135615 my_run
+childhood inhaler Q0 vldb_pod0-Big 303 0.18135533 my_run
+childhood inhaler Q0 vldb_pod0-Big 304 0.18125343 my_run
+childhood inhaler Q0 vldb_pod0-Big 305 0.18123925 my_run
+childhood inhaler Q0 vldb_pod0-Big 306 0.18115094 my_run
+childhood inhaler Q0 vldb_pod0-Big 307 0.18108045 my_run
+childhood inhaler Q0 vldb_pod0-Big 308 0.18103391 my_run
+childhood inhaler Q0 vldb_pod0-Big 309 0.1810008 my_run
+childhood inhaler Q0 vldb_pod0-Big 310 0.18090236 my_run
+childhood inhaler Q0 vldb_pod0-Big 311 0.18075761 my_run
+childhood inhaler Q0 vldb_pod0-Big 312 0.18073477 my_run
+childhood inhaler Q0 vldb_pod0-Big 313 0.18060894 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 316 0.18045425 my_run
+childhood inhaler Q0 vldb_pod0-Big 317 0.18040153 my_run
+childhood inhaler Q0 vldb_pod0-Big 318 0.1803481 my_run
+childhood inhaler Q0 vldb_pod0-Big 319 0.18034005 my_run
+childhood inhaler Q0 vldb_pod0-Big 320 0.1802287 my_run
+childhood inhaler Q0 vldb_pod0-Big 321 0.18014692 my_run
+childhood inhaler Q0 vldb_pod0-Big 322 0.18005836 my_run
+childhood inhaler Q0 vldb_pod0-Big 323 0.18005103 my_run
+childhood inhaler Q0 vldb_pod0-Big 324 0.18003681 my_run
+childhood inhaler Q0 vldb_pod0-Big 325 0.1800088 my_run
+childhood inhaler Q0 vldb_pod0-Big 326 0.17999378 my_run
+childhood inhaler Q0 vldb_pod0-Big 327 0.17994577 my_run
+childhood inhaler Q0 vldb_pod0-Big 328 0.17992093 my_run
+childhood inhaler Q0 vldb_pod0-Big 329 0.17991889 my_run
+childhood inhaler Q0 vldb_pod0-Big 330 0.17985623 my_run
+childhood inhaler Q0 vldb_pod0-Big 331 0.1798013 my_run
+childhood inhaler Q0 vldb_pod0-Big 332 0.13429269 my_run
+childhood inhaler Q0 vldb_pod0-Big 333 0.13407767 my_run
+childhood inhaler Q0 vldb_pod0-Big 334 0.1339091 my_run
+childhood inhaler Q0 vldb_pod0-Big 335 0.13193883 my_run
+childhood inhaler Q0 vldb_pod0-Big 1 0.5659414 my_run
+childhood inhaler Q0 vldb_pod0-Big 2 0.5621185 my_run
+childhood inhaler Q0 vldb_pod0-Big 3 0.55575305 my_run
+childhood inhaler Q0 vldb_pod0-Big 4 0.55149484 my_run
+childhood inhaler Q0 vldb_pod0-Big 5 0.55106926 my_run
+childhood inhaler Q0 vldb_pod0-Big 6 0.54957986 my_run
+childhood inhaler Q0 vldb_pod0-Big 7 0.5492474 my_run
+childhood inhaler Q0 vldb_pod0-Big 8 0.5374589 my_run
+childhood inhaler Q0 vldb_pod0-Big 9 0.53512037 my_run
+childhood inhaler Q0 vldb_pod0-Big 10 0.5336842 my_run
+childhood inhaler Q0 vldb_pod0-Big 11 0.53017104 my_run
+childhood inhaler Q0 vldb_pod0-Big 12 0.52984256 my_run
+childhood inhaler Q0 vldb_pod0-Big 13 0.525668 my_run
+childhood inhaler Q0 vldb_pod0-Big 14 0.51902807 my_run
+childhood inhaler Q0 vldb_pod0-Big 15 0.5189586 my_run
+childhood inhaler Q0 vldb_pod0-Big 16 0.510928 my_run
+childhood inhaler Q0 vldb_pod0-Big 17 0.50881773 my_run
+childhood inhaler Q0 vldb_pod0-Big 18 0.5069637 my_run
+childhood inhaler Q0 vldb_pod0-Big 19 0.49847537 my_run
+childhood inhaler Q0 vldb_pod0-Big 20 0.49578154 my_run
+childhood inhaler Q0 vldb_pod0-Big 21 0.49559152 my_run
+childhood inhaler Q0 vldb_pod0-Big 22 0.4946887 my_run
+childhood inhaler Q0 vldb_pod0-Big 23 0.49462622 my_run
+childhood inhaler Q0 vldb_pod0-Big 24 0.49447227 my_run
+childhood inhaler Q0 vldb_pod0-Big 25 0.4903576 my_run
+childhood inhaler Q0 vldb_pod0-Big 26 0.48822668 my_run
+childhood inhaler Q0 vldb_pod0-Big 27 0.4858638 my_run
+childhood inhaler Q0 vldb_pod0-Big 28 0.48447448 my_run
+childhood inhaler Q0 vldb_pod0-Big 29 0.4811832 my_run
+childhood inhaler Q0 vldb_pod0-Big 30 0.48094705 my_run
+childhood inhaler Q0 vldb_pod0-Big 31 0.47426766 my_run
+childhood inhaler Q0 vldb_pod0-Big 32 0.47338519 my_run
+childhood inhaler Q0 vldb_pod0-Big 33 0.47159863 my_run
+childhood inhaler Q0 vldb_pod0-Big 34 0.46979046 my_run
+childhood inhaler Q0 vldb_pod0-Big 35 0.46953234 my_run
+childhood inhaler Q0 vldb_pod0-Big 36 0.46952116 my_run
+childhood inhaler Q0 vldb_pod0-Big 37 0.46895272 my_run
+childhood inhaler Q0 vldb_pod0-Big 38 0.46846274 my_run
+childhood inhaler Q0 vldb_pod0-Big 39 0.4679564 my_run
+childhood inhaler Q0 vldb_pod0-Big 40 0.46676636 my_run
+childhood inhaler Q0 vldb_pod0-Big 41 0.46624106 my_run
+childhood inhaler Q0 vldb_pod0-Big 42 0.46603626 my_run
+childhood inhaler Q0 vldb_pod0-Big 43 0.4658124 my_run
+childhood inhaler Q0 vldb_pod0-Big 44 0.46475357 my_run
+childhood inhaler Q0 vldb_pod0-Big 45 0.46471113 my_run
+childhood inhaler Q0 vldb_pod0-Big 46 0.46414903 my_run
+childhood inhaler Q0 vldb_pod0-Big 47 0.46383643 my_run
+childhood inhaler Q0 vldb_pod0-Big 48 0.46345145 my_run
+childhood inhaler Q0 vldb_pod0-Big 49 0.4632189 my_run
+childhood inhaler Q0 vldb_pod0-Big 50 0.46319908 my_run
+childhood inhaler Q0 vldb_pod0-Big 51 0.46302024 my_run
+childhood inhaler Q0 vldb_pod0-Big 52 0.46288168 my_run
+childhood inhaler Q0 vldb_pod0-Big 53 0.46261483 my_run
+childhood inhaler Q0 vldb_pod0-Big 54 0.4623675 my_run
+childhood inhaler Q0 vldb_pod0-Big 55 0.46221533 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 58 0.461029 my_run
+childhood inhaler Q0 vldb_pod0-Big 59 0.46083215 my_run
+childhood inhaler Q0 vldb_pod0-Big 60 0.4602235 my_run
+childhood inhaler Q0 vldb_pod0-Big 61 0.4594769 my_run
+childhood inhaler Q0 vldb_pod0-Big 62 0.45806062 my_run
+childhood inhaler Q0 vldb_pod0-Big 63 0.45748815 my_run
+childhood inhaler Q0 vldb_pod0-Big 64 0.45644817 my_run
+childhood inhaler Q0 vldb_pod0-Big 65 0.45619255 my_run
+childhood inhaler Q0 vldb_pod0-Big 66 0.45593613 my_run
+childhood inhaler Q0 vldb_pod0-Big 67 0.43760884 my_run
+childhood inhaler Q0 vldb_pod0-Big 68 0.43724346 my_run
+childhood inhaler Q0 vldb_pod0-Big 69 0.43619633 my_run
+childhood inhaler Q0 vldb_pod0-Big 70 0.43439233 my_run
+childhood inhaler Q0 vldb_pod0-Big 71 0.4336733 my_run
+childhood inhaler Q0 vldb_pod0-Big 72 0.43360627 my_run
+childhood inhaler Q0 vldb_pod0-Big 73 0.43219063 my_run
+childhood inhaler Q0 vldb_pod0-Big 74 0.4314705 my_run
+childhood inhaler Q0 vldb_pod0-Big 75 0.4312389 my_run
+childhood inhaler Q0 vldb_pod0-Big 76 0.43121496 my_run
+childhood inhaler Q0 vldb_pod0-Big 77 0.43113887 my_run
+childhood inhaler Q0 vldb_pod0-Big 78 0.43108818 my_run
+childhood inhaler Q0 vldb_pod0-Big 79 0.4309939 my_run
+childhood inhaler Q0 vldb_pod0-Big 80 0.43075138 my_run
+childhood inhaler Q0 vldb_pod0-Big 81 0.43070424 my_run
+childhood inhaler Q0 vldb_pod0-Big 82 0.4306671 my_run
+childhood inhaler Q0 vldb_pod0-Big 83 0.43013746 my_run
+childhood inhaler Q0 vldb_pod0-Big 84 0.4298064 my_run
+childhood inhaler Q0 vldb_pod0-Big 85 0.42976806 my_run
+childhood inhaler Q0 vldb_pod0-Big 86 0.4288705 my_run
+childhood inhaler Q0 vldb_pod0-Big 87 0.42845714 my_run
+childhood inhaler Q0 vldb_pod0-Big 88 0.4279173 my_run
+childhood inhaler Q0 vldb_pod0-Big 89 0.42737132 my_run
+childhood inhaler Q0 vldb_pod0-Big 90 0.4273553 my_run
+childhood inhaler Q0 vldb_pod0-Big 91 0.42709225 my_run
+childhood inhaler Q0 vldb_pod0-Big 92 0.42689833 my_run
+childhood inhaler Q0 vldb_pod0-Big 93 0.4261015 my_run
+childhood inhaler Q0 vldb_pod0-Big 94 0.42591318 my_run
+childhood inhaler Q0 vldb_pod0-Big 95 0.4258077 my_run
+childhood inhaler Q0 vldb_pod0-Big 96 0.42529863 my_run
+childhood inhaler Q0 vldb_pod0-Big 97 0.42518488 my_run
+childhood inhaler Q0 vldb_pod0-Big 98 0.4251448 my_run
+childhood inhaler Q0 vldb_pod0-Big 99 0.4248711 my_run
+childhood inhaler Q0 vldb_pod0-Big 100 0.42478913 my_run
+childhood inhaler Q0 vldb_pod0-Big 101 0.4246164 my_run
+childhood inhaler Q0 vldb_pod0-Big 102 0.42442107 my_run
+childhood inhaler Q0 vldb_pod0-Big 103 0.42441356 my_run
+childhood inhaler Q0 vldb_pod0-Big 104 0.42420882 my_run
+childhood inhaler Q0 vldb_pod0-Big 105 0.42407563 my_run
+childhood inhaler Q0 vldb_pod0-Big 106 0.42388046 my_run
+childhood inhaler Q0 vldb_pod0-Big 107 0.42366835 my_run
+childhood inhaler Q0 vldb_pod0-Big 108 0.42352003 my_run
+childhood inhaler Q0 vldb_pod0-Big 109 0.42345035 my_run
+childhood inhaler Q0 vldb_pod0-Big 110 0.4228614 my_run
+childhood inhaler Q0 vldb_pod0-Big 111 0.4226823 my_run
+childhood inhaler Q0 vldb_pod0-Big 112 0.42263952 my_run
+childhood inhaler Q0 vldb_pod0-Big 113 0.42259485 my_run
+childhood inhaler Q0 vldb_pod0-Big 114 0.4222841 my_run
+childhood inhaler Q0 vldb_pod0-Big 115 0.4222208 my_run
+childhood inhaler Q0 vldb_pod0-Big 116 0.4221809 my_run
+childhood inhaler Q0 vldb_pod0-Big 117 0.42200273 my_run
+childhood inhaler Q0 vldb_pod0-Big 118 0.4219385 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 121 0.4218086 my_run
+childhood inhaler Q0 vldb_pod0-Big 122 0.42174983 my_run
+childhood inhaler Q0 vldb_pod0-Big 123 0.42174625 my_run
+childhood inhaler Q0 vldb_pod0-Big 124 0.42163032 my_run
+childhood inhaler Q0 vldb_pod0-Big 125 0.42147577 my_run
+childhood inhaler Q0 vldb_pod0-Big 126 0.42146415 my_run
+childhood inhaler Q0 vldb_pod0-Big 127 0.42131233 my_run
+childhood inhaler Q0 vldb_pod0-Big 128 0.42105085 my_run
+childhood inhaler Q0 vldb_pod0-Big 129 0.42087755 my_run
+childhood inhaler Q0 vldb_pod0-Big 130 0.42084533 my_run
+childhood inhaler Q0 vldb_pod0-Big 131 0.42084163 my_run
+childhood inhaler Q0 vldb_pod0-Big 132 0.42072403 my_run
+childhood inhaler Q0 vldb_pod0-Big 133 0.4205093 my_run
+childhood inhaler Q0 vldb_pod0-Big 134 0.42050293 my_run
+childhood inhaler Q0 vldb_pod0-Big 135 0.42027223 my_run
+childhood inhaler Q0 vldb_pod0-Big 136 0.419949 my_run
+childhood inhaler Q0 vldb_pod0-Big 137 0.41994774 my_run
+childhood inhaler Q0 vldb_pod0-Big 138 0.41953635 my_run
+childhood inhaler Q0 vldb_pod0-Big 139 0.40626395 my_run
+childhood inhaler Q0 vldb_pod0-Big 140 0.36813158 my_run
+childhood inhaler Q0 vldb_pod0-Big 141 0.35762927 my_run
+childhood inhaler Q0 vldb_pod0-Big 142 0.35522664 my_run
+childhood inhaler Q0 vldb_pod0-Big 143 0.28001478 my_run
+childhood inhaler Q0 vldb_pod0-Big 144 0.2763604 my_run
+childhood inhaler Q0 vldb_pod0-Big 145 0.27596232 my_run
+childhood inhaler Q0 vldb_pod0-Big 146 0.2732723 my_run
+childhood inhaler Q0 vldb_pod0-Big 147 0.27065358 my_run
+childhood inhaler Q0 vldb_pod0-Big 148 0.27002847 my_run
+childhood inhaler Q0 vldb_pod0-Big 149 0.26881576 my_run
+childhood inhaler Q0 vldb_pod0-Big 150 0.26627246 my_run
+childhood inhaler Q0 vldb_pod0-Big 151 0.264417 my_run
+childhood inhaler Q0 vldb_pod0-Big 152 0.2625212 my_run
+childhood inhaler Q0 vldb_pod0-Big 153 0.2620516 my_run
+childhood inhaler Q0 vldb_pod0-Big 154 0.2604861 my_run
+childhood inhaler Q0 vldb_pod0-Big 155 0.25947636 my_run
+childhood inhaler Q0 vldb_pod0-Big 156 0.25873584 my_run
+childhood inhaler Q0 vldb_pod0-Big 157 0.25821835 my_run
+childhood inhaler Q0 vldb_pod0-Big 158 0.2578773 my_run
+childhood inhaler Q0 vldb_pod0-Big 159 0.25780493 my_run
+childhood inhaler Q0 vldb_pod0-Big 160 0.25747895 my_run
+childhood inhaler Q0 vldb_pod0-Big 161 0.25728795 my_run
+childhood inhaler Q0 vldb_pod0-Big 162 0.25714207 my_run
+childhood inhaler Q0 vldb_pod0-Big 163 0.25696278 my_run
+childhood inhaler Q0 vldb_pod0-Big 164 0.2552512 my_run
+childhood inhaler Q0 vldb_pod0-Big 165 0.25509396 my_run
+childhood inhaler Q0 vldb_pod0-Big 166 0.2545617 my_run
+childhood inhaler Q0 vldb_pod0-Big 167 0.25437275 my_run
+childhood inhaler Q0 vldb_pod0-Big 168 0.25429803 my_run
+childhood inhaler Q0 vldb_pod0-Big 169 0.25267625 my_run
+childhood inhaler Q0 vldb_pod0-Big 170 0.25183386 my_run
+childhood inhaler Q0 vldb_pod0-Big 171 0.25137994 my_run
+childhood inhaler Q0 vldb_pod0-Big 172 0.25115275 my_run
+childhood inhaler Q0 vldb_pod0-Big 173 0.2510269 my_run
+childhood inhaler Q0 vldb_pod0-Big 174 0.2475208 my_run
+childhood inhaler Q0 vldb_pod0-Big 175 0.24727428 my_run
+childhood inhaler Q0 vldb_pod0-Big 176 0.2472561 my_run
+childhood inhaler Q0 vldb_pod0-Big 177 0.2466537 my_run
+childhood inhaler Q0 vldb_pod0-Big 178 0.24662974 my_run
+childhood inhaler Q0 vldb_pod0-Big 179 0.24661538 my_run
+childhood inhaler Q0 vldb_pod0-Big 180 0.24658905 my_run
+childhood inhaler Q0 vldb_pod0-Big 181 0.24641241 my_run
+childhood inhaler Q0 vldb_pod0-Big 182 0.24637547 my_run
+childhood inhaler Q0 vldb_pod0-Big 183 0.24632531 my_run
+childhood inhaler Q0 vldb_pod0-Big 184 0.24632423 my_run
+childhood inhaler Q0 vldb_pod0-Big 185 0.24572122 my_run
+childhood inhaler Q0 vldb_pod0-Big 186 0.24558227 my_run
+childhood inhaler Q0 vldb_pod0-Big 187 0.24300456 my_run
+childhood inhaler Q0 vldb_pod0-Big 188 0.24255012 my_run
+childhood inhaler Q0 vldb_pod0-Big 189 0.24234979 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 192 0.2421509 my_run
+childhood inhaler Q0 vldb_pod0-Big 193 0.24194704 my_run
+childhood inhaler Q0 vldb_pod0-Big 194 0.24181722 my_run
+childhood inhaler Q0 vldb_pod0-Big 195 0.24177621 my_run
+childhood inhaler Q0 vldb_pod0-Big 196 0.24165803 my_run
+childhood inhaler Q0 vldb_pod0-Big 197 0.24159634 my_run
+childhood inhaler Q0 vldb_pod0-Big 198 0.24156246 my_run
+childhood inhaler Q0 vldb_pod0-Big 199 0.2415494 my_run
+childhood inhaler Q0 vldb_pod0-Big 200 0.24154644 my_run
+childhood inhaler Q0 vldb_pod0-Big 201 0.24145529 my_run
+childhood inhaler Q0 vldb_pod0-Big 202 0.24140662 my_run
+childhood inhaler Q0 vldb_pod0-Big 203 0.24139479 my_run
+childhood inhaler Q0 vldb_pod0-Big 204 0.2413552 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 207 0.24122085 my_run
+childhood inhaler Q0 vldb_pod0-Big 208 0.24118878 my_run
+childhood inhaler Q0 vldb_pod0-Big 209 0.24113382 my_run
+childhood inhaler Q0 vldb_pod0-Big 210 0.24094865 my_run
+childhood inhaler Q0 vldb_pod0-Big 211 0.24088298 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 214 0.24075998 my_run
+childhood inhaler Q0 vldb_pod0-Big 215 0.24066615 my_run
+childhood inhaler Q0 vldb_pod0-Big 216 0.24065432 my_run
+childhood inhaler Q0 vldb_pod0-Big 217 0.24052176 my_run
+childhood inhaler Q0 vldb_pod0-Big 218 0.24050899 my_run
+childhood inhaler Q0 vldb_pod0-Big 219 0.24038756 my_run
+childhood inhaler Q0 vldb_pod0-Big 220 0.24030408 my_run
+childhood inhaler Q0 vldb_pod0-Big 221 0.2402556 my_run
+childhood inhaler Q0 vldb_pod0-Big 222 0.2401886 my_run
+childhood inhaler Q0 vldb_pod0-Big 223 0.23995537 my_run
+childhood inhaler Q0 vldb_pod0-Big 224 0.23988728 my_run
+childhood inhaler Q0 vldb_pod0-Big 225 0.23980388 my_run
+childhood inhaler Q0 vldb_pod0-Big 226 0.23979777 my_run
+childhood inhaler Q0 vldb_pod0-Big 227 0.23375195 my_run
+childhood inhaler Q0 vldb_pod0-Big 228 0.23371366 my_run
+childhood inhaler Q0 vldb_pod0-Big 229 0.2337032 my_run
+childhood inhaler Q0 vldb_pod0-Big 230 0.2333712 my_run
+childhood inhaler Q0 vldb_pod0-Big 231 0.23302284 my_run
+childhood inhaler Q0 vldb_pod0-Big 232 0.23279352 my_run
+childhood inhaler Q0 vldb_pod0-Big 233 0.23251778 my_run
+childhood inhaler Q0 vldb_pod0-Big 234 0.22509477 my_run
+childhood inhaler Q0 vldb_pod0-Big 235 0.22504064 my_run
+childhood inhaler Q0 vldb_pod0-Big 236 0.22500524 my_run
+childhood inhaler Q0 vldb_pod0-Big 237 0.22375071 my_run
+childhood inhaler Q0 vldb_pod0-Big 238 0.22347695 my_run
+childhood inhaler Q0 vldb_pod0-Big 239 0.22317234 my_run
+childhood inhaler Q0 vldb_pod0-Big 240 0.22314116 my_run
+childhood inhaler Q0 vldb_pod0-Big 241 0.222606 my_run
+childhood inhaler Q0 vldb_pod0-Big 242 0.22255006 my_run
+childhood inhaler Q0 vldb_pod0-Big 243 0.22189474 my_run
+childhood inhaler Q0 vldb_pod0-Big 244 0.2218357 my_run
+childhood inhaler Q0 vldb_pod0-Big 245 0.22176419 my_run
+childhood inhaler Q0 vldb_pod0-Big 246 0.22164991 my_run
+childhood inhaler Q0 vldb_pod0-Big 247 0.20917784 my_run
+childhood inhaler Q0 vldb_pod0-Big 248 0.20884463 my_run
+childhood inhaler Q0 vldb_pod0-Big 249 0.20817448 my_run
+childhood inhaler Q0 vldb_pod0-Big 250 0.2070361 my_run
+childhood inhaler Q0 vldb_pod0-Big 251 0.20701273 my_run
+childhood inhaler Q0 vldb_pod0-Big 252 0.20692529 my_run
+childhood inhaler Q0 vldb_pod0-Big 253 0.20670797 my_run
+childhood inhaler Q0 vldb_pod0-Big 254 0.20561442 my_run
+childhood inhaler Q0 vldb_pod0-Big 255 0.18535668 my_run
+childhood inhaler Q0 vldb_pod0-Big 256 0.18531571 my_run
+childhood inhaler Q0 vldb_pod0-Big 257 0.18486172 my_run
+childhood inhaler Q0 vldb_pod0-Big 258 0.18467379 my_run
+childhood inhaler Q0 vldb_pod0-Big 259 0.18457147 my_run
+childhood inhaler Q0 vldb_pod0-Big 260 0.18435292 my_run
+childhood inhaler Q0 vldb_pod0-Big 261 0.18433633 my_run
+childhood inhaler Q0 vldb_pod0-Big 262 0.18419565 my_run
+childhood inhaler Q0 vldb_pod0-Big 263 0.18410495 my_run
+childhood inhaler Q0 vldb_pod0-Big 264 0.18387127 my_run
+childhood inhaler Q0 vldb_pod0-Big 265 0.18382242 my_run
+childhood inhaler Q0 vldb_pod0-Big 266 0.18370059 my_run
+childhood inhaler Q0 vldb_pod0-Big 267 0.18363611 my_run
+childhood inhaler Q0 vldb_pod0-Big 268 0.183592 my_run
+childhood inhaler Q0 vldb_pod0-Big 269 0.18347672 my_run
+childhood inhaler Q0 vldb_pod0-Big 270 0.18337205 my_run
+childhood inhaler Q0 vldb_pod0-Big 271 0.18335351 my_run
+childhood inhaler Q0 vldb_pod0-Big 272 0.18332359 my_run
+childhood inhaler Q0 vldb_pod0-Big 273 0.18329172 my_run
+childhood inhaler Q0 vldb_pod0-Big 274 0.18312007 my_run
+childhood inhaler Q0 vldb_pod0-Big 275 0.18308207 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 278 0.18300276 my_run
+childhood inhaler Q0 vldb_pod0-Big 279 0.18296355 my_run
+childhood inhaler Q0 vldb_pod0-Big 280 0.1826999 my_run
+childhood inhaler Q0 vldb_pod0-Big 281 0.18268786 my_run
+childhood inhaler Q0 vldb_pod0-Big 282 0.18252932 my_run
+childhood inhaler Q0 vldb_pod0-Big 283 0.18248957 my_run
+childhood inhaler Q0 vldb_pod0-Big 284 0.18244977 my_run
+childhood inhaler Q0 vldb_pod0-Big 285 0.18237908 my_run
+childhood inhaler Q0 vldb_pod0-Big 286 0.18233255 my_run
+childhood inhaler Q0 vldb_pod0-Big 287 0.18231454 my_run
+childhood inhaler Q0 vldb_pod0-Big 288 0.18229322 my_run
+childhood inhaler Q0 vldb_pod0-Big 289 0.18212101 my_run
+childhood inhaler Q0 vldb_pod0-Big 290 0.18196972 my_run
+childhood inhaler Q0 vldb_pod0-Big 291 0.18193333 my_run
+childhood inhaler Q0 vldb_pod0-Big 292 0.18192807 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 295 0.1818094 my_run
+childhood inhaler Q0 vldb_pod0-Big 296 0.18167794 my_run
+childhood inhaler Q0 vldb_pod0-Big 297 0.18164226 my_run
+childhood inhaler Q0 vldb_pod0-Big 298 0.18146846 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 302 0.18135615 my_run
+childhood inhaler Q0 vldb_pod0-Big 303 0.18135533 my_run
+childhood inhaler Q0 vldb_pod0-Big 304 0.18125343 my_run
+childhood inhaler Q0 vldb_pod0-Big 305 0.18123925 my_run
+childhood inhaler Q0 vldb_pod0-Big 306 0.18115094 my_run
+childhood inhaler Q0 vldb_pod0-Big 307 0.18108045 my_run
+childhood inhaler Q0 vldb_pod0-Big 308 0.18103391 my_run
+childhood inhaler Q0 vldb_pod0-Big 309 0.1810008 my_run
+childhood inhaler Q0 vldb_pod0-Big 310 0.18090236 my_run
+childhood inhaler Q0 vldb_pod0-Big 311 0.18075761 my_run
+childhood inhaler Q0 vldb_pod0-Big 312 0.18073477 my_run
+childhood inhaler Q0 vldb_pod0-Big 313 0.18060894 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 316 0.18045425 my_run
+childhood inhaler Q0 vldb_pod0-Big 317 0.18040153 my_run
+childhood inhaler Q0 vldb_pod0-Big 318 0.1803481 my_run
+childhood inhaler Q0 vldb_pod0-Big 319 0.18034005 my_run
+childhood inhaler Q0 vldb_pod0-Big 320 0.1802287 my_run
+childhood inhaler Q0 vldb_pod0-Big 321 0.18014692 my_run
+childhood inhaler Q0 vldb_pod0-Big 322 0.18005836 my_run
+childhood inhaler Q0 vldb_pod0-Big 323 0.18005103 my_run
+childhood inhaler Q0 vldb_pod0-Big 324 0.18003681 my_run
+childhood inhaler Q0 vldb_pod0-Big 325 0.1800088 my_run
+childhood inhaler Q0 vldb_pod0-Big 326 0.17999378 my_run
+childhood inhaler Q0 vldb_pod0-Big 327 0.17994577 my_run
+childhood inhaler Q0 vldb_pod0-Big 328 0.17992093 my_run
+childhood inhaler Q0 vldb_pod0-Big 329 0.17991889 my_run
+childhood inhaler Q0 vldb_pod0-Big 330 0.17985623 my_run
+childhood inhaler Q0 vldb_pod0-Big 331 0.1798013 my_run
+childhood inhaler Q0 vldb_pod0-Big 332 0.13429269 my_run
+childhood inhaler Q0 vldb_pod0-Big 333 0.13407767 my_run
+childhood inhaler Q0 vldb_pod0-Big 334 0.1339091 my_run
+childhood inhaler Q0 vldb_pod0-Big 335 0.13193883 my_run
+childhood inhaler Q0 vldb_pod0-Big 1 0.5659414 my_run
+childhood inhaler Q0 vldb_pod0-Big 2 0.5621185 my_run
+childhood inhaler Q0 vldb_pod0-Big 3 0.55575305 my_run
+childhood inhaler Q0 vldb_pod0-Big 4 0.55149484 my_run
+childhood inhaler Q0 vldb_pod0-Big 5 0.55106926 my_run
+childhood inhaler Q0 vldb_pod0-Big 6 0.54957986 my_run
+childhood inhaler Q0 vldb_pod0-Big 7 0.5492474 my_run
+childhood inhaler Q0 vldb_pod0-Big 8 0.5374589 my_run
+childhood inhaler Q0 vldb_pod0-Big 9 0.53512037 my_run
+childhood inhaler Q0 vldb_pod0-Big 10 0.5336842 my_run
+childhood inhaler Q0 vldb_pod0-Big 11 0.53017104 my_run
+childhood inhaler Q0 vldb_pod0-Big 12 0.52984256 my_run
+childhood inhaler Q0 vldb_pod0-Big 13 0.525668 my_run
+childhood inhaler Q0 vldb_pod0-Big 14 0.51902807 my_run
+childhood inhaler Q0 vldb_pod0-Big 15 0.5189586 my_run
+childhood inhaler Q0 vldb_pod0-Big 16 0.510928 my_run
+childhood inhaler Q0 vldb_pod0-Big 17 0.50881773 my_run
+childhood inhaler Q0 vldb_pod0-Big 18 0.5069637 my_run
+childhood inhaler Q0 vldb_pod0-Big 19 0.49847537 my_run
+childhood inhaler Q0 vldb_pod0-Big 20 0.49578154 my_run
+childhood inhaler Q0 vldb_pod0-Big 21 0.49559152 my_run
+childhood inhaler Q0 vldb_pod0-Big 22 0.4946887 my_run
+childhood inhaler Q0 vldb_pod0-Big 23 0.49462622 my_run
+childhood inhaler Q0 vldb_pod0-Big 24 0.49447227 my_run
+childhood inhaler Q0 vldb_pod0-Big 25 0.4903576 my_run
+childhood inhaler Q0 vldb_pod0-Big 26 0.48822668 my_run
+childhood inhaler Q0 vldb_pod0-Big 27 0.4858638 my_run
+childhood inhaler Q0 vldb_pod0-Big 28 0.48447448 my_run
+childhood inhaler Q0 vldb_pod0-Big 29 0.4811832 my_run
+childhood inhaler Q0 vldb_pod0-Big 30 0.48094705 my_run
+childhood inhaler Q0 vldb_pod0-Big 31 0.47426766 my_run
+childhood inhaler Q0 vldb_pod0-Big 32 0.47338519 my_run
+childhood inhaler Q0 vldb_pod0-Big 33 0.47159863 my_run
+childhood inhaler Q0 vldb_pod0-Big 34 0.46979046 my_run
+childhood inhaler Q0 vldb_pod0-Big 35 0.46953234 my_run
+childhood inhaler Q0 vldb_pod0-Big 36 0.46952116 my_run
+childhood inhaler Q0 vldb_pod0-Big 37 0.46895272 my_run
+childhood inhaler Q0 vldb_pod0-Big 38 0.46846274 my_run
+childhood inhaler Q0 vldb_pod0-Big 39 0.4679564 my_run
+childhood inhaler Q0 vldb_pod0-Big 40 0.46676636 my_run
+childhood inhaler Q0 vldb_pod0-Big 41 0.46624106 my_run
+childhood inhaler Q0 vldb_pod0-Big 42 0.46603626 my_run
+childhood inhaler Q0 vldb_pod0-Big 43 0.4658124 my_run
+childhood inhaler Q0 vldb_pod0-Big 44 0.46475357 my_run
+childhood inhaler Q0 vldb_pod0-Big 45 0.46471113 my_run
+childhood inhaler Q0 vldb_pod0-Big 46 0.46414903 my_run
+childhood inhaler Q0 vldb_pod0-Big 47 0.46383643 my_run
+childhood inhaler Q0 vldb_pod0-Big 48 0.46345145 my_run
+childhood inhaler Q0 vldb_pod0-Big 49 0.4632189 my_run
+childhood inhaler Q0 vldb_pod0-Big 50 0.46319908 my_run
+childhood inhaler Q0 vldb_pod0-Big 51 0.46302024 my_run
+childhood inhaler Q0 vldb_pod0-Big 52 0.46288168 my_run
+childhood inhaler Q0 vldb_pod0-Big 53 0.46261483 my_run
+childhood inhaler Q0 vldb_pod0-Big 54 0.4623675 my_run
+childhood inhaler Q0 vldb_pod0-Big 55 0.46221533 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 56 0.46135336 my_run
+childhood inhaler Q0 vldb_pod0-Big 58 0.461029 my_run
+childhood inhaler Q0 vldb_pod0-Big 59 0.46083215 my_run
+childhood inhaler Q0 vldb_pod0-Big 60 0.4602235 my_run
+childhood inhaler Q0 vldb_pod0-Big 61 0.4594769 my_run
+childhood inhaler Q0 vldb_pod0-Big 62 0.45806062 my_run
+childhood inhaler Q0 vldb_pod0-Big 63 0.45748815 my_run
+childhood inhaler Q0 vldb_pod0-Big 64 0.45644817 my_run
+childhood inhaler Q0 vldb_pod0-Big 65 0.45619255 my_run
+childhood inhaler Q0 vldb_pod0-Big 66 0.45593613 my_run
+childhood inhaler Q0 vldb_pod0-Big 67 0.43760884 my_run
+childhood inhaler Q0 vldb_pod0-Big 68 0.43724346 my_run
+childhood inhaler Q0 vldb_pod0-Big 69 0.43619633 my_run
+childhood inhaler Q0 vldb_pod0-Big 70 0.43439233 my_run
+childhood inhaler Q0 vldb_pod0-Big 71 0.4336733 my_run
+childhood inhaler Q0 vldb_pod0-Big 72 0.43360627 my_run
+childhood inhaler Q0 vldb_pod0-Big 73 0.43219063 my_run
+childhood inhaler Q0 vldb_pod0-Big 74 0.4314705 my_run
+childhood inhaler Q0 vldb_pod0-Big 75 0.4312389 my_run
+childhood inhaler Q0 vldb_pod0-Big 76 0.43121496 my_run
+childhood inhaler Q0 vldb_pod0-Big 77 0.43113887 my_run
+childhood inhaler Q0 vldb_pod0-Big 78 0.43108818 my_run
+childhood inhaler Q0 vldb_pod0-Big 79 0.4309939 my_run
+childhood inhaler Q0 vldb_pod0-Big 80 0.43075138 my_run
+childhood inhaler Q0 vldb_pod0-Big 81 0.43070424 my_run
+childhood inhaler Q0 vldb_pod0-Big 82 0.4306671 my_run
+childhood inhaler Q0 vldb_pod0-Big 83 0.43013746 my_run
+childhood inhaler Q0 vldb_pod0-Big 84 0.4298064 my_run
+childhood inhaler Q0 vldb_pod0-Big 85 0.42976806 my_run
+childhood inhaler Q0 vldb_pod0-Big 86 0.4288705 my_run
+childhood inhaler Q0 vldb_pod0-Big 87 0.42845714 my_run
+childhood inhaler Q0 vldb_pod0-Big 88 0.4279173 my_run
+childhood inhaler Q0 vldb_pod0-Big 89 0.42737132 my_run
+childhood inhaler Q0 vldb_pod0-Big 90 0.4273553 my_run
+childhood inhaler Q0 vldb_pod0-Big 91 0.42709225 my_run
+childhood inhaler Q0 vldb_pod0-Big 92 0.42689833 my_run
+childhood inhaler Q0 vldb_pod0-Big 93 0.4261015 my_run
+childhood inhaler Q0 vldb_pod0-Big 94 0.42591318 my_run
+childhood inhaler Q0 vldb_pod0-Big 95 0.4258077 my_run
+childhood inhaler Q0 vldb_pod0-Big 96 0.42529863 my_run
+childhood inhaler Q0 vldb_pod0-Big 97 0.42518488 my_run
+childhood inhaler Q0 vldb_pod0-Big 98 0.4251448 my_run
+childhood inhaler Q0 vldb_pod0-Big 99 0.4248711 my_run
+childhood inhaler Q0 vldb_pod0-Big 100 0.42478913 my_run
+childhood inhaler Q0 vldb_pod0-Big 101 0.4246164 my_run
+childhood inhaler Q0 vldb_pod0-Big 102 0.42442107 my_run
+childhood inhaler Q0 vldb_pod0-Big 103 0.42441356 my_run
+childhood inhaler Q0 vldb_pod0-Big 104 0.42420882 my_run
+childhood inhaler Q0 vldb_pod0-Big 105 0.42407563 my_run
+childhood inhaler Q0 vldb_pod0-Big 106 0.42388046 my_run
+childhood inhaler Q0 vldb_pod0-Big 107 0.42366835 my_run
+childhood inhaler Q0 vldb_pod0-Big 108 0.42352003 my_run
+childhood inhaler Q0 vldb_pod0-Big 109 0.42345035 my_run
+childhood inhaler Q0 vldb_pod0-Big 110 0.4228614 my_run
+childhood inhaler Q0 vldb_pod0-Big 111 0.4226823 my_run
+childhood inhaler Q0 vldb_pod0-Big 112 0.42263952 my_run
+childhood inhaler Q0 vldb_pod0-Big 113 0.42259485 my_run
+childhood inhaler Q0 vldb_pod0-Big 114 0.4222841 my_run
+childhood inhaler Q0 vldb_pod0-Big 115 0.4222208 my_run
+childhood inhaler Q0 vldb_pod0-Big 116 0.4221809 my_run
+childhood inhaler Q0 vldb_pod0-Big 117 0.42200273 my_run
+childhood inhaler Q0 vldb_pod0-Big 118 0.4219385 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 119 0.42193085 my_run
+childhood inhaler Q0 vldb_pod0-Big 121 0.4218086 my_run
+childhood inhaler Q0 vldb_pod0-Big 122 0.42174983 my_run
+childhood inhaler Q0 vldb_pod0-Big 123 0.42174625 my_run
+childhood inhaler Q0 vldb_pod0-Big 124 0.42163032 my_run
+childhood inhaler Q0 vldb_pod0-Big 125 0.42147577 my_run
+childhood inhaler Q0 vldb_pod0-Big 126 0.42146415 my_run
+childhood inhaler Q0 vldb_pod0-Big 127 0.42131233 my_run
+childhood inhaler Q0 vldb_pod0-Big 128 0.42105085 my_run
+childhood inhaler Q0 vldb_pod0-Big 129 0.42087755 my_run
+childhood inhaler Q0 vldb_pod0-Big 130 0.42084533 my_run
+childhood inhaler Q0 vldb_pod0-Big 131 0.42084163 my_run
+childhood inhaler Q0 vldb_pod0-Big 132 0.42072403 my_run
+childhood inhaler Q0 vldb_pod0-Big 133 0.4205093 my_run
+childhood inhaler Q0 vldb_pod0-Big 134 0.42050293 my_run
+childhood inhaler Q0 vldb_pod0-Big 135 0.42027223 my_run
+childhood inhaler Q0 vldb_pod0-Big 136 0.419949 my_run
+childhood inhaler Q0 vldb_pod0-Big 137 0.41994774 my_run
+childhood inhaler Q0 vldb_pod0-Big 138 0.41953635 my_run
+childhood inhaler Q0 vldb_pod0-Big 139 0.40626395 my_run
+childhood inhaler Q0 vldb_pod0-Big 140 0.36813158 my_run
+childhood inhaler Q0 vldb_pod0-Big 141 0.35762927 my_run
+childhood inhaler Q0 vldb_pod0-Big 142 0.35522664 my_run
+childhood inhaler Q0 vldb_pod0-Big 143 0.28001478 my_run
+childhood inhaler Q0 vldb_pod0-Big 144 0.2763604 my_run
+childhood inhaler Q0 vldb_pod0-Big 145 0.27596232 my_run
+childhood inhaler Q0 vldb_pod0-Big 146 0.2732723 my_run
+childhood inhaler Q0 vldb_pod0-Big 147 0.27065358 my_run
+childhood inhaler Q0 vldb_pod0-Big 148 0.27002847 my_run
+childhood inhaler Q0 vldb_pod0-Big 149 0.26881576 my_run
+childhood inhaler Q0 vldb_pod0-Big 150 0.26627246 my_run
+childhood inhaler Q0 vldb_pod0-Big 151 0.264417 my_run
+childhood inhaler Q0 vldb_pod0-Big 152 0.2625212 my_run
+childhood inhaler Q0 vldb_pod0-Big 153 0.2620516 my_run
+childhood inhaler Q0 vldb_pod0-Big 154 0.2604861 my_run
+childhood inhaler Q0 vldb_pod0-Big 155 0.25947636 my_run
+childhood inhaler Q0 vldb_pod0-Big 156 0.25873584 my_run
+childhood inhaler Q0 vldb_pod0-Big 157 0.25821835 my_run
+childhood inhaler Q0 vldb_pod0-Big 158 0.2578773 my_run
+childhood inhaler Q0 vldb_pod0-Big 159 0.25780493 my_run
+childhood inhaler Q0 vldb_pod0-Big 160 0.25747895 my_run
+childhood inhaler Q0 vldb_pod0-Big 161 0.25728795 my_run
+childhood inhaler Q0 vldb_pod0-Big 162 0.25714207 my_run
+childhood inhaler Q0 vldb_pod0-Big 163 0.25696278 my_run
+childhood inhaler Q0 vldb_pod0-Big 164 0.2552512 my_run
+childhood inhaler Q0 vldb_pod0-Big 165 0.25509396 my_run
+childhood inhaler Q0 vldb_pod0-Big 166 0.2545617 my_run
+childhood inhaler Q0 vldb_pod0-Big 167 0.25437275 my_run
+childhood inhaler Q0 vldb_pod0-Big 168 0.25429803 my_run
+childhood inhaler Q0 vldb_pod0-Big 169 0.25267625 my_run
+childhood inhaler Q0 vldb_pod0-Big 170 0.25183386 my_run
+childhood inhaler Q0 vldb_pod0-Big 171 0.25137994 my_run
+childhood inhaler Q0 vldb_pod0-Big 172 0.25115275 my_run
+childhood inhaler Q0 vldb_pod0-Big 173 0.2510269 my_run
+childhood inhaler Q0 vldb_pod0-Big 174 0.2475208 my_run
+childhood inhaler Q0 vldb_pod0-Big 175 0.24727428 my_run
+childhood inhaler Q0 vldb_pod0-Big 176 0.2472561 my_run
+childhood inhaler Q0 vldb_pod0-Big 177 0.2466537 my_run
+childhood inhaler Q0 vldb_pod0-Big 178 0.24662974 my_run
+childhood inhaler Q0 vldb_pod0-Big 179 0.24661538 my_run
+childhood inhaler Q0 vldb_pod0-Big 180 0.24658905 my_run
+childhood inhaler Q0 vldb_pod0-Big 181 0.24641241 my_run
+childhood inhaler Q0 vldb_pod0-Big 182 0.24637547 my_run
+childhood inhaler Q0 vldb_pod0-Big 183 0.24632531 my_run
+childhood inhaler Q0 vldb_pod0-Big 184 0.24632423 my_run
+childhood inhaler Q0 vldb_pod0-Big 185 0.24572122 my_run
+childhood inhaler Q0 vldb_pod0-Big 186 0.24558227 my_run
+childhood inhaler Q0 vldb_pod0-Big 187 0.24300456 my_run
+childhood inhaler Q0 vldb_pod0-Big 188 0.24255012 my_run
+childhood inhaler Q0 vldb_pod0-Big 189 0.24234979 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 190 0.24224783 my_run
+childhood inhaler Q0 vldb_pod0-Big 192 0.2421509 my_run
+childhood inhaler Q0 vldb_pod0-Big 193 0.24194704 my_run
+childhood inhaler Q0 vldb_pod0-Big 194 0.24181722 my_run
+childhood inhaler Q0 vldb_pod0-Big 195 0.24177621 my_run
+childhood inhaler Q0 vldb_pod0-Big 196 0.24165803 my_run
+childhood inhaler Q0 vldb_pod0-Big 197 0.24159634 my_run
+childhood inhaler Q0 vldb_pod0-Big 198 0.24156246 my_run
+childhood inhaler Q0 vldb_pod0-Big 199 0.2415494 my_run
+childhood inhaler Q0 vldb_pod0-Big 200 0.24154644 my_run
+childhood inhaler Q0 vldb_pod0-Big 201 0.24145529 my_run
+childhood inhaler Q0 vldb_pod0-Big 202 0.24140662 my_run
+childhood inhaler Q0 vldb_pod0-Big 203 0.24139479 my_run
+childhood inhaler Q0 vldb_pod0-Big 204 0.2413552 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 205 0.241222 my_run
+childhood inhaler Q0 vldb_pod0-Big 207 0.24122085 my_run
+childhood inhaler Q0 vldb_pod0-Big 208 0.24118878 my_run
+childhood inhaler Q0 vldb_pod0-Big 209 0.24113382 my_run
+childhood inhaler Q0 vldb_pod0-Big 210 0.24094865 my_run
+childhood inhaler Q0 vldb_pod0-Big 211 0.24088298 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 212 0.24081984 my_run
+childhood inhaler Q0 vldb_pod0-Big 214 0.24075998 my_run
+childhood inhaler Q0 vldb_pod0-Big 215 0.24066615 my_run
+childhood inhaler Q0 vldb_pod0-Big 216 0.24065432 my_run
+childhood inhaler Q0 vldb_pod0-Big 217 0.24052176 my_run
+childhood inhaler Q0 vldb_pod0-Big 218 0.24050899 my_run
+childhood inhaler Q0 vldb_pod0-Big 219 0.24038756 my_run
+childhood inhaler Q0 vldb_pod0-Big 220 0.24030408 my_run
+childhood inhaler Q0 vldb_pod0-Big 221 0.2402556 my_run
+childhood inhaler Q0 vldb_pod0-Big 222 0.2401886 my_run
+childhood inhaler Q0 vldb_pod0-Big 223 0.23995537 my_run
+childhood inhaler Q0 vldb_pod0-Big 224 0.23988728 my_run
+childhood inhaler Q0 vldb_pod0-Big 225 0.23980388 my_run
+childhood inhaler Q0 vldb_pod0-Big 226 0.23979777 my_run
+childhood inhaler Q0 vldb_pod0-Big 227 0.23375195 my_run
+childhood inhaler Q0 vldb_pod0-Big 228 0.23371366 my_run
+childhood inhaler Q0 vldb_pod0-Big 229 0.2337032 my_run
+childhood inhaler Q0 vldb_pod0-Big 230 0.2333712 my_run
+childhood inhaler Q0 vldb_pod0-Big 231 0.23302284 my_run
+childhood inhaler Q0 vldb_pod0-Big 232 0.23279352 my_run
+childhood inhaler Q0 vldb_pod0-Big 233 0.23251778 my_run
+childhood inhaler Q0 vldb_pod0-Big 234 0.22509477 my_run
+childhood inhaler Q0 vldb_pod0-Big 235 0.22504064 my_run
+childhood inhaler Q0 vldb_pod0-Big 236 0.22500524 my_run
+childhood inhaler Q0 vldb_pod0-Big 237 0.22375071 my_run
+childhood inhaler Q0 vldb_pod0-Big 238 0.22347695 my_run
+childhood inhaler Q0 vldb_pod0-Big 239 0.22317234 my_run
+childhood inhaler Q0 vldb_pod0-Big 240 0.22314116 my_run
+childhood inhaler Q0 vldb_pod0-Big 241 0.222606 my_run
+childhood inhaler Q0 vldb_pod0-Big 242 0.22255006 my_run
+childhood inhaler Q0 vldb_pod0-Big 243 0.22189474 my_run
+childhood inhaler Q0 vldb_pod0-Big 244 0.2218357 my_run
+childhood inhaler Q0 vldb_pod0-Big 245 0.22176419 my_run
+childhood inhaler Q0 vldb_pod0-Big 246 0.22164991 my_run
+childhood inhaler Q0 vldb_pod0-Big 247 0.20917784 my_run
+childhood inhaler Q0 vldb_pod0-Big 248 0.20884463 my_run
+childhood inhaler Q0 vldb_pod0-Big 249 0.20817448 my_run
+childhood inhaler Q0 vldb_pod0-Big 250 0.2070361 my_run
+childhood inhaler Q0 vldb_pod0-Big 251 0.20701273 my_run
+childhood inhaler Q0 vldb_pod0-Big 252 0.20692529 my_run
+childhood inhaler Q0 vldb_pod0-Big 253 0.20670797 my_run
+childhood inhaler Q0 vldb_pod0-Big 254 0.20561442 my_run
+childhood inhaler Q0 vldb_pod0-Big 255 0.18535668 my_run
+childhood inhaler Q0 vldb_pod0-Big 256 0.18531571 my_run
+childhood inhaler Q0 vldb_pod0-Big 257 0.18486172 my_run
+childhood inhaler Q0 vldb_pod0-Big 258 0.18467379 my_run
+childhood inhaler Q0 vldb_pod0-Big 259 0.18457147 my_run
+childhood inhaler Q0 vldb_pod0-Big 260 0.18435292 my_run
+childhood inhaler Q0 vldb_pod0-Big 261 0.18433633 my_run
+childhood inhaler Q0 vldb_pod0-Big 262 0.18419565 my_run
+childhood inhaler Q0 vldb_pod0-Big 263 0.18410495 my_run
+childhood inhaler Q0 vldb_pod0-Big 264 0.18387127 my_run
+childhood inhaler Q0 vldb_pod0-Big 265 0.18382242 my_run
+childhood inhaler Q0 vldb_pod0-Big 266 0.18370059 my_run
+childhood inhaler Q0 vldb_pod0-Big 267 0.18363611 my_run
+childhood inhaler Q0 vldb_pod0-Big 268 0.183592 my_run
+childhood inhaler Q0 vldb_pod0-Big 269 0.18347672 my_run
+childhood inhaler Q0 vldb_pod0-Big 270 0.18337205 my_run
+childhood inhaler Q0 vldb_pod0-Big 271 0.18335351 my_run
+childhood inhaler Q0 vldb_pod0-Big 272 0.18332359 my_run
+childhood inhaler Q0 vldb_pod0-Big 273 0.18329172 my_run
+childhood inhaler Q0 vldb_pod0-Big 274 0.18312007 my_run
+childhood inhaler Q0 vldb_pod0-Big 275 0.18308207 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 276 0.1830774 my_run
+childhood inhaler Q0 vldb_pod0-Big 278 0.18300276 my_run
+childhood inhaler Q0 vldb_pod0-Big 279 0.18296355 my_run
+childhood inhaler Q0 vldb_pod0-Big 280 0.1826999 my_run
+childhood inhaler Q0 vldb_pod0-Big 281 0.18268786 my_run
+childhood inhaler Q0 vldb_pod0-Big 282 0.18252932 my_run
+childhood inhaler Q0 vldb_pod0-Big 283 0.18248957 my_run
+childhood inhaler Q0 vldb_pod0-Big 284 0.18244977 my_run
+childhood inhaler Q0 vldb_pod0-Big 285 0.18237908 my_run
+childhood inhaler Q0 vldb_pod0-Big 286 0.18233255 my_run
+childhood inhaler Q0 vldb_pod0-Big 287 0.18231454 my_run
+childhood inhaler Q0 vldb_pod0-Big 288 0.18229322 my_run
+childhood inhaler Q0 vldb_pod0-Big 289 0.18212101 my_run
+childhood inhaler Q0 vldb_pod0-Big 290 0.18196972 my_run
+childhood inhaler Q0 vldb_pod0-Big 291 0.18193333 my_run
+childhood inhaler Q0 vldb_pod0-Big 292 0.18192807 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 293 0.18189411 my_run
+childhood inhaler Q0 vldb_pod0-Big 295 0.1818094 my_run
+childhood inhaler Q0 vldb_pod0-Big 296 0.18167794 my_run
+childhood inhaler Q0 vldb_pod0-Big 297 0.18164226 my_run
+childhood inhaler Q0 vldb_pod0-Big 298 0.18146846 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 299 0.18145058 my_run
+childhood inhaler Q0 vldb_pod0-Big 302 0.18135615 my_run
+childhood inhaler Q0 vldb_pod0-Big 303 0.18135533 my_run
+childhood inhaler Q0 vldb_pod0-Big 304 0.18125343 my_run
+childhood inhaler Q0 vldb_pod0-Big 305 0.18123925 my_run
+childhood inhaler Q0 vldb_pod0-Big 306 0.18115094 my_run
+childhood inhaler Q0 vldb_pod0-Big 307 0.18108045 my_run
+childhood inhaler Q0 vldb_pod0-Big 308 0.18103391 my_run
+childhood inhaler Q0 vldb_pod0-Big 309 0.1810008 my_run
+childhood inhaler Q0 vldb_pod0-Big 310 0.18090236 my_run
+childhood inhaler Q0 vldb_pod0-Big 311 0.18075761 my_run
+childhood inhaler Q0 vldb_pod0-Big 312 0.18073477 my_run
+childhood inhaler Q0 vldb_pod0-Big 313 0.18060894 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 314 0.18050055 my_run
+childhood inhaler Q0 vldb_pod0-Big 316 0.18045425 my_run
+childhood inhaler Q0 vldb_pod0-Big 317 0.18040153 my_run
+childhood inhaler Q0 vldb_pod0-Big 318 0.1803481 my_run
+childhood inhaler Q0 vldb_pod0-Big 319 0.18034005 my_run
+childhood inhaler Q0 vldb_pod0-Big 320 0.1802287 my_run
+childhood inhaler Q0 vldb_pod0-Big 321 0.18014692 my_run
+childhood inhaler Q0 vldb_pod0-Big 322 0.18005836 my_run
+childhood inhaler Q0 vldb_pod0-Big 323 0.18005103 my_run
+childhood inhaler Q0 vldb_pod0-Big 324 0.18003681 my_run
+childhood inhaler Q0 vldb_pod0-Big 325 0.1800088 my_run
+childhood inhaler Q0 vldb_pod0-Big 326 0.17999378 my_run
+childhood inhaler Q0 vldb_pod0-Big 327 0.17994577 my_run
+childhood inhaler Q0 vldb_pod0-Big 328 0.17992093 my_run
+childhood inhaler Q0 vldb_pod0-Big 329 0.17991889 my_run
+childhood inhaler Q0 vldb_pod0-Big 330 0.17985623 my_run
+childhood inhaler Q0 vldb_pod0-Big 331 0.1798013 my_run
+childhood inhaler Q0 vldb_pod0-Big 332 0.13429269 my_run
+childhood inhaler Q0 vldb_pod0-Big 333 0.13407767 my_run
+childhood inhaler Q0 vldb_pod0-Big 334 0.1339091 my_run
+childhood inhaler Q0 vldb_pod0-Big 335 0.13193883 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 1 1.3762894 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 2 1.3522116 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 3 1.3490095 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 4 1.2603725 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 5 1.250263 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 6 1.224405 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 7 1.0819285 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 8 1.0792978 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 9 1.0741186 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 10 1.0349075 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 11 0.98838866 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 12 0.96757936 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 13 0.93605196 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 14 0.9326197 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 15 0.7549734 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 16 0.7527185 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 17 0.7455169 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 18 0.743539 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 19 0.72245955 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 20 0.7210875 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 21 0.7164256 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 22 0.7137625 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 23 0.70692533 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 24 0.6233173 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 25 0.6146487 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 26 0.59620774 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 27 0.5865308 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 28 0.5703099 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 29 0.5268536 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 30 0.51011205 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 31 0.50859606 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 32 0.5080776 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 33 0.5014532 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 34 0.49892646 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 35 0.49331754 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 36 0.48715073 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 37 0.4843583 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 38 0.4835242 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 39 0.48133174 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 40 0.47959688 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 41 0.47553033 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 42 0.47068977 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 43 0.46850872 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 44 0.45837405 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 45 0.44773886 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 46 0.44728917 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 47 0.44700232 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 48 0.446227 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 49 0.44599545 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 50 0.44358385 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 51 0.43945202 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 52 0.42661333 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 53 0.41864592 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 54 0.41686594 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 55 0.41444352 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 56 0.41410887 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 57 0.413581 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 58 0.41279614 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 59 0.41149372 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 60 0.387193 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 61 0.3867575 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 62 0.38471478 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 63 0.3845592 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 64 0.3831948 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 65 0.38170975 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 66 0.36894792 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 67 0.36691663 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 68 0.36509594 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 69 0.36462706 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 70 0.36388886 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 71 0.36214897 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 72 0.3615967 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 73 0.36065623 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 74 0.36004096 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 75 0.35598886 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 76 0.35382992 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 77 0.3402037 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 78 0.27524996 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 79 0.27312744 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 80 0.272146 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 81 0.27169013 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 82 0.27024034 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 83 0.26939654 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 84 0.26928136 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 85 0.26926985 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 86 0.26902294 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 87 0.2684021 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 88 0.26815534 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 89 0.26802933 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 90 0.26754287 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 91 0.26734418 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 92 0.2666311 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 93 0.26643136 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 94 0.26560277 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 95 0.26515827 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 96 0.2650816 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 97 0.26503193 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 98 0.26502407 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 99 0.26488537 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 100 0.264356 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 101 0.2643422 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 102 0.26432225 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 103 0.2641892 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 104 0.26380914 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 105 0.2630686 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 106 0.26306576 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 107 0.26289052 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 108 0.26263276 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 109 0.26210877 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 110 0.262097 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 111 0.2620679 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 112 0.26202428 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 113 0.26201266 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 114 0.2618121 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 115 0.2612506 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 116 0.26113126 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 117 0.26107314 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 118 0.26082987 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 119 0.2607016 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 120 0.2603876 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 121 0.2600273 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 122 0.25994235 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 123 0.25986475 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 124 0.25983003 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 125 0.25963596 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 126 0.25907755 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 127 0.25853205 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 128 0.25849378 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 129 0.2581489 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 130 0.25811616 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 131 0.2580699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 132 0.25803742 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 133 0.25799224 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 134 0.25794134 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 135 0.25783357 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 136 0.2576697 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 137 0.25760496 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 138 0.2575627 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 139 0.25753155 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 140 0.25751013 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 141 0.25741935 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 142 0.25732967 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 143 0.25730646 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 144 0.25727963 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 145 0.2572409 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 146 0.25722346 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 147 0.25721365 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 148 0.25721064 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 149 0.25714886 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 150 0.25712484 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 151 0.25709814 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 152 0.25709552 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 153 0.25704736 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 154 0.25701764 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 155 0.25701618 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 156 0.25697747 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 157 0.2568817 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 158 0.25688022 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 159 0.25686434 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 160 0.25628126 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 161 0.25621173 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 162 0.25603595 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 163 0.25600046 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 163 0.25600046 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 165 0.25581503 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 166 0.25573066 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 167 0.2556025 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 168 0.25544247 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 169 0.25543562 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 170 0.25536275 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 171 0.25535887 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 172 0.25523797 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 173 0.25523782 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 174 0.25512877 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 175 0.25500193 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 176 0.25496772 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 177 0.25493103 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 178 0.2547891 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 179 0.2547629 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 180 0.25471506 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 181 0.25469744 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 182 0.25466985 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 183 0.2546417 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 184 0.25461507 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 185 0.2545346 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 186 0.2545331 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 187 0.25433525 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 188 0.2542516 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 189 0.25424656 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 190 0.25420687 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 191 0.25415367 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 192 0.2541443 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 193 0.25412184 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 194 0.2540964 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 195 0.2540463 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 196 0.25402462 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 197 0.25397462 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 198 0.2539544 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 199 0.25395182 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 200 0.2539011 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 201 0.25387305 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 202 0.2524972 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 203 0.2523912 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 204 0.25225154 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 205 0.2522057 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 206 0.25200096 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 207 0.2519493 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 208 0.2519464 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 209 0.2518892 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 210 0.2518122 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 211 0.2517682 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 212 0.251626 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 213 0.25152132 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 214 0.25147876 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 215 0.25142705 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 216 0.25141963 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 217 0.25141335 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 218 0.25137773 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 219 0.2512722 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 220 0.25125587 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 221 0.25110033 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 222 0.25104406 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 223 0.25103438 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 224 0.25101328 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 225 0.25086764 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 225 0.25086764 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 227 0.2508532 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 228 0.25081754 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 229 0.25075665 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 230 0.25074 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 231 0.2507261 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 232 0.2507096 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 233 0.2507088 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 234 0.25068906 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 235 0.25055414 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 236 0.25052854 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 237 0.25042903 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 238 0.2502435 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 239 0.24851803 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 240 0.24838312 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 241 0.24808858 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 242 0.24801825 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 243 0.24797845 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 244 0.24789253 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 245 0.24777696 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 246 0.24774516 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 247 0.24773264 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 248 0.24766588 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 249 0.2476658 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 250 0.24765559 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 251 0.24759796 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 252 0.2474469 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 253 0.24744457 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 254 0.24743108 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 255 0.24726313 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 256 0.24723054 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 257 0.24715029 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 258 0.24713585 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 259 0.24705061 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 260 0.24702632 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 261 0.2470062 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 262 0.2469976 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 263 0.24698138 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 264 0.24688669 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 265 0.2468395 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 266 0.24681179 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 267 0.24678738 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 268 0.24671635 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 269 0.24670947 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 270 0.24670473 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 271 0.2467038 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 272 0.24661416 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 273 0.24657723 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 274 0.24654278 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 275 0.24653676 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 276 0.2465304 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 277 0.2465023 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 278 0.24643576 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 279 0.24636015 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 280 0.24632531 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 281 0.24632078 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 282 0.24629097 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 283 0.24626912 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 284 0.24618992 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 285 0.24618834 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 286 0.24617916 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 287 0.2461315 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 288 0.24606387 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 289 0.24602287 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 290 0.24601328 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 291 0.24587244 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 292 0.24584885 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 293 0.24577615 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 294 0.24572761 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 295 0.24571644 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 296 0.24570423 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 297 0.24567568 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 298 0.24567367 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 299 0.24566953 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 300 0.24565753 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 301 0.24563763 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 302 0.24249926 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 303 0.242329 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 304 0.24210393 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 305 0.24202012 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 306 0.2419957 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 307 0.24193093 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 308 0.24181722 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 309 0.24158393 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 310 0.24151738 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 311 0.24150169 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 312 0.24149513 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 313 0.24129358 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 314 0.24126162 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 315 0.24121897 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 316 0.24115188 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 317 0.24114488 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 318 0.24113145 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 319 0.24112059 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 320 0.24104163 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 321 0.24100351 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 322 0.24096729 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 323 0.24095997 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 324 0.24092177 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 325 0.24080786 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 326 0.24075039 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 327 0.2407285 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 328 0.24072573 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 329 0.24072489 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 330 0.24070746 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 331 0.24065843 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 332 0.24064316 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 333 0.24059913 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 334 0.24056476 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 335 0.24055216 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 336 0.24050899 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 336 0.24050899 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 338 0.24047564 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 339 0.24038503 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 340 0.24033351 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 341 0.2403113 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 342 0.24021438 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 343 0.24017258 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 344 0.24015334 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 345 0.24013889 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 346 0.24013858 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 347 0.24012645 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 348 0.24005674 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 349 0.24003604 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 350 0.23994693 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 351 0.23991683 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 352 0.23991251 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 353 0.23990166 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 354 0.23987651 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 355 0.23987325 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 356 0.23978595 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 357 0.23975281 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 358 0.23564506 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 359 0.2353265 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 360 0.2350859 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 361 0.23463497 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 362 0.23447362 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 363 0.234429 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 363 0.234429 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 365 0.23439784 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 366 0.23428372 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 367 0.23426381 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 368 0.23422098 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 369 0.23421572 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 370 0.23419234 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 371 0.23410422 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 372 0.23408988 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 373 0.23408712 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 374 0.23394552 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 375 0.23382655 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 376 0.23381531 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 377 0.23377593 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 378 0.2337066 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 379 0.23369485 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 380 0.23361655 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 381 0.23360355 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 382 0.2335344 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 383 0.23351619 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 384 0.23350021 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 385 0.23347694 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 386 0.23345627 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 387 0.23342961 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 388 0.23331696 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 389 0.2333144 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 390 0.23325858 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 391 0.23323455 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 392 0.23317766 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 393 0.23317462 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 394 0.2330952 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 395 0.23299226 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 396 0.23289725 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 397 0.2328359 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 398 0.23276612 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 399 0.23269102 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 400 0.23265974 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 401 0.23265135 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 402 0.23261562 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 403 0.23259403 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 404 0.23258099 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 405 0.23254488 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 406 0.23254177 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 407 0.23251663 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 408 0.23247789 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 409 0.23229812 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 410 0.2322736 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 411 0.23225626 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 412 0.23225366 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 413 0.23223981 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 414 0.23223633 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 415 0.23220849 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 416 0.23219354 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 417 0.2321617 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 418 0.2321592 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 419 0.23212883 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 420 0.23204482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 421 0.23200765 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 422 0.23200168 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 423 0.22488585 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 424 0.22472227 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 425 0.22470328 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 426 0.22469574 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 427 0.22436501 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 428 0.22431761 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 429 0.22427988 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 430 0.22424915 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 431 0.22422394 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 432 0.22413236 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 433 0.2241073 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 434 0.22405525 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 435 0.22403371 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 436 0.22391129 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 437 0.22385345 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 438 0.22380924 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 439 0.2237945 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 440 0.22379145 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 441 0.22373593 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 441 0.22373593 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 443 0.22367993 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 444 0.22355536 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 445 0.22352594 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 446 0.22352046 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 447 0.22351354 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 448 0.22344655 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 449 0.2234165 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 450 0.22336209 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 451 0.22328596 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 451 0.22328596 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 453 0.2232587 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 453 0.2232587 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 455 0.22319216 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 456 0.22319204 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 457 0.22319171 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 458 0.22318238 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 459 0.22315678 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 460 0.22314116 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 461 0.22301668 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 462 0.2229718 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 463 0.22295561 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 464 0.22294548 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 465 0.22294289 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 466 0.2229375 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 467 0.222717 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 468 0.22269455 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 469 0.22268975 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 470 0.2226705 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 471 0.22264338 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 472 0.22262256 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 473 0.22259253 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 474 0.22252044 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 475 0.22251803 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 476 0.22239584 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 477 0.22234152 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 478 0.22231318 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 479 0.2222996 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 480 0.22228768 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 481 0.22222194 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 482 0.22220238 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 483 0.22220019 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 484 0.22213468 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 485 0.22212365 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 486 0.22212066 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 487 0.22201893 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 488 0.22191417 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 489 0.22191197 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 490 0.221844 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 491 0.2217725 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 492 0.2216799 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 493 0.22157383 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 494 0.22151655 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 495 0.2214033 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 496 0.22132066 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 497 0.22129391 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 497 0.22129391 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 497 0.22129391 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 500 0.2097927 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 501 0.20956972 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 502 0.20938885 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 503 0.2093594 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 504 0.20920232 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 505 0.20914444 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 506 0.20912436 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 507 0.2090601 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 508 0.20901605 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 509 0.20900206 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 510 0.20886508 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 511 0.20856865 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 512 0.20855853 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 513 0.2083368 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 514 0.2083021 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 515 0.20829639 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 516 0.2081756 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 517 0.20811045 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 518 0.20804024 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 519 0.2080389 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 520 0.20789637 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 521 0.20787606 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 522 0.20785406 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 523 0.20784792 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 524 0.20779604 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 525 0.20769812 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 526 0.20765784 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 527 0.20756128 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 528 0.20755376 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 529 0.2075398 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 530 0.20750764 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 531 0.20743105 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 532 0.20736475 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 533 0.20734364 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 534 0.20731583 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 535 0.20711374 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 536 0.20709437 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 537 0.2070396 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 538 0.20696846 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 539 0.20683026 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 540 0.206787 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 541 0.20678285 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 542 0.20671947 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 543 0.20668422 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 544 0.20666291 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 545 0.20661333 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 546 0.20653519 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 547 0.20641515 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 548 0.20636286 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 549 0.206343 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 550 0.2062743 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 551 0.20623624 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 552 0.20622371 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 553 0.20619605 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 554 0.20613834 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 555 0.20612153 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 556 0.20607024 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 557 0.20599693 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 558 0.20598114 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 559 0.20596176 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 560 0.20590444 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 561 0.20581684 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 562 0.20579997 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 563 0.20579132 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 564 0.20575604 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 565 0.20562798 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 566 0.20558277 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 567 0.20558032 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 568 0.2054872 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 569 0.18502754 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 570 0.18494473 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 571 0.18487406 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 572 0.184832 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 573 0.1847156 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 574 0.18469505 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 575 0.18463388 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 576 0.18457147 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 577 0.18430954 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 578 0.18409213 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 579 0.18408206 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 580 0.18406457 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 581 0.18397264 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 582 0.18381438 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 583 0.1836956 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 584 0.18368673 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 585 0.18362686 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 586 0.18360277 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 587 0.1835622 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 587 0.1835622 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 589 0.18354738 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 590 0.18354678 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 591 0.1834 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 592 0.18326175 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 593 0.18323699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 593 0.18323699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 593 0.18323699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 593 0.18323699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 597 0.18313843 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 598 0.18313253 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 599 0.18308812 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 600 0.18304792 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 601 0.18303339 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 602 0.18287502 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 603 0.18286458 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 604 0.18278277 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 605 0.18276918 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 606 0.18267095 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 607 0.1826361 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 608 0.18262655 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 609 0.18260258 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 610 0.18255475 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 611 0.18254101 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 612 0.18251064 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 613 0.18247685 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 614 0.18240991 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 615 0.18234846 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 616 0.18234009 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 617 0.18231454 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 618 0.18225962 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 619 0.18224204 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 620 0.18221463 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 621 0.18211997 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 622 0.18209447 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 623 0.18206708 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 624 0.18200561 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 625 0.18199953 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 626 0.1819038 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 627 0.18186224 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 628 0.18181095 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 629 0.18180086 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 629 0.18180086 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 631 0.1817582 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 632 0.18170983 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 633 0.18168151 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 634 0.18150729 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 635 0.18148401 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 636 0.18144749 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 637 0.1813856 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 638 0.18138015 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 639 0.18136702 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 640 0.18135352 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 641 0.18130104 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 642 0.18129471 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 643 0.18127482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 643 0.18127482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 643 0.18127482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 643 0.18127482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 643 0.18127482 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 648 0.18120027 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 649 0.18114595 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 650 0.18111707 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 651 0.18109992 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 652 0.18107578 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 653 0.18104321 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 654 0.18103391 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 655 0.1810298 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 656 0.18102661 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 657 0.180958 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 658 0.18095273 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 659 0.18093213 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 660 0.18089542 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 661 0.18081841 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 662 0.1807462 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 663 0.18069288 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 664 0.18066251 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 665 0.18061624 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 666 0.18060759 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 667 0.18057385 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 668 0.18055472 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 669 0.18055175 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 669 0.18055175 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 671 0.1803713 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 671 0.1803713 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 673 0.18035385 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 674 0.18034005 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 675 0.18032415 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 676 0.18030338 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 677 0.1802842 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 678 0.18028054 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 679 0.18025531 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 680 0.18024075 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 681 0.1802383 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 682 0.18003465 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 683 0.18002903 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 684 0.18001859 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 685 0.18000463 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 686 0.17996302 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 687 0.17992502 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 688 0.17984952 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 689 0.1798013 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 689 0.1798013 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 689 0.1798013 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 692 0.13681403 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 693 0.13663585 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 694 0.13649951 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 695 0.13629337 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 696 0.13628732 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 697 0.13627726 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 698 0.13610584 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 699 0.13595076 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 700 0.13583179 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 701 0.13575064 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 702 0.13538034 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 703 0.13536325 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 704 0.13528074 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 705 0.13522427 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 706 0.13521153 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 707 0.13511476 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 708 0.13508788 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 709 0.13506794 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 710 0.13501325 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 711 0.13496934 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 712 0.13492513 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 713 0.13488911 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 714 0.13478126 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 715 0.13477083 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 716 0.13476714 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 717 0.13472873 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 718 0.13472661 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 719 0.13469903 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 720 0.13468908 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 721 0.1346597 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 722 0.13462119 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 723 0.13460642 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 724 0.13458899 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 725 0.13443089 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 726 0.13442266 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 727 0.13440461 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 728 0.1344044 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 729 0.1343877 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 730 0.13436855 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 731 0.13430873 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 732 0.13428803 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 733 0.13425915 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 734 0.13422744 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 735 0.13420492 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 736 0.13417144 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 737 0.13406116 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 738 0.13404983 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 739 0.13402648 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 740 0.13400954 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 741 0.13398409 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 742 0.13396187 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 742 0.13396187 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 744 0.1339451 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 745 0.13392541 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 746 0.1339091 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 747 0.13389924 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 748 0.13387637 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 749 0.13381688 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 750 0.133683 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 751 0.13367924 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 752 0.13362709 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 753 0.13361514 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 754 0.13361418 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 755 0.13358647 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 756 0.13358516 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 757 0.13358356 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 758 0.13350683 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 759 0.13349517 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 760 0.13345686 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 761 0.13343671 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 762 0.13341445 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 763 0.13340509 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 764 0.13338938 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 765 0.13330613 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 765 0.13330613 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 767 0.13329074 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 768 0.13328108 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 769 0.13325666 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 770 0.13324682 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 771 0.13324222 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 771 0.13324222 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 771 0.13324222 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 774 0.1332008 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 775 0.13319851 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 776 0.13318904 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 777 0.13316287 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 777 0.13316287 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 779 0.13316084 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 780 0.13311294 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 781 0.1331095 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 782 0.13310476 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 783 0.13306467 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 784 0.13304251 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 785 0.13302481 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 786 0.13301925 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 787 0.1329866 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 788 0.13296977 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 789 0.13295981 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 790 0.13295616 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 791 0.13293996 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 792 0.13289317 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 793 0.13285497 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 794 0.13284653 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 795 0.13276131 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 796 0.13273731 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 797 0.13267788 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 798 0.13265115 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 799 0.13257709 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 800 0.13256508 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 801 0.13255481 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 802 0.13243757 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 803 0.13236392 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 804 0.13234769 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 805 0.13222995 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 806 0.13221772 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 807 0.13208248 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 808 0.1320206 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 809 0.13196197 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 810 0.13192943 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 811 0.13191202 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 812 0.131903 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 813 0.1318433 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 814 0.1318402 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 815 0.13182783 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 816 0.13179994 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 817 0.13178398 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 818 0.13174966 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 819 0.1316881 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 820 0.13168111 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 821 0.13167945 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 822 0.13163699 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 823 0.13157603 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 824 0.13148822 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 825 0.13138276 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 826 0.13135946 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 827 0.13134234 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 828 0.13123493 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 829 0.13119908 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 830 0.13119496 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 831 0.13119252 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 832 0.13116562 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 833 0.13115865 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 834 0.13113052 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 835 0.1311167 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 836 0.13109899 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 837 0.1310896 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 838 0.13107598 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 839 0.13105439 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 840 0.13103126 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 841 0.13101158 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 842 0.13100709 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 843 0.13099815 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 844 0.13099635 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 845 0.13099174 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 846 0.13098817 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 847 0.13096677 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 848 0.13094254 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 849 0.1309207 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 850 0.13091746 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 851 0.13087778 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 852 0.13087656 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 853 0.13087651 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 854 0.13084705 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 855 0.13083364 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 856 0.13083208 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 857 0.1308283 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 858 0.13076457 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 858 0.13076457 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 858 0.13076457 my_run
+services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod0-Big 858 0.13076457 my_run

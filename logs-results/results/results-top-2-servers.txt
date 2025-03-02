@@ -1,0 +1,1597 @@
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod36-7984 1 0.26561108 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod3-2823 2 0.25447676 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod3-9112 3 0.24157503 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-7246 1 0.4775874 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-5959 2 0.26806387 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-2965 3 0.26646256 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-2576 4 0.26633736 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-1773 5 0.2636055 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-7229 6 0.2611999 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-6227 7 0.25707603 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-7602 8 0.2549399 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-5629 9 0.25414246 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-7495 10 0.25157815 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-8632 11 0.2460452 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-1761 12 0.24077804 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-1843 13 0.23411489 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-1190 14 0.22459118 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-4817 15 0.22362646 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-9276 16 0.22301629 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-6611 17 0.18292129 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-1300 18 0.18269047 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-6137 19 0.18254101 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-2091 20 0.18136702 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-6437 21 0.1802202 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-7120 22 0.135785 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-4838 23 0.13493976 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod15-2449 24 0.13287142 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-5550 25 0.13277635 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-8609 26 0.13257873 my_run
+httpexampleorgagent4profilecardme will178 bartell116 Q0 vldb_pod7-3130 27 0.13101158 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod40-4970 1 0.28516826 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-7221 2 0.2840464 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-892 3 0.25076437 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod40-8519 4 0.2411353 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-2309 5 0.22472093 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-6813 6 0.20630893 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-1588 7 0.18437026 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod40-9394 8 0.18270813 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod4-1777 9 0.13555081 my_run
+httpexampleorgagent4profilecardme vicente970 Q0 vldb_pod40-6887 10 0.13387358 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod9-7945 1 0.2845395 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod9-5859 2 0.2844046 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-7725 3 0.28421524 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-7378 4 0.26331398 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-2265 5 0.25964826 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-8796 6 0.25821412 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod9-4933 7 0.25125623 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-442 8 0.247713 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod9-226 9 0.24702173 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-6810 10 0.23533127 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-5429 11 0.23422882 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-8946 12 0.18244824 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-5256 13 0.13305646 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod5-5333 14 0.13304405 my_run
+httpexampleorgagent4profilecardme noelle559 Q0 vldb_pod9-471 15 0.13081005 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-7079 1 0.5698 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-3583 2 0.56890464 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-2420 3 0.5329246 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-4211 4 0.50454926 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-1963 5 0.49450758 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-6664 6 0.4936415 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-6064 7 0.41609025 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-2845 8 0.41431856 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-3757 9 0.41403377 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-3236 10 0.41368502 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-6574 11 0.3691848 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-8580 12 0.36229828 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod32-8375 13 0.2323284 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-4048 14 0.1340913 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-4650 15 0.13296482 my_run
+httpexampleorgagent4profilecardme franecki195 eleni953 Q0 vldb_pod45-4649 16 0.13076457 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1272 1 0.5291092 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1430 2 0.5082592 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3703 3 0.24680905 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-691 4 0.22392648 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1217 5 0.22250013 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9189 6 0.22226009 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9121 7 0.20824814 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7390 8 0.20767386 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9394 9 0.20670936 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6257 10 0.18232319 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6579 11 0.18131602 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7489 12 0.18130022 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-4940 13 0.13672504 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-5031 14 0.13627726 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1228 15 0.13609679 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2958 16 0.13605157 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-8667 17 0.13600628 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2212 18 0.13574862 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-4793 19 0.13564229 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6568 20 0.13545914 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2498 21 0.13536938 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-854 22 0.13532124 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6155 23 0.1352726 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7022 24 0.13521005 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6456 25 0.1349884 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9165 26 0.13496798 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1797 27 0.13488016 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3359 28 0.1348319 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6202 29 0.13476412 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5385 30 0.13472304 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-531 31 0.1347186 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-144 32 0.13458164 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1714 33 0.13448456 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7888 34 0.13442266 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-7087 35 0.13440967 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-4543 36 0.13439262 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2651 37 0.13436563 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1220 38 0.1343357 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-9208 39 0.13432314 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2814 40 0.1342833 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-8143 41 0.13414514 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-9212 42 0.13410631 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-4636 43 0.13408303 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6248 44 0.13407767 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-2922 45 0.13401419 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-4596 46 0.13394453 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7815 47 0.13393953 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3533 48 0.13391653 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-5935 49 0.13388157 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9439 50 0.13386233 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6869 51 0.13371305 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5018 52 0.13368489 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3451 53 0.13361749 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-4189 54 0.13355082 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5980 55 0.13353452 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-190 56 0.13341403 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6441 57 0.13339351 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1984 58 0.1333433 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-8537 59 0.13326047 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6968 60 0.13320106 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1056 61 0.13317524 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5644 62 0.13310525 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-403 63 0.13310298 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6406 64 0.13306813 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-2986 65 0.13305841 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6579 66 0.13302654 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-585 67 0.1328875 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3406 68 0.13284063 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3527 69 0.13278435 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-543 70 0.13277635 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2906 71 0.13263562 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9478 72 0.1326171 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-5192 73 0.13258313 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6965 74 0.13256508 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-8039 75 0.13242105 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-8335 76 0.13235952 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3826 77 0.13234809 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3495 78 0.13227044 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1702 79 0.13212724 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5611 80 0.13210359 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2748 81 0.13208248 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7409 82 0.13206644 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3647 83 0.13202998 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-9306 83 0.13202998 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2640 85 0.1320206 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3089 86 0.13194081 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7111 87 0.13192521 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-2265 88 0.13189127 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-4452 89 0.13187893 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-2593 90 0.13185883 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-4627 91 0.13175517 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3246 92 0.13175355 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-2962 93 0.13168895 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7300 94 0.13157137 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6336 95 0.13156791 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9282 96 0.13151422 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-7340 97 0.13146034 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-225 98 0.13145109 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-8542 99 0.1314415 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-1475 100 0.13143204 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-2648 101 0.1314123 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-6668 101 0.1314123 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-8390 103 0.1314071 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3128 104 0.13130172 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-8278 105 0.13126881 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5342 106 0.1312622 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-3823 107 0.13123746 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-7459 108 0.13122997 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5238 109 0.13120818 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-4671 110 0.13111432 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-1963 111 0.13105439 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-5670 112 0.13104823 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-8852 113 0.1310477 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-6850 114 0.13098152 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod38-9160 115 0.13091746 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-147 116 0.13087651 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-3858 117 0.13083208 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-5936 118 0.13076457 my_run
+httpexampleorgagent4profilecardme commonwealth neck Q0 vldb_pod39-7428 118 0.13076457 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-3738 1 0.25961348 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5329 2 0.25785092 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-4840 3 0.25555137 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6608 4 0.25142244 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6981 5 0.25043696 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5243 6 0.23491856 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-1746 7 0.23329617 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-6961 8 0.2217251 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5823 9 0.22132646 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5034 10 0.2076678 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7295 11 0.20668422 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-2816 12 0.20656681 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6119 13 0.18237586 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5276 14 0.18176755 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4162 15 0.18117851 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5499 16 0.18001692 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-3688 17 0.13609679 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4597 18 0.13582468 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4636 19 0.13569105 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-9103 20 0.13558787 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5975 21 0.13547039 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-3357 22 0.13532124 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5996 23 0.13503587 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-517 24 0.13488702 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5455 25 0.13485841 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-3736 26 0.1347996 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5547 27 0.13477172 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6065 28 0.13461393 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4409 29 0.13453147 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-3092 30 0.13449848 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-3821 31 0.13410392 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-6148 32 0.13390219 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5517 33 0.13372786 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7041 34 0.13363141 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-4350 35 0.13353558 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-2540 36 0.13351735 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-7949 37 0.13344948 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5296 38 0.1333243 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-2591 39 0.13329074 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7060 40 0.13323852 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5082 41 0.13319917 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4947 42 0.13308302 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-5375 43 0.13305841 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5684 44 0.1329268 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6143 45 0.1328487 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7709 46 0.13271248 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5559 47 0.13269931 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-2991 48 0.13269179 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-7112 49 0.13259198 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7879 50 0.13254319 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-4298 51 0.13253564 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-7497 52 0.13228182 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-7931 53 0.13198389 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5095 54 0.13194442 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-8010 55 0.13182198 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-6158 56 0.1317654 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-8947 57 0.13170987 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-8668 58 0.13161924 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-2987 59 0.13150151 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-5954 60 0.1314866 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4412 61 0.1313997 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4805 62 0.13139696 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-1416 63 0.13133879 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-4613 64 0.1312136 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4549 65 0.1311711 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-6091 66 0.13114592 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-1673 67 0.13114509 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-7116 68 0.13113052 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-4710 69 0.1311176 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-9150 70 0.13109955 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-8605 71 0.1310819 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-2079 72 0.1310106 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-7071 73 0.13097978 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-2502 74 0.13094617 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod50-1390 75 0.13088073 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-540 76 0.13087319 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-3518 77 0.13081957 my_run
+httpexampleorgagent4profilecardme behavioral shields502 Q0 vldb_pod46-9212 78 0.13076457 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-6560 1 0.56990707 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-4049 2 0.56923836 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-7358 3 0.5433841 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-2279 4 0.5241492 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-1001 5 0.4963569 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-5542 6 0.49478492 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-4463 7 0.48342818 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-2628 8 0.48173726 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-6414 9 0.48117325 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-984 10 0.46918836 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-3573 11 0.46802074 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-8258 12 0.46778303 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-1029 13 0.4537219 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-8345 14 0.44944453 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-7948 15 0.44422778 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-7082 16 0.41543266 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-9259 17 0.41413718 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-3809 18 0.3637752 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-1509 19 0.36171 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-5946 20 0.36152104 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-8401 21 0.13485098 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-2030 22 0.13440475 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-5800 23 0.13329451 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod30-6324 24 0.13270931 my_run
+httpexampleorgagent4profilecardme milford regional Q0 vldb_pod47-2574 25 0.1326679 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2437 1 0.56857055 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-2055 2 0.54294175 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-938 3 0.5300127 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-4086 4 0.528993 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-2617 5 0.52881074 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-6198 6 0.5096641 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-4950 7 0.50126815 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-7329 8 0.49525094 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-4071 9 0.49490824 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-3642 10 0.4803257 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2084 11 0.44276372 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-6772 12 0.41528672 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-5518 13 0.36232406 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-1219 14 0.3596026 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-7318 15 0.28380615 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-8369 16 0.2733984 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-8913 17 0.27336097 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2203 18 0.27174032 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-227 19 0.2682998 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-5706 20 0.2651143 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-6964 21 0.26434323 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-4185 22 0.26387072 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-4416 23 0.26266032 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-922 24 0.26202315 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-59 25 0.2585109 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2712 26 0.2474126 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-496 27 0.24054101 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-3948 28 0.24006878 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-471 29 0.23980495 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-4672 30 0.23365018 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-6791 31 0.23361655 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-266 32 0.23284349 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2190 33 0.23263885 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-1311 34 0.23221314 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-7492 35 0.22397071 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-6607 36 0.20674646 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-4356 37 0.20657751 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-1254 38 0.20630893 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-2442 39 0.20580912 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-8053 40 0.20564182 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-8148 41 0.20558277 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-4610 42 0.18290013 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-2201 43 0.18116546 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-8767 44 0.18104321 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-8341 45 0.18089473 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-5897 46 0.13498884 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod6-1394 47 0.13415942 my_run
+httpexampleorgagent4profilecardme thanh759 memorial Q0 vldb_pod40-4782 48 0.13313256 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5488 1 0.56066513 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1726 2 0.550966 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-4556 3 0.5499145 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1244 4 0.5447157 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-6617 5 0.52808726 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2148 6 0.5197535 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-6620 7 0.5104726 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2518 8 0.49781573 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-8884 9 0.49739698 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-73 10 0.49265927 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-6342 11 0.48700222 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5267 12 0.47434556 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-261 13 0.47324082 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-5418 14 0.46632352 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-7586 15 0.4660368 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1154 16 0.46494162 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5610 17 0.46361357 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2479 18 0.4621571 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-9131 19 0.46117175 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-279 20 0.43551052 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-3403 21 0.43429136 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-3491 22 0.4302915 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-4504 23 0.4299596 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-7429 24 0.4276644 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2836 25 0.42670083 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-6677 26 0.42655766 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-4391 27 0.4260792 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-5571 28 0.42565966 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-7888 29 0.42508584 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2085 30 0.42425257 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1504 31 0.422856 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-132 32 0.42171308 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1878 33 0.42165607 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-4559 34 0.42157632 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-9308 35 0.42135966 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5439 36 0.42066202 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-3006 37 0.42048633 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-8514 38 0.35555094 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5676 39 0.27046776 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-317 40 0.26585755 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2674 41 0.2639879 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-184 42 0.2519954 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1442 43 0.25111437 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-8797 44 0.24720898 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-2037 45 0.24673581 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-5057 46 0.24668333 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-4416 47 0.24642032 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-6545 48 0.24156664 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1014 49 0.2410451 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-951 50 0.24068442 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-4580 51 0.23987745 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-5209 52 0.20908545 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5930 53 0.20577666 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-4933 54 0.1853976 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-4548 55 0.18531571 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-1006 56 0.18370382 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-497 57 0.1833491 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-6707 58 0.18328112 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-7426 59 0.1829719 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-1563 60 0.18215638 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-3761 61 0.18199104 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-5188 62 0.18193448 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-37 63 0.18157095 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-3775 64 0.18154107 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-1451 65 0.18108045 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-3258 66 0.18063875 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod16-2601 67 0.18028054 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-3577 68 0.18025741 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-7415 69 0.18004453 my_run
+httpexampleorgagent4profilecardme childhood inhaler Q0 vldb_pod29-1726 70 0.13263562 my_run
+httpexampleorgagent4profilecardme 50603 deena887 cyndy549 35969 Q0 vldb_pod50-8737 1 0.13363141 my_run
+httpexampleorgagent4profilecardme 50603 deena887 cyndy549 35969 Q0 vldb_pod1-899 2 0.13115841 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod16-8039 1 1.2728267 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod17-4573 2 1.0350424 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod17-8473 3 1.0121071 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod17-2496 4 0.22247437 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod16-6766 5 0.18040775 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod17-192 6 0.13353045 my_run
+httpexampleorgagent4profilecardme cottage nantucket bernie827 mosciski958 gussie514 Q0 vldb_pod16-6860 7 0.13101158 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-5959 1 0.52559066 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-1420 2 0.52265435 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-2576 3 0.52213097 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-9472 4 0.50031376 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-7495 5 0.4987253 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-1190 6 0.4803425 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-908 7 0.4574466 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-9350 8 0.43923026 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-5210 9 0.3937731 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-5550 10 0.3144703 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-1773 11 0.2636055 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-7298 12 0.25726974 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-4860 13 0.25042176 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-8632 14 0.2460452 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-4817 15 0.22362646 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-5669 16 0.20699781 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod28-5213 17 0.20651636 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-888 18 0.18312708 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-1300 19 0.18269047 my_run
+httpexampleorgagent4profilecardme solutions bartell116 orville751 Q0 vldb_pod7-8609 20 0.13257873 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-1854 1 0.6514948 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod45-2633 2 0.5123014 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod45-2002 3 0.28165698 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-4851 4 0.2753541 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-8469 5 0.2714258 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod45-5871 6 0.24712819 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-4516 7 0.24114488 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-6734 8 0.20557112 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod1-8952 9 0.13458164 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod45-5330 10 0.13443336 my_run
+httpexampleorgagent4profilecardme nantucket nicolas769 danial835 gussie514 Q0 vldb_pod45-421 11 0.13188863 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-1054 1 1.262225 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-493 2 1.249023 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-2972 3 1.2446432 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-3869 4 1.202509 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-4871 5 1.1735711 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-925 6 0.9410441 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-1719 7 0.79223603 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-6690 8 0.55390066 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-6528 9 0.55113983 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-2491 10 0.406712 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-707 11 0.25231987 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-9429 12 0.24173683 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-513 13 0.13513395 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-1930 14 0.13468908 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-1386 15 0.13446324 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-5296 16 0.13420348 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-6486 17 0.1340331 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-1727 18 0.13351199 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-1412 19 0.13343519 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-59 20 0.13340926 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-4877 21 0.1319694 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-7783 22 0.1316776 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod15-3189 23 0.13164747 my_run
+httpexampleorgagent4profilecardme falmouth miller503 dominic463 nikolaus26 isiah14 Q0 vldb_pod19-8744 24 0.13128458 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-1132 1 0.5658013 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-5800 2 0.55640954 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-3253 3 0.55294245 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-6626 4 0.5475566 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-9224 5 0.523865 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-6656 6 0.5210974 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-8608 7 0.5197953 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-7193 8 0.5119134 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-513 9 0.49215037 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-7478 10 0.3617576 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-3003 11 0.2848169 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-398 12 0.2689268 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-2211 13 0.2662543 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-7551 14 0.2648421 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-8768 15 0.26409507 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-1086 16 0.26195818 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4875 17 0.2559416 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4144 18 0.2550921 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4183 19 0.25176498 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-1588 20 0.2514599 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4127 21 0.25125468 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4679 22 0.24774747 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-7340 23 0.2214111 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4773 24 0.20773597 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4921 25 0.20719045 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4048 26 0.20718211 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4881 27 0.2056841 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-3313 28 0.20554763 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-9247 29 0.18363264 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-4439 30 0.18304792 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-3279 31 0.18205552 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-5137 32 0.13460642 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4635 33 0.13425462 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-4405 34 0.13226762 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod13-7049 35 0.13133413 my_run
+httpexampleorgagent4profilecardme brockton schmeler639 sallie654 christiansen251 Q0 vldb_pod30-7752 36 0.13114354 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-5771 1 0.54521513 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-7568 2 0.5410944 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-6407 3 0.5384275 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-5012 4 0.5126082 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-8100 5 0.46742037 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-971 6 0.4671206 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-4876 7 0.46312374 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-3073 8 0.46309832 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-9366 9 0.44131404 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4293 10 0.42763808 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6796 11 0.40624103 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-341 12 0.40121716 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-5913 13 0.39148855 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-3360 14 0.36997467 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-3710 15 0.2849093 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-6687 16 0.2755496 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-9425 17 0.27542773 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-5322 18 0.2704201 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-8415 19 0.2665752 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4414 20 0.2646173 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6410 21 0.2623762 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-4318 22 0.25699705 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-7080 23 0.25171152 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4176 24 0.25109112 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-601 25 0.25049198 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-1074 26 0.25038472 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6310 27 0.24698591 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-1172 28 0.24078698 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-5641 29 0.2345162 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-531 30 0.23262936 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-1391 31 0.22514972 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-7220 32 0.22483146 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-506 33 0.22366399 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-4716 34 0.22262256 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6105 35 0.22214833 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-8295 36 0.22155836 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-3873 37 0.2214534 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-8849 38 0.20789525 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4575 39 0.20577666 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-4653 40 0.2057729 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-9099 41 0.18473846 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6080 42 0.1844855 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4896 43 0.18377724 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-8022 44 0.18290143 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-480 45 0.18250284 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-7121 46 0.18225962 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-704 47 0.1813956 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-4417 48 0.18118858 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-7257 49 0.13594717 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-6690 50 0.13593961 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-1575 51 0.13574325 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-9013 52 0.13443089 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-6070 53 0.13384753 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-9033 54 0.13354793 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-1096 55 0.13342366 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-7093 56 0.13297541 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-9153 57 0.13280861 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-914 58 0.13253768 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-7190 59 0.13243355 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-8074 60 0.13228182 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-1059 61 0.13211998 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-4877 62 0.1319694 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-9305 63 0.1317514 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-2187 64 0.13174449 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod19-585 65 0.1315355 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-1560 66 0.13152383 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-7585 67 0.13147898 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-5424 68 0.13115622 my_run
+httpexampleorgagent4profilecardme tewksbury lowell child Q0 vldb_pod44-3540 69 0.13111 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-2316 1 1.0608792 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2437 2 0.8528558 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-458 3 0.78496224 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-645 4 0.7731995 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-5518 5 0.7658076 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-4071 6 0.7423624 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-1219 7 0.7192052 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-8918 8 0.7024239 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-5959 9 0.6981311 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2084 10 0.6641456 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-4502 11 0.62486 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-1555 12 0.6232359 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-477 13 0.5457229 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2203 14 0.40761048 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-2968 15 0.40379423 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-8357 16 0.40308952 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-6964 17 0.39651483 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-8369 18 0.2733984 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-5706 19 0.2651143 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2027 20 0.2646774 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-4840 21 0.26394433 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-4185 22 0.26387072 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-59 23 0.2585109 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-8725 24 0.25168863 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-8671 25 0.25138658 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-8095 26 0.2477122 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2712 27 0.2474126 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-8278 28 0.24720407 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-1939 29 0.24649371 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-5424 30 0.24616908 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-3948 31 0.24006878 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-471 32 0.23980495 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-1444 33 0.23368248 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-7204 34 0.23346317 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2190 35 0.23263885 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-63 36 0.23204099 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-7492 37 0.22397071 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-6492 38 0.20780492 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-4356 39 0.20657751 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-1254 40 0.20630893 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-8053 41 0.20564182 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-8148 42 0.20558277 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-4098 43 0.18467593 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-4610 44 0.18290013 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-5744 45 0.18253301 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-2201 46 0.18116546 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-8767 47 0.18104321 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod12-6855 48 0.13676699 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-5897 49 0.13498884 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-7873 50 0.13485098 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-1394 51 0.13415942 my_run
+httpexampleorgagent4profilecardme weber641 sturdy memorial wynell591 Q0 vldb_pod6-4407 52 0.13168669 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1131 1 1.1075158 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-6745 2 1.0442549 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-1253 3 1.0130801 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1024 4 0.9909916 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-9296 5 0.9792322 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-1133 6 0.97423124 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1495 7 0.971602 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-2356 8 0.96133137 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-406 9 0.9214144 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-2751 10 0.9099748 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-5610 11 0.9015118 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1567 12 0.8531687 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-4973 13 0.84951997 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-911 14 0.7903478 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-4400 15 0.77842987 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-1305 16 0.7725309 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-5629 17 0.7388951 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-8852 18 0.7225013 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-9279 19 0.7194619 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1628 20 0.67082024 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-7452 21 0.62480867 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-5460 22 0.2849536 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-5362 23 0.2837725 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-317 24 0.26585755 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-764 25 0.26447505 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-8236 26 0.2548893 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-1576 27 0.25437018 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-1813 28 0.25396973 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-3597 29 0.2507266 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-818 30 0.24650303 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-8055 31 0.2401842 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-7540 32 0.23231833 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-4391 33 0.23230366 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-2823 34 0.22312929 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-8190 35 0.20880651 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-4240 36 0.20778856 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-6790 37 0.20778006 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-7166 38 0.20686385 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-5930 39 0.20577666 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-8293 40 0.18228033 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-6658 41 0.18157095 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-3031 42 0.18129471 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-4933 43 0.18124783 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-5121 44 0.1803467 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-5468 45 0.13615488 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-7937 46 0.13293996 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-3620 47 0.13290027 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-8628 48 0.13252287 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-2633 49 0.13223396 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-2850 50 0.13222656 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod26-300 51 0.1321531 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cleveland582 shriners davis923 Q0 vldb_pod16-1652 52 0.13102473 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-64 1 1.4008253 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-1521 2 1.13741 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-8909 3 1.0768098 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-8911 4 1.0697018 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-4875 5 0.86001825 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3645 6 0.8250505 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7462 7 0.7247442 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7820 8 0.5248327 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-6619 9 0.28453472 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7301 10 0.27112302 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7260 11 0.27073938 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1720 12 0.26846856 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-2495 13 0.26428586 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-1937 14 0.26069948 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-4208 15 0.2599586 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-6509 16 0.2587404 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7986 17 0.25389192 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-2607 18 0.25388396 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7707 19 0.25115773 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-8035 20 0.25088322 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-9035 21 0.25079206 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-125 22 0.24744242 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-9445 23 0.24738848 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-3290 24 0.24721023 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7222 25 0.24698202 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7356 26 0.24691615 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-2521 27 0.24690713 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-981 28 0.24575406 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-2735 29 0.2423985 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-6393 30 0.24168307 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-1748 31 0.24157503 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1006 32 0.24043532 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-8514 33 0.24012123 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-5147 34 0.23548742 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7170 35 0.23437026 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3750 36 0.23368248 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7213 37 0.23341346 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-4659 38 0.23324254 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-273 39 0.23239121 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3517 40 0.2245968 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7430 41 0.2243374 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1020 42 0.22411966 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-7739 43 0.2229718 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3835 44 0.22233006 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-5817 45 0.22178128 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-263 46 0.22177735 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-8688 47 0.22164586 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3361 48 0.22148296 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-2508 49 0.22137164 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-8155 50 0.20931984 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3406 51 0.20851783 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-2558 52 0.20815942 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7855 53 0.20744573 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-742 54 0.20737958 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-2297 55 0.20708296 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-3800 56 0.20686385 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-6900 57 0.20661603 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-9071 58 0.20628329 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-9133 59 0.20618409 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-5008 60 0.20567316 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3074 61 0.18329394 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-469 62 0.18320745 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-368 63 0.18278739 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-100 64 0.18224204 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7630 65 0.18125474 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-4788 66 0.18107739 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-846 67 0.18096688 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-5319 68 0.17990828 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-884 69 0.1798013 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-5649 70 0.13492513 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-3985 71 0.1342362 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-4451 72 0.1341239 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-6390 73 0.13385518 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-6497 74 0.1332527 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-5499 75 0.13293996 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7586 76 0.13263562 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1650 77 0.1326171 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-4456 78 0.13155603 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1813 79 0.1314071 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod25-4863 80 0.13128601 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-7402 81 0.13101158 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-326 82 0.13100979 my_run
+httpexampleorgagent4profilecardme corporation beth haywood675 faculty harvard Q0 vldb_pod48-1399 83 0.130886 my_run
+httpexampleorgagent4profilecardme 50603 mirna233 deena887 cyndy549 kasandra729 acosta403 Q0 vldb_pod48-1909 1 0.13602857 my_run
+httpexampleorgagent4profilecardme 50603 mirna233 deena887 cyndy549 kasandra729 acosta403 Q0 vldb_pod17-5202 2 0.13463493 my_run
+httpexampleorgagent4profilecardme 50603 mirna233 deena887 cyndy549 kasandra729 acosta403 Q0 vldb_pod48-5225 3 0.13230677 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod40-7456 1 0.9615207 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-7451 2 0.8555905 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod40-1780 3 0.55833113 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-6854 4 0.5436317 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-8974 5 0.13527597 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-3327 6 0.13470064 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-8535 7 0.13406858 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-6752 8 0.13249445 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod40-6060 9 0.13232781 my_run
+httpexampleorgagent4profilecardme borer986 cottage bernie827 danial835 outreach gussie514 Q0 vldb_pod41-73 10 0.1318638 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-3968 1 0.6642132 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-3524 2 0.5083236 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-3124 3 0.482861 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2875 4 0.3998244 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6152 5 0.36632347 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1634 6 0.26724502 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6722 7 0.2578473 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6304 8 0.20870209 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-7146 9 0.2084398 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-8132 10 0.20825487 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-767 11 0.2077284 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-4905 12 0.20666993 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-3832 13 0.13668048 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1381 14 0.13650174 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-8239 15 0.1361951 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6117 16 0.13609679 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-5402 17 0.13596275 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-4211 18 0.13551866 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-9382 19 0.1354374 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-296 20 0.13527519 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-9479 21 0.13526046 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-2777 22 0.13520795 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-5760 23 0.13509046 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-8596 24 0.13472955 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-7067 25 0.13453865 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-5723 26 0.13443089 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6229 27 0.13431202 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6494 28 0.13431181 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6467 29 0.1342964 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1922 30 0.13429084 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6462 31 0.13424924 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2895 32 0.13413674 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-8604 33 0.13406007 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2321 34 0.13397928 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-4338 35 0.13391764 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6071 35 0.13391764 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-8300 37 0.13378502 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-5053 38 0.13374022 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-8251 39 0.13351324 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2048 40 0.13343325 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2145 41 0.13337433 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-915 42 0.1333282 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-3935 43 0.13331608 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1580 44 0.13320151 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-3838 45 0.13317743 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6083 46 0.13314326 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-3389 47 0.13314258 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-4862 48 0.13311866 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-1622 49 0.13291359 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-280 50 0.13284497 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-1477 51 0.13280952 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-8534 52 0.13278393 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-2958 53 0.13278067 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-636 54 0.1326961 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1188 55 0.13261463 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-900 56 0.13253564 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2493 57 0.13252264 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-7781 58 0.13249072 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-163 59 0.13248122 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-9074 60 0.13245098 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6767 61 0.13239443 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2988 62 0.13235952 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-1102 63 0.13224974 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-5912 64 0.13221548 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-5739 65 0.13219841 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-6599 66 0.13216263 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-7844 67 0.13216113 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-5991 68 0.13213891 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-7225 69 0.13208458 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2217 70 0.13192521 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2840 71 0.13183254 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-1880 72 0.1317348 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-4142 73 0.13173267 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-652 74 0.1316339 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-6942 75 0.13157767 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1889 76 0.13149509 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-644 77 0.13134864 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-7405 78 0.13130717 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-419 79 0.13128458 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-2871 80 0.13122693 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-7753 81 0.13121065 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-9344 82 0.13116978 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-2943 83 0.13116804 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1397 84 0.13106626 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-5989 85 0.13103479 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-2916 86 0.13098589 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-8519 87 0.13090926 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-4341 88 0.13088748 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1143 89 0.13085988 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2758 90 0.13084705 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-7661 91 0.13084538 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-2702 92 0.13076457 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod8-1045 92 0.13076457 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-9287 92 0.13076457 my_run
+httpexampleorgagent4profilecardme simonne139 commonwealth neck yulanda554 elara upton Q0 vldb_pod32-404 92 0.13076457 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-973 1 1.0849973 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-1827 2 1.0477483 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-4060 3 1.0465759 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2217 4 1.0071313 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-9496 5 0.9843284 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-9135 6 0.9355811 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1070 7 0.88687176 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-7030 8 0.8854698 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1376 9 0.7748287 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2514 10 0.7409489 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-6807 11 0.7379703 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-540 12 0.5307212 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1647 13 0.5043965 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-8802 14 0.26238787 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-9157 15 0.2604054 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-1060 16 0.25701547 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-388 17 0.2553521 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-8258 18 0.2550624 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-4451 19 0.2548808 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-7140 20 0.25416443 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-819 21 0.252246 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-4414 22 0.25199032 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1108 23 0.25195014 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-7569 24 0.25159505 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-9385 25 0.25061446 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-6116 26 0.25045532 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-7312 27 0.24799795 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-5452 28 0.2471615 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-4424 29 0.24638842 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2277 30 0.24618527 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-6554 31 0.2457253 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-3420 32 0.24089666 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-2325 33 0.24080148 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-7535 34 0.24015619 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-4619 35 0.23478583 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-917 36 0.23398061 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-6968 37 0.23386519 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-4996 38 0.23369598 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-6218 39 0.2333852 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-3679 40 0.233107 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2761 41 0.23248518 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-5670 42 0.23244533 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-7203 43 0.2230945 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2242 44 0.22280875 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-8142 45 0.22218402 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1192 46 0.22129391 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-2727 47 0.20983869 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-9145 48 0.20980872 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-7493 49 0.2074278 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-2853 50 0.2061426 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-6240 51 0.18325397 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-5059 52 0.1828063 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-1967 53 0.18223482 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-9233 54 0.18200561 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-8468 55 0.18135917 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-280 56 0.1798013 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-576 57 0.13457632 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-9390 58 0.13456571 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-1681 59 0.13391653 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-9485 60 0.13293996 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-1247 61 0.13279815 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-3140 62 0.13217324 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-6842 63 0.13194032 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod37-6308 64 0.13143091 my_run
+httpexampleorgagent4profilecardme bashirian201 henry heywood rayford811 derick144 associates Q0 vldb_pod19-4622 65 0.13130754 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-526 1 1.0793293 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-6502 2 0.95162004 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-2220 3 0.8692584 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5357 4 0.86562216 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-9404 5 0.84028584 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7292 6 0.8128991 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5630 7 0.7767751 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6619 8 0.7441972 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-1237 9 0.71307015 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5827 10 0.6456933 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6788 11 0.62634873 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-601 12 0.5143756 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-9125 13 0.50791967 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-5984 14 0.5028523 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7540 15 0.50077665 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5930 16 0.5006382 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-317 17 0.49422175 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-304 18 0.49312812 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6968 19 0.48241824 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8293 20 0.4823859 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-7610 21 0.48178452 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6175 22 0.4672331 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7958 23 0.4669721 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6748 24 0.44309568 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-7053 25 0.36454445 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-4933 26 0.36249566 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4432 27 0.26761124 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4005 28 0.2666486 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8313 29 0.2654721 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8977 30 0.26501623 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1447 31 0.26436377 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-1941 32 0.26231822 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5773 33 0.26029447 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4771 34 0.2581493 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8208 35 0.25807577 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-3123 36 0.25484076 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-168 37 0.25240695 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-6443 38 0.25050753 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-6401 39 0.25050423 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1649 40 0.24711652 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1785 41 0.24708036 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-8843 42 0.24694267 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1413 43 0.24649835 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4717 44 0.24604088 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-2688 45 0.24192956 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-816 46 0.2408545 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8352 47 0.2408486 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-1747 48 0.24059604 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-3876 49 0.24051742 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7161 50 0.2404682 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-7273 51 0.24000396 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-3407 52 0.23980588 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-2477 53 0.23333667 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-5350 54 0.23317814 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1164 55 0.23299645 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-8107 56 0.22536108 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-884 57 0.2247312 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-2331 58 0.22424915 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-2746 59 0.22407943 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4247 60 0.22298165 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8386 61 0.208585 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7661 62 0.20760563 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-9117 63 0.20754895 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6020 64 0.20747793 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-8884 65 0.20726374 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5864 66 0.20694917 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-1305 67 0.20600879 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5094 68 0.2054872 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-6006 69 0.18304133 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4678 70 0.18285117 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4035 71 0.18215679 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-2550 72 0.1816551 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1808 73 0.18150729 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-8276 74 0.18139003 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-4411 75 0.18127482 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-6766 76 0.18040775 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-5324 77 0.1803713 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1697 78 0.1365465 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-991 79 0.13448979 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-2900 80 0.13445544 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-6926 81 0.13433304 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-7028 82 0.13349517 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-9425 83 0.13347977 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-1112 84 0.132476 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod16-7555 85 0.13197632 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-3301 86 0.13145109 my_run
+httpexampleorgagent4profilecardme practice valdÃ©s907 manuela585 public commission whitley Q0 vldb_pod35-8018 87 0.13076457 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-6745 1 1.3149292 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1253 2 1.2647338 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1133 3 1.215242 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-2356 4 1.1956785 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-406 5 1.1459382 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-7853 6 1.1405034 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-295 7 1.0805774 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-4973 8 1.0721633 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-9080 9 1.0695448 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-4400 10 1.0379065 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-5955 11 1.0039563 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-5629 12 0.9851935 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-8852 13 0.96333504 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-9279 14 0.9592826 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1305 15 0.9526392 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4203 16 0.82663494 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-216 17 0.7213602 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-5362 18 0.567545 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4928 19 0.5349225 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-2180 20 0.529904 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-1396 21 0.5147389 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-8236 22 0.5097786 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-400 23 0.44288266 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-8190 24 0.41761303 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4379 25 0.38922405 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4628 26 0.36512363 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-6658 27 0.3631419 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-5460 28 0.2849536 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-9440 29 0.26817057 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-5293 30 0.26174638 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-1959 31 0.25453335 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1576 32 0.25437018 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1813 33 0.25396973 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-3597 34 0.2507266 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-818 35 0.24650303 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-1989 36 0.23428082 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-8069 37 0.22348192 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-1003 38 0.22334644 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-2823 39 0.22312929 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-4240 40 0.20778856 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-6790 41 0.20778006 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-7905 42 0.18363264 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-6521 43 0.18317157 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-1700 44 0.1804437 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-9212 45 0.1798872 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-8816 46 0.1798013 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-9448 47 0.13509582 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-1043 48 0.13501325 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-8515 49 0.13431783 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-5672 50 0.13417144 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-6941 51 0.13366807 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-8451 52 0.1329866 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-7937 53 0.13293996 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-5889 54 0.13280895 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-998 55 0.13236076 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-5050 56 0.13229108 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-2633 57 0.13223396 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod26-300 58 0.1321531 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4433 59 0.13210897 my_run
+httpexampleorgagent4profilecardme kuphal363 dickinson cooley cleveland582 shriners davis923 wolff180 Q0 vldb_pod34-4547 60 0.1318655 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9217 1 1.3451619 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-7229 2 1.1626302 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8664 3 0.7413047 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-2783 4 0.62135273 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2868 5 0.54722977 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-480 6 0.518029 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5118 7 0.5174389 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8735 8 0.39577731 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4076 9 0.36609584 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-4599 10 0.36000934 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3491 11 0.279674 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4830 12 0.27522638 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-4500 13 0.2740626 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-4566 14 0.27274302 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9093 15 0.27177048 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1650 16 0.26683763 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8938 17 0.2667251 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4700 18 0.263492 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-518 19 0.26238683 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3311 20 0.26218742 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-3591 21 0.26211 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6521 22 0.25804862 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-2956 23 0.256859 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-5768 24 0.2556212 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-2645 25 0.254879 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-4578 26 0.25466365 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2709 27 0.25421154 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-9035 28 0.25408387 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4721 29 0.2516597 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1555 30 0.25144157 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8667 31 0.25127566 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6876 32 0.25110233 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9051 33 0.25049108 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-6840 34 0.25047356 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1445 35 0.2503853 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6600 36 0.24816132 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-5942 37 0.2474934 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8171 38 0.2474197 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8561 39 0.24729079 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5556 40 0.24708211 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-17 41 0.24674529 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4696 42 0.24654667 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-7938 43 0.2463303 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9212 44 0.24632019 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1414 45 0.24601954 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3700 46 0.24600607 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8699 47 0.24595842 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-3661 48 0.24560964 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-7489 49 0.24251458 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1976 50 0.24159533 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6176 51 0.24136865 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6188 52 0.24128827 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4198 53 0.24099638 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1824 53 0.24099638 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8384 55 0.24076879 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-5107 56 0.2404507 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8828 57 0.2346752 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5760 58 0.2342688 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4933 59 0.23406507 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-7626 60 0.23368376 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1619 61 0.2334196 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9087 62 0.2334055 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1984 63 0.23320818 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-183 64 0.23318708 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1921 65 0.2328019 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2069 66 0.23261191 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-2317 67 0.23244649 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8573 68 0.23218586 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8684 69 0.2321617 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-7762 70 0.23203379 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3177 71 0.22363183 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-3271 72 0.22343718 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3260 73 0.2230649 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1580 74 0.22301775 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9474 75 0.2225596 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1175 76 0.22178093 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-4026 77 0.20938328 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1157 78 0.20845655 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-6951 79 0.20800151 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-6246 80 0.20770061 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4220 81 0.20726374 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-9006 82 0.20666291 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-4206 83 0.20653436 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2657 84 0.20636913 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8606 85 0.20634747 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1066 86 0.20590742 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2211 87 0.20577541 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3642 88 0.18355253 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-2778 89 0.18247685 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5654 90 0.1818471 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-7329 91 0.18158983 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-7265 92 0.18131706 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5246 93 0.18117851 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8005 94 0.18114914 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-7747 95 0.18081044 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-5308 96 0.18067643 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2448 97 0.18053222 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5473 98 0.18052873 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2873 99 0.18049884 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2883 100 0.18043262 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1631 101 0.18022726 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-1040 102 0.18021405 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-9197 103 0.1798013 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-6516 104 0.13645694 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-8022 105 0.1349884 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-9152 106 0.13398892 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5868 107 0.13393235 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-834 108 0.13368528 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-1647 109 0.13366807 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2925 110 0.13354242 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3657 111 0.13342722 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-535 112 0.13340908 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-7764 113 0.13316287 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-3225 114 0.13306467 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-609 115 0.13281055 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-6124 116 0.13224867 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-248 117 0.13218945 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-7281 118 0.13161924 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-8261 119 0.13141362 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-2302 120 0.13138238 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod9-5091 121 0.13101158 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-5215 122 0.13086656 my_run
+httpexampleorgagent4profilecardme new associates hilpert278 mickey576 baptist buckridge80 Q0 vldb_pod20-80 123 0.13076457 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-64 1 1.6868197 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-1521 2 1.4234177 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-8909 3 1.3283807 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-8911 4 1.3204262 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-4875 5 1.082809 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3645 6 1.0653124 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7462 7 0.94708383 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7820 8 0.7050529 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-6619 9 0.41695392 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-9445 10 0.38181114 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3654 11 0.27552348 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7301 12 0.27112302 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7260 13 0.27073938 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1720 14 0.26846856 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-2495 15 0.26428586 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-9063 16 0.26087332 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-1937 17 0.26069948 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-4208 18 0.2599586 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-6509 19 0.2587404 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3042 20 0.25614175 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-6045 21 0.25551876 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1049 22 0.2546032 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7986 23 0.25389192 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-2607 24 0.25388396 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7707 25 0.25115773 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-8035 26 0.25088322 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-9035 27 0.25079206 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-6046 28 0.25042918 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-125 29 0.24744242 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3290 30 0.24721023 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7222 31 0.24698202 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7356 32 0.24691615 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-2521 33 0.24690713 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-8521 34 0.24591142 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-981 35 0.24575406 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-23 36 0.2427529 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-6307 37 0.24273536 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-2735 38 0.2423985 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6393 39 0.24168307 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-1748 40 0.24157503 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1006 41 0.24043532 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-8514 42 0.24012123 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5147 43 0.23548742 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3742 44 0.23500186 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7170 45 0.23437026 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3750 46 0.23368248 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7213 47 0.23341346 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-4659 48 0.23324254 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6613 49 0.23289606 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5014 50 0.23281342 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-273 51 0.23239121 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3517 52 0.2245968 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7430 53 0.2243374 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1020 54 0.22411966 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7739 55 0.2229718 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3835 56 0.22233006 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5817 57 0.22178128 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-9187 58 0.2217798 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-263 59 0.22177735 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-8688 60 0.22164586 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3361 61 0.22148296 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-2508 62 0.22137164 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-8155 63 0.20931984 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3406 64 0.20851783 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-2558 65 0.20815942 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7855 66 0.20744573 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-742 67 0.20737958 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-2297 68 0.20708296 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7038 69 0.20688999 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3800 70 0.20686385 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6900 71 0.20661603 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-9071 72 0.20628329 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-9133 73 0.20618409 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5008 74 0.20567316 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-625 75 0.18363698 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3074 76 0.18329394 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-469 77 0.18320745 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-368 78 0.18278739 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-100 79 0.18224204 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-9101 80 0.18136702 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7630 81 0.18125474 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-4788 82 0.18107739 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7786 83 0.18103743 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-846 84 0.18096688 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-7961 85 0.18061624 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-4419 86 0.18033898 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5319 87 0.17990828 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-884 88 0.1798013 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3587 89 0.13559376 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-3893 90 0.13558875 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-5649 91 0.13492513 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6390 92 0.13385518 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3677 93 0.13362494 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7616 94 0.13332067 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-5499 95 0.13293996 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3344 96 0.13282809 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7586 97 0.13263562 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1650 98 0.1326171 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-3783 99 0.13253193 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-4539 100 0.13239269 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-4456 101 0.13155603 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1813 102 0.1314071 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6858 103 0.13139696 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod25-4863 104 0.13128601 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-6640 105 0.13102531 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-7402 106 0.13101158 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-326 107 0.13100979 my_run
+httpexampleorgagent4profilecardme physicians corporation associated strosin214 beth faculty Q0 vldb_pod48-1399 108 0.130886 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-772 1 0.9601071 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4319 2 0.92329705 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-3695 3 0.83285844 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6304 4 0.8176339 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2547 5 0.70847654 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-4945 6 0.6279708 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-7683 7 0.55686903 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-8728 8 0.5247257 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6185 9 0.5208761 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-9180 10 0.51552594 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8365 11 0.5154235 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1009 12 0.5152762 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-852 13 0.51156497 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5483 14 0.5087677 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-3514 15 0.5028324 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-1292 16 0.50063497 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-4953 17 0.5003167 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5090 18 0.49371135 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5989 19 0.49143642 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-7184 20 0.49116454 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-825 21 0.4848456 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8596 22 0.48382077 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1093 23 0.48203126 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-3335 24 0.48123467 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-2575 25 0.4807487 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5947 26 0.47984642 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-174 27 0.46775058 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-6557 28 0.46606869 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6230 29 0.46409577 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6632 30 0.46103713 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-1422 31 0.45031625 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-249 32 0.4470964 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5034 33 0.4470824 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5905 34 0.44412863 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-7594 35 0.4432435 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1396 36 0.41648346 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-5689 37 0.41397023 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6746 38 0.39057887 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-723 39 0.37804842 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8050 40 0.36935186 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-2660 41 0.36476302 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-3791 42 0.3636942 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-6703 43 0.36060676 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-8208 44 0.3596026 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-6562 44 0.3596026 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-5071 46 0.28432006 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-767 47 0.2828786 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6406 48 0.26819053 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-8369 49 0.26768732 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8394 50 0.26767597 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1545 51 0.26699033 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2207 52 0.26463598 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4504 53 0.26391453 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-453 54 0.26388723 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-5190 55 0.26339558 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-3020 56 0.262758 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6749 57 0.2604674 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-916 58 0.26034734 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-8203 59 0.25822818 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6152 60 0.25821254 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-3886 61 0.25821018 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-2822 62 0.25569418 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4791 63 0.2551218 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-7068 64 0.25501055 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-480 65 0.25495186 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2342 66 0.25224102 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-562 67 0.25153273 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-5831 68 0.25084636 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2916 69 0.25025943 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5168 70 0.24721493 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-664 71 0.24707387 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-9305 72 0.24667315 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2961 73 0.2463527 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4097 74 0.24586257 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-3487 75 0.2458283 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2442 76 0.24207938 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8415 77 0.24190445 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6681 78 0.24078117 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8712 79 0.24045359 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-7623 80 0.24040285 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-2100 81 0.24013858 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4438 82 0.23433474 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-140 83 0.23427592 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5792 84 0.23417598 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-7076 85 0.2325491 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-281 86 0.23244649 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6574 87 0.22488585 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-5089 88 0.22461253 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-887 89 0.22290838 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8137 90 0.22290137 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8877 91 0.22271265 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-2778 92 0.22252908 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4112 93 0.22175914 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2438 94 0.22173706 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-8901 95 0.20963906 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-9151 96 0.20800151 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-3512 97 0.20751218 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-849 98 0.20619908 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-2978 99 0.20618278 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-4280 100 0.20594479 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-4064 101 0.18194267 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1033 102 0.18190631 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-526 103 0.18127482 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6373 104 0.18117851 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-4940 105 0.18104321 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-5620 106 0.13543001 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-7105 107 0.13503587 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-6104 108 0.13436046 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6539 109 0.13407767 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-7210 110 0.13289055 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-8599 111 0.13196427 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-7717 112 0.13191566 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-1886 113 0.13181359 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod6-9189 114 0.13180822 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-3098 115 0.1317849 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-6806 116 0.13076457 my_run
+httpexampleorgagent4profilecardme internal associates satterfield305 hintz995 eichmann909 waldo53 Q0 vldb_pod32-1691 116 0.13076457 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9217 1 1.374544 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7229 2 1.1388556 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8664 3 0.98840624 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2783 4 0.8284703 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2868 5 0.72963965 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4076 6 0.5491438 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9093 7 0.54354095 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7489 8 0.5089313 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-4599 9 0.49544674 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8938 10 0.40008765 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8735 11 0.39577731 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3311 12 0.39495194 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-480 13 0.3934446 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4206 14 0.33857703 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2873 15 0.3120026 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4830 16 0.27522638 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7199 17 0.27179578 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1650 18 0.26683763 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4700 19 0.263492 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7281 20 0.2632385 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6529 21 0.26296958 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-518 22 0.26238683 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-400 23 0.2617076 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1739 24 0.26156312 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2428 25 0.2605489 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-4093 26 0.25969908 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5118 27 0.25871944 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7168 28 0.25840637 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6521 29 0.25804862 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6674 30 0.25780758 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2956 31 0.256859 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-4385 32 0.25540942 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2645 33 0.254879 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-4578 34 0.25466365 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2709 35 0.25421154 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5559 36 0.25265968 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4721 37 0.2516597 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1555 38 0.25144157 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8667 39 0.25127566 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7412 40 0.25116348 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6876 41 0.25110233 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6840 42 0.25047356 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1445 43 0.2503853 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5396 44 0.24834068 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6600 45 0.24816132 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8573 46 0.24758749 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8171 47 0.2474197 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9485 48 0.24722159 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5556 49 0.24708211 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-17 50 0.24674529 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-9259 51 0.24655744 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4696 52 0.24654667 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6649 53 0.24648471 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7938 54 0.2463303 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1414 55 0.24601954 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3700 56 0.24600607 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8699 57 0.24595842 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-3661 58 0.24560964 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1262 59 0.24196213 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2316 60 0.2414305 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6176 61 0.24136865 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6188 62 0.24128827 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8238 63 0.2412453 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1824 64 0.24099638 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4198 64 0.24099638 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8384 66 0.24076879 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-5107 67 0.2404507 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-5686 68 0.24023724 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-5844 69 0.23491782 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8828 70 0.2346752 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5760 71 0.2342688 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9197 72 0.23417142 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7626 73 0.23368376 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-5502 74 0.23367439 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1619 75 0.2334196 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9087 76 0.2334055 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1984 77 0.23320818 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-183 78 0.23318708 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8003 79 0.23281889 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1921 80 0.2328019 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7747 81 0.23267192 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2069 82 0.23261191 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8573 83 0.23218586 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8684 84 0.2321617 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8770 85 0.22436619 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3177 86 0.22363183 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7783 87 0.22347695 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3260 88 0.2230649 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1975 89 0.22239867 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1833 90 0.22197998 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-9355 91 0.22156459 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-4026 92 0.20938328 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1157 93 0.20845655 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2493 94 0.20843169 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-769 95 0.208411 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3724 96 0.20823643 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6592 97 0.20801023 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-6951 98 0.20800151 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-574 99 0.20791402 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6246 100 0.20770061 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2298 101 0.20747465 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-3130 102 0.20737937 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4220 103 0.20726374 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-9006 104 0.20666291 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2657 105 0.20636913 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8606 106 0.20634747 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1066 107 0.20590742 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7125 108 0.2057521 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2950 109 0.20554763 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1473 110 0.2054872 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8076 111 0.18475778 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-699 112 0.18377724 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1969 113 0.18366367 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3642 114 0.18355253 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3428 115 0.18320397 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1649 116 0.18276918 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-2778 117 0.18247685 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6717 118 0.18232319 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8168 119 0.18201041 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-344 120 0.18179783 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7329 121 0.18158983 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5246 122 0.18117851 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8005 123 0.18114914 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8062 124 0.18090548 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8547 125 0.1802842 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-1040 126 0.18021405 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-651 127 0.18007173 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-9197 128 0.1798013 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1452 129 0.13668048 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8030 130 0.13510366 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-8022 131 0.1349884 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6316 132 0.13406469 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6255 133 0.13382494 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4 134 0.13379899 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-834 135 0.13368528 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-1647 136 0.13366807 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2925 137 0.13354242 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3657 138 0.13342722 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-535 139 0.13340908 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2003 140 0.1332477 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7764 141 0.13316287 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3225 142 0.13306467 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-4674 143 0.13301311 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-609 144 0.13281055 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-6124 145 0.13224867 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-248 146 0.13218945 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8471 147 0.13190576 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2882 148 0.13171467 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2883 149 0.1314335 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-8261 150 0.13141362 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-2302 151 0.13138238 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-3385 152 0.13124762 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-3587 153 0.1311062 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-7505 154 0.13102531 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod9-5091 155 0.13101158 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-5215 156 0.13086656 my_run
+httpexampleorgagent4profilecardme services england associates mickey576 gerlach374 baptist buckridge80 Q0 vldb_pod20-7215 157 0.13076457 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod36-7984 1 0.26561108 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod29-871 2 0.25959378 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod17-2410 3 0.25753716 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod3-2823 4 0.25447676 my_run
+httpexampleorgagent4profilecardme sheryl275 35969 Q0 vldb_pod3-9112 5 0.24157503 my_run

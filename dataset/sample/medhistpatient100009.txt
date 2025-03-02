@@ -1,0 +1,38 @@
+Claris36 Lorinda137 Hintz995
+============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 29
+Birth Date:          1995-01-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2023-04-03 -            : Stress (finding)
+  2020-03-30 -            : Part-time employment (finding)
+  2015-09-20 -            : Past pregnancy history of miscarriage (situation)
+  2013-03-18 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2023-04-03 (Dr. Isaac321 Kub800) : Encounter at PLYMOUTH CARVER PRIMARY CARE, P.C.
+2020-03-30 (Dr. Isaac321 Kub800) : Encounter at PLYMOUTH CARVER PRIMARY CARE, P.C.
+2015-09-20 (Dr. Winston220 McCullough561) : Encounter at BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC : Encounter for Complete miscarriage (disorder)
+2013-03-18 (Dr. Isaac321 Kub800) : Encounter at PLYMOUTH CARVER PRIMARY CARE, P.C.
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------
