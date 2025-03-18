@@ -53,3 +53,16 @@ Our experiments simulate a **decentralized federated health data network**, wher
 - Community Solid Server (CSS) for decentralized data stores
 - Python (optional) for metadata processing and Bloom filter evaluation
 
+### Citation
+If you use this code or dataset in your research, please cite our paper:
+
+@article{ragab2025exploring,
+  author    = {Mohamed Ragab and Helen Oliver and Mohammad Bahrani and Alexandra Poulovassilis and Thanassis Tiropanis and Adriane Chapman and George Roussos},
+  title     = {Exploring the Performance of Scalable Keyword Search on Decentralized Data with Differential Visibility Constraints},
+  journal   = {PVLDB},
+  year      = {2025},
+  volume    = {14},
+  number    = {1},
+  pages     = {XX-XX},
+  doi       = {XX.XX/XXX.XX}
+}
