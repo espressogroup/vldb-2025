@@ -27,6 +27,13 @@ The architecture of our ESPRESSO framework consists of four main components:
 ![ESPRESSO Architecture](Figs-Plots/figures/ESPRESSOArchRepo.png)
 
 
+## System Demo
+
+Here is a short GIF showing how the system works:
+
+![System Demonstration](images/system_demo.gif)
+
+
 <!-- ## Experimental Setup
 
 Our experiments simulate a **decentralized federated health data network**, where patients' medical records are stored in **Personal Online Data Stores (Pods)** hosted on **Solid servers**. The experimental configuration includes:
