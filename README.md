@@ -31,7 +31,10 @@ The architecture of our ESPRESSO framework consists of four main components:
 
 Here is a short GIF showing how the system works:
 
-![System Demonstration](Figs-Plots/figures/Demo.gif)
+<p align="center">
+  <img src="images/system_demo.gif" height="500" width="800" alt="System Demonstration">
+</p>
+
 
 
 <!-- ## Experimental Setup
