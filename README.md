@@ -39,11 +39,17 @@ Our experiments simulate a **decentralized federated health data network**, wher
   3. Fetching results from indexed personal data stores (pods).
   4. Aggregating and ranking results based on **BM25 scoring**.
 
-## Results Summary
-
-- **Metadata-driven search reduces execution time** by a factor of **4.3× to 24.0×**, depending on access levels.
-- **Selective metadata disclosure (Bloom Filters)** balances privacy with search efficiency.
-- **Decentralized ranking ensures retrieval quality comparable to centralized search**.
-
 ## Repository Structure
+📂 SourceCode/           # Source code for indexing, search, and query processing
+📂 Figs-Plots/           # Figures and Experiments Plots
+📂 dataset/              # Sample dataset
+📂 docs/                 # Paper Appendix, results, and other supplementary materials
+📜 README.md             # Project overview and setup instructions
+📜 requirements.txt      # Dependencies for running the code
+
+### Prerequisites
+- Node.js with `Axios` for HTTP requests
+- Apache Lucene for indexing
+- Community Solid Server (CSS) for decentralized data stores
+- Python (optional) for metadata processing and Bloom filter evaluation
 
