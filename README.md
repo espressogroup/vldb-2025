@@ -61,6 +61,7 @@ Our experiments simulate a **decentralized federated health data network**, wher
 - Node.js with `Axios` for HTTP requests
 - Apache Lucene for indexing
 - Community Solid Server (CSS) for decentralized data stores
+- IBM GainDB [https://github.com/gaiandb/gaiandb]
 - Python (optional) for metadata processing and Bloom filter evaluation
 
 ### Citation
