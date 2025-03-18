@@ -16,7 +16,18 @@ This repository contains the source code, data, and supplementary materials for 
 - **Scalability and Efficiency**: Our experiments demonstrate that **metadata-driven search significantly reduces execution time while maintaining retrieval quality comparable to centralized methods**.
 - **Real-World Inspired Deployment**: We test our approach in a **federated healthcare data network**, evaluating performance trade-offs between efficiency, privacy, and scalability.
 
-## Experimental Setup
+## Architecture Overview
+
+The architecture of our ESPRESSO framework consists of four main components:
+1. **Indexing app** - A Solid application that indexes data stores and maintains pod indexes.
+2. **Search app** - Performs searches across Solid servers’ pods.
+3. **Overlay network** - Connects multiple Solid servers hosting data stores.
+4. **Metadata manager** - Keeps the source selection metadata up-to-date.
+
+![ESPRESSO Architecture](figs-plots/figures/ESPRESSOArchRepo.png)
+
+
+<!-- ## Experimental Setup
 
 Our experiments simulate a **decentralized federated health data network**, where patients' medical records are stored in **Personal Online Data Stores (Pods)** hosted on **Solid servers**. The experimental configuration includes:
 
@@ -24,7 +35,7 @@ Our experiments simulate a **decentralized federated health data network**, wher
 - **Synthetic healthcare dataset** generated using **Synthea**.
 - **Differential access control** assigned to search parties (ranging from 5% to 100% access levels).
 - **Search engine** implemented using **Apache Lucene**.
-- **Decentralized ranking mechanism** leveraging **BM25 and metadata-aware ranking**.
+- **Decentralized ranking mechanism** leveraging **BM25 and metadata-aware ranking**. -->
 
 ## Implementation Details
 
