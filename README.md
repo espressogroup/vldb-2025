@@ -52,16 +52,14 @@ Our experiments simulate a **decentralized federated health data network**, wher
 ## Repository Structure
 
 📂 SourceCode/           # Source code for indexing, search, and query processing  
-<br> 
+
 📂 Figs-Plots/           # Figures and Experiments Plots  
-<br> 
+
 📂 dataset/              # Sample dataset  
-<br> 
+
 📂 docs/                 # Paper Appendix, results, and other supplementary materials  
-<br> 
+
 📜 README.md             # Project overview and setup instructions  
-<br> 
-📜 requirements.txt      # Dependencies for running the code 
 
 ### Prerequisites
 - Node.js with `Axios` for HTTP requests
