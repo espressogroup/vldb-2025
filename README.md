@@ -49,14 +49,19 @@ Our experiments simulate a **decentralized federated health data network**, wher
   2. Selecting relevant pods within each server based on **server-level metadata**.
   3. Fetching results from indexed personal data stores (pods).
   4. Aggregating and ranking results based on **BM25 scoring**.
-
 ## Repository Structure
-📂 SourceCode/           # Source code for indexing, search, and query processing
-📂 Figs-Plots/           # Figures and Experiments Plots
-📂 dataset/              # Sample dataset
-📂 docs/                 # Paper Appendix, results, and other supplementary materials
-📜 README.md             # Project overview and setup instructions
-📜 requirements.txt      # Dependencies for running the code
+
+📂 SourceCode/           # Source code for indexing, search, and query processing  
+<br> 
+📂 Figs-Plots/           # Figures and Experiments Plots  
+<br> 
+📂 dataset/              # Sample dataset  
+<br> 
+📂 docs/                 # Paper Appendix, results, and other supplementary materials  
+<br> 
+📜 README.md             # Project overview and setup instructions  
+<br> 
+📜 requirements.txt      # Dependencies for running the code 
 
 ### Prerequisites
 - Node.js with `Axios` for HTTP requests
