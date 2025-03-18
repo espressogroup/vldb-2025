@@ -52,13 +52,9 @@ Our experiments simulate a **decentralized federated health data network**, wher
 ## Repository Structure
 
 📂 SourceCode/           # Source code for indexing, search, and query processing  
-
 📂 Figs-Plots/           # Figures and Experiments Plots  
-
 📂 dataset/              # Sample dataset  
-
 📂 docs/                 # Paper Appendix, results, and other supplementary materials  
-
 📜 README.md             # Project overview and setup instructions  
 
 ### Prerequisites
